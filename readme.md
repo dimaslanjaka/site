@@ -5,9 +5,9 @@ npm run server
 ```
 
 ## Structure
-> xml  [../xml/test.xml](https://github.com/dimaslanjaka/hexo-blogger-xml/tree/compiler/xml/)
+> xml  [xml/test.xml](https://github.com/dimaslanjaka/hexo-blogger-xml/tree/compiler/xml/)
 >
-> Output [source/_posts](https://github.com/dimaslanjaka/hexo-blogger-xml/tree/compiler/demo/source/_posts)
+> Output [source/_posts](https://github.com/dimaslanjaka/site/source/_posts)
 
 ## install
 ```shell
