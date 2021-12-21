@@ -170,5 +170,6 @@ seo:
       - webmanajemen.com
       - web-manajemen.blogspot.com
       - dimaslanjaka.github.io
-  sitemap:
-    path: "sitemap.xml"
+  # auto generate seo friendly sitemap on http://yoursite.com/sitemap.xml
+  # forked from yoast seo
+  sitemap: true
