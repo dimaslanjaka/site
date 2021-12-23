@@ -1,12 +1,12 @@
 ---
 title: Post 918
-date: 2015-11-27T04:38:22+07:00
+date: 2013-08-29T20:39:44+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-03-14T23:32:18+07:00
+  - uncategorized
+updated: 2012-06-23T15:21:10+07:00
 
 This is content of post 918

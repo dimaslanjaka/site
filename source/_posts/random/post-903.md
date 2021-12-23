@@ -1,12 +1,12 @@
 ---
 title: Post 903
-date: 2021-10-21T01:19:36+07:00
+date: 2019-10-16T14:44:30+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2012-04-24T20:40:44+07:00
+updated: 2014-10-23T14:46:06+07:00
 
 This is content of post 903

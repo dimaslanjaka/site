@@ -1,12 +1,12 @@
 ---
 title: Post 377
-date: 2015-07-09T19:11:51+07:00
+date: 2014-09-18T05:25:47+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-05-05T16:16:24+07:00
+  - uncategorized
+updated: 2013-09-08T04:27:48+07:00
 
 This is content of post 377

@@ -1,12 +1,12 @@
 ---
 title: Post 45
-date: 2016-07-08T10:00:12+07:00
+date: 2021-10-23T22:04:31+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-05-20T08:29:44+07:00
+  - uncategorized
+updated: 2019-05-01T08:57:11+07:00
 
 This is content of post 45

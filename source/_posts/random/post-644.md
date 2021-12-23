@@ -1,12 +1,12 @@
 ---
 title: Post 644
-date: 2016-08-28T12:10:44+07:00
+date: 2012-06-26T17:02:50+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-02-13T23:34:33+07:00
+  - uncategorized
+updated: 2012-01-12T16:27:25+07:00
 
 This is content of post 644

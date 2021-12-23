@@ -1,12 +1,12 @@
 ---
 title: Post 902
-date: 2019-08-19T16:37:20+07:00
+date: 2016-09-10T04:24:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2012-10-20T04:16:35+07:00
+updated: 2015-01-13T15:08:46+07:00
 
 This is content of post 902

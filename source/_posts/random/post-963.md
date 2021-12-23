@@ -1,12 +1,12 @@
 ---
 title: Post 963
-date: 2016-11-04T12:24:14+07:00
+date: 2012-07-23T18:50:08+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-06-04T12:16:30+07:00
+  - uncategorized
+updated: 2012-03-23T17:25:15+07:00
 
 This is content of post 963

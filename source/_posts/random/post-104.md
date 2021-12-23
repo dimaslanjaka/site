@@ -1,12 +1,12 @@
 ---
 title: Post 104
-date: 2016-02-27T17:49:31+07:00
+date: 2015-03-14T00:14:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2014-07-24T06:04:46+07:00
+updated: 2014-10-13T19:38:17+07:00
 
 This is content of post 104

@@ -1,12 +1,12 @@
 ---
 title: Post 937
-date: 2014-01-14T13:07:05+07:00
+date: 2018-03-08T01:36:15+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-01-04T01:12:32+07:00
+  - uncategorized
+updated: 2016-10-22T03:28:22+07:00
 
 This is content of post 937

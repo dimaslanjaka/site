@@ -1,12 +1,12 @@
 ---
 title: Post 782
-date: 2017-09-07T14:26:32+07:00
+date: 2016-10-03T07:20:14+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-28T03:44:07+07:00
+  - uncategorized
+updated: 2016-06-03T12:53:27+07:00
 
 This is content of post 782

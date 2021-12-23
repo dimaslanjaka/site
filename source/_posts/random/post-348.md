@@ -1,12 +1,12 @@
 ---
 title: Post 348
-date: 2020-11-08T12:01:55+07:00
+date: 2013-11-10T01:36:11+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2020-04-03T14:21:33+07:00
+  - uncategorized
+updated: 2012-08-25T10:41:04+07:00
 
 This is content of post 348

@@ -1,12 +1,12 @@
 ---
 title: Post 477
-date: 2018-04-09T23:48:23+07:00
+date: 2018-08-06T09:17:10+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2018-03-03T12:09:15+07:00
+  - uncategorized
+updated: 2014-06-17T01:29:14+07:00
 
 This is content of post 477

@@ -1,12 +1,12 @@
 ---
 title: Post 324
-date: 2012-03-22T14:11:03+07:00
+date: 2013-02-07T22:39:55+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-24T15:39:44+07:00
+  - uncategorized
+updated: 2013-01-28T20:53:41+07:00
 
 This is content of post 324

@@ -1,12 +1,12 @@
 ---
 title: Post 11
-date: 2016-01-30T17:35:44+07:00
+date: 2018-02-20T04:10:03+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-09-18T08:39:14+07:00
+  - uncategorized
+updated: 2016-03-07T07:26:09+07:00
 
 This is content of post 11

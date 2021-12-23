@@ -1,12 +1,12 @@
 ---
 title: Post 686
-date: 2021-09-13T02:16:50+07:00
+date: 2021-09-04T00:05:19+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-11-19T16:35:12+07:00
+  - uncategorized
+updated: 2015-11-09T12:55:27+07:00
 
 This is content of post 686

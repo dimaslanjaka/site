@@ -1,12 +1,12 @@
 ---
 title: Post 432
-date: 2021-03-16T15:16:20+07:00
+date: 2019-04-19T00:52:59+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-06-29T13:22:43+07:00
+  - uncategorized
+updated: 2012-09-16T07:15:34+07:00
 
 This is content of post 432

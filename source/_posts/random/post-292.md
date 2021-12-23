@@ -1,12 +1,12 @@
 ---
 title: Post 292
-date: 2016-10-05T14:22:17+07:00
+date: 2018-12-26T17:53:35+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-03-23T21:33:57+07:00
+  - uncategorized
+updated: 2012-11-21T07:20:18+07:00
 
 This is content of post 292

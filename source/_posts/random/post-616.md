@@ -1,12 +1,12 @@
 ---
 title: Post 616
-date: 2013-04-02T02:47:22+07:00
+date: 2018-04-12T07:20:36+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-06T04:09:44+07:00
+  - uncategorized
+updated: 2013-01-08T10:46:58+07:00
 
 This is content of post 616

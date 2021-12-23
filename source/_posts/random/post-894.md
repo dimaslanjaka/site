@@ -1,12 +1,12 @@
 ---
 title: Post 894
-date: 2017-05-09T05:34:45+07:00
+date: 2020-12-27T21:34:12+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-09-12T03:57:15+07:00
+  - uncategorized
+updated: 2013-05-16T06:31:22+07:00
 
 This is content of post 894

@@ -1,12 +1,12 @@
 ---
 title: Post 759
-date: 2016-12-29T19:41:13+07:00
+date: 2012-03-15T22:33:20+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-08-28T21:16:07+07:00
+  - uncategorized
+updated: 2012-01-31T19:56:14+07:00
 
 This is content of post 759

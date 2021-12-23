@@ -1,12 +1,12 @@
 ---
 title: Post 977
-date: 2021-07-31T06:59:58+07:00
+date: 2016-06-05T16:16:03+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-06-12T09:44:30+07:00
+  - uncategorized
+updated: 2015-12-27T09:44:14+07:00
 
 This is content of post 977

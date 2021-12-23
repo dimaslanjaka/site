@@ -1,12 +1,12 @@
 ---
 title: Post 236
-date: 2019-02-10T15:34:29+07:00
+date: 2018-01-01T08:14:21+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-08-28T13:02:03+07:00
+  - uncategorized
+updated: 2014-07-02T20:56:41+07:00
 
 This is content of post 236

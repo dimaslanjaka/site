@@ -1,12 +1,12 @@
 ---
 title: Post 126
-date: 2018-01-05T10:13:28+07:00
+date: 2013-05-20T07:58:50+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-04-01T01:58:31+07:00
+  - uncategorized
+updated: 2012-05-15T03:48:04+07:00
 
 This is content of post 126

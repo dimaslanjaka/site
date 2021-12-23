@@ -1,12 +1,12 @@
 ---
 title: Post 768
-date: 2012-09-16T08:31:25+07:00
+date: 2014-06-02T05:57:59+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-01-26T22:04:10+07:00
+  - uncategorized
+updated: 2012-10-26T21:05:48+07:00
 
 This is content of post 768

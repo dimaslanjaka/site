@@ -1,12 +1,12 @@
 ---
 title: Post 374
-date: 2015-04-23T05:42:18+07:00
+date: 2021-12-20T02:15:47+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-06-19T17:20:40+07:00
+  - uncategorized
+updated: 2014-10-25T05:00:24+07:00
 
 This is content of post 374

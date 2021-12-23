@@ -1,12 +1,12 @@
 ---
 title: Post 872
-date: 2018-08-21T20:09:21+07:00
+date: 2021-11-23T21:47:43+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-08-26T07:36:11+07:00
+  - uncategorized
+updated: 2020-12-26T08:07:57+07:00
 
 This is content of post 872

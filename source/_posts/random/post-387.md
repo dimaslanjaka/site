@@ -1,12 +1,12 @@
 ---
 title: Post 387
-date: 2012-09-26T19:05:28+07:00
+date: 2019-09-03T14:13:58+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-03-19T14:25:47+07:00
+  - uncategorized
+updated: 2015-03-24T16:04:18+07:00
 
 This is content of post 387

@@ -1,12 +1,12 @@
 ---
 title: Post 19
-date: 2016-12-31T03:50:41+07:00
+date: 2019-07-22T17:22:55+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-07-05T16:51:42+07:00
+  - uncategorized
+updated: 2016-02-24T06:44:34+07:00
 
 This is content of post 19

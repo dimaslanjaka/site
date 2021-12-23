@@ -1,12 +1,12 @@
 ---
 title: Post 699
-date: 2016-07-09T14:57:19+07:00
+date: 2021-02-25T10:01:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-07-16T11:36:51+07:00
+  - uncategorized
+updated: 2019-04-10T07:44:08+07:00
 
 This is content of post 699

@@ -1,12 +1,12 @@
 ---
 title: Post 62
-date: 2019-11-16T14:13:30+07:00
+date: 2013-11-21T00:42:42+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2019-03-28T04:14:03+07:00
+  - uncategorized
+updated: 2013-09-09T10:03:47+07:00
 
 This is content of post 62

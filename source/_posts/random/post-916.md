@@ -1,12 +1,12 @@
 ---
 title: Post 916
-date: 2019-12-25T22:46:04+07:00
+date: 2014-12-23T19:20:34+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-05-10T01:20:40+07:00
+  - uncategorized
+updated: 2012-11-05T18:21:41+07:00
 
 This is content of post 916

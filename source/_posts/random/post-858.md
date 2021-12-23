@@ -1,12 +1,12 @@
 ---
 title: Post 858
-date: 2017-01-26T05:55:43+07:00
+date: 2020-09-18T12:37:14+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2015-07-16T19:19:32+07:00
+  - uncategorized
+updated: 2013-12-28T18:16:01+07:00
 
 This is content of post 858

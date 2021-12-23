@@ -1,12 +1,12 @@
 ---
 title: Post 381
-date: 2018-12-13T07:05:12+07:00
+date: 2013-07-10T22:50:38+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-02-13T04:02:48+07:00
+  - uncategorized
+updated: 2013-06-06T12:02:13+07:00
 
 This is content of post 381

@@ -1,12 +1,12 @@
 ---
 title: Post 587
-date: 2015-12-01T22:56:24+07:00
+date: 2013-09-04T16:05:28+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-05-13T21:30:58+07:00
+  - uncategorized
+updated: 2013-02-25T09:16:28+07:00
 
 This is content of post 587

@@ -1,12 +1,12 @@
 ---
 title: Post 112
-date: 2020-10-19T00:19:23+07:00
+date: 2014-10-16T02:36:10+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-06-23T15:21:40+07:00
+  - uncategorized
+updated: 2012-01-02T14:37:04+07:00
 
 This is content of post 112

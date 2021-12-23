@@ -1,12 +1,12 @@
 ---
 title: Post 835
-date: 2020-01-23T10:34:44+07:00
+date: 2020-09-13T16:57:03+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2015-03-01T19:08:58+07:00
+  - uncategorized
+updated: 2019-11-22T02:44:45+07:00
 
 This is content of post 835

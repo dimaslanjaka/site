@@ -1,12 +1,12 @@
 ---
 title: Post 174
-date: 2015-01-27T09:04:08+07:00
+date: 2019-04-28T08:27:01+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-11T14:28:29+07:00
+  - uncategorized
+updated: 2016-11-27T12:51:22+07:00
 
 This is content of post 174

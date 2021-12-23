@@ -1,12 +1,12 @@
 ---
 title: Post 513
-date: 2017-02-26T22:03:38+07:00
+date: 2012-05-08T03:36:17+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2015-02-19T10:23:15+07:00
+  - uncategorized
+updated: 2012-03-15T18:48:30+07:00
 
 This is content of post 513

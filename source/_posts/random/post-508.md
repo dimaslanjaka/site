@@ -1,12 +1,12 @@
 ---
 title: Post 508
-date: 2015-07-16T10:18:57+07:00
+date: 2015-09-05T10:51:34+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - post has 0
-updated: 2014-07-29T03:30:04+07:00
+updated: 2012-09-10T08:46:35+07:00
 
 This is content of post 508

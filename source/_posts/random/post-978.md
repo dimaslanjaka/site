@@ -1,12 +1,12 @@
 ---
 title: Post 978
-date: 2018-12-22T21:44:38+07:00
+date: 2020-08-27T17:53:05+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-07-04T06:04:35+07:00
+  - uncategorized
+updated: 2017-07-23T12:00:10+07:00
 
 This is content of post 978

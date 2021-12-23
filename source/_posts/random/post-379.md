@@ -1,12 +1,12 @@
 ---
 title: Post 379
-date: 2016-01-14T06:36:53+07:00
+date: 2018-04-13T23:35:23+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-03-28T12:21:00+07:00
+  - uncategorized
+updated: 2015-07-12T15:16:15+07:00
 
 This is content of post 379

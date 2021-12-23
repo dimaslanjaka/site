@@ -1,12 +1,12 @@
 ---
 title: Post 847
-date: 2017-06-07T03:06:31+07:00
+date: 2020-11-29T09:48:24+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-08T23:10:16+07:00
+  - uncategorized
+updated: 2017-10-23T11:23:30+07:00
 
 This is content of post 847

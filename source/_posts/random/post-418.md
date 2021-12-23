@@ -1,12 +1,12 @@
 ---
 title: Post 418
-date: 2019-12-28T02:02:54+07:00
+date: 2019-09-07T07:08:05+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-08-19T12:37:20+07:00
+  - uncategorized
+updated: 2017-08-27T21:11:16+07:00
 
 This is content of post 418

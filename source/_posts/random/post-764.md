@@ -1,12 +1,12 @@
 ---
 title: Post 764
-date: 2013-05-18T11:42:00+07:00
+date: 2012-09-18T15:48:14+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-10-20T21:10:01+07:00
+  - uncategorized
+updated: 2012-05-25T16:08:15+07:00
 
 This is content of post 764

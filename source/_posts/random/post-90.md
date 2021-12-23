@@ -1,12 +1,12 @@
 ---
 title: Post 90
-date: 2021-11-16T02:01:05+07:00
+date: 2015-05-15T10:37:00+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2015-07-25T03:22:15+07:00
+updated: 2013-06-23T01:35:31+07:00
 
 This is content of post 90

@@ -1,12 +1,12 @@
 ---
 title: Post 188
-date: 2020-06-02T14:00:40+07:00
+date: 2017-08-05T20:04:08+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-12-07T03:01:14+07:00
+  - uncategorized
+updated: 2013-11-09T12:06:54+07:00
 
 This is content of post 188

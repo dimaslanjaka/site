@@ -1,12 +1,12 @@
 ---
 title: Post 711
-date: 2017-01-16T10:45:54+07:00
+date: 2013-05-03T15:26:02+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-05-16T20:41:25+07:00
+  - uncategorized
+updated: 2012-06-17T03:34:13+07:00
 
 This is content of post 711

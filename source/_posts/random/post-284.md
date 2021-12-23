@@ -1,12 +1,12 @@
 ---
 title: Post 284
-date: 2021-10-15T03:57:54+07:00
+date: 2014-04-13T01:56:12+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-03-18T16:21:42+07:00
+  - uncategorized
+updated: 2012-08-18T21:14:24+07:00
 
 This is content of post 284

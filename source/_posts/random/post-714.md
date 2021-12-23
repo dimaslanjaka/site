@@ -1,12 +1,12 @@
 ---
 title: Post 714
-date: 2019-03-10T12:10:02+07:00
+date: 2012-11-21T03:30:44+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-03-18T02:19:44+07:00
+  - uncategorized
+updated: 2012-11-09T14:08:18+07:00
 
 This is content of post 714

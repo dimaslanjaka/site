@@ -1,12 +1,12 @@
 ---
 title: Post 26
-date: 2015-11-03T09:13:49+07:00
+date: 2012-12-18T00:00:35+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-05-11T05:39:53+07:00
+  - uncategorized
+updated: 2012-12-16T21:03:39+07:00
 
 This is content of post 26

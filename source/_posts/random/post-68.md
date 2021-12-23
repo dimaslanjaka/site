@@ -1,12 +1,12 @@
 ---
 title: Post 68
-date: 2012-09-20T11:40:30+07:00
+date: 2014-12-20T12:00:56+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-05-07T20:28:02+07:00
+  - uncategorized
+updated: 2013-10-14T17:14:57+07:00
 
 This is content of post 68

@@ -1,12 +1,12 @@
 ---
 title: Post 944
-date: 2016-11-30T17:34:19+07:00
+date: 2014-09-30T09:29:06+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-01-24T03:49:30+07:00
+  - uncategorized
+updated: 2013-05-30T13:15:47+07:00
 
 This is content of post 944

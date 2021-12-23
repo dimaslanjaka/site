@@ -1,12 +1,12 @@
 ---
 title: Post 328
-date: 2019-01-21T07:53:11+07:00
+date: 2012-01-04T02:14:19+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-10-31T18:57:39+07:00
+  - uncategorized
+updated: 2012-01-01T03:32:52+07:00
 
 This is content of post 328

@@ -1,12 +1,12 @@
 ---
 title: Post 30
-date: 2012-04-27T22:14:02+07:00
+date: 2019-09-15T21:06:32+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2012-02-26T00:03:53+07:00
+updated: 2014-04-11T09:26:33+07:00
 
 This is content of post 30

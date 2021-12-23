@@ -1,12 +1,12 @@
 ---
 title: Post 542
-date: 2017-06-07T05:38:15+07:00
+date: 2019-12-14T23:01:21+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2016-01-07T19:22:45+07:00
+  - uncategorized
+updated: 2012-05-30T19:10:58+07:00
 
 This is content of post 542

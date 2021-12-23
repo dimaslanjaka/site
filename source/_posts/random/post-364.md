@@ -1,12 +1,12 @@
 ---
 title: Post 364
-date: 2014-11-12T16:46:08+07:00
+date: 2017-01-24T23:21:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-06T18:45:34+07:00
+  - uncategorized
+updated: 2012-02-19T07:35:13+07:00
 
 This is content of post 364

@@ -1,12 +1,12 @@
 ---
 title: Post 71
-date: 2014-08-20T16:06:51+07:00
+date: 2015-09-17T06:38:36+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-12-06T23:25:23+07:00
+  - uncategorized
+updated: 2012-02-22T21:51:39+07:00
 
 This is content of post 71

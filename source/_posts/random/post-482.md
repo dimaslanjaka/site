@@ -1,12 +1,12 @@
 ---
 title: Post 482
-date: 2019-03-21T01:31:08+07:00
+date: 2016-09-28T13:56:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-02-06T21:53:38+07:00
+  - uncategorized
+updated: 2013-07-08T02:40:55+07:00
 
 This is content of post 482

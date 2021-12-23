@@ -1,12 +1,12 @@
 ---
 title: Post 247
-date: 2013-07-08T23:43:04+07:00
+date: 2017-07-30T06:03:01+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-03-29T19:10:34+07:00
+  - uncategorized
+updated: 2014-09-17T03:13:21+07:00
 
 This is content of post 247

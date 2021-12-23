@@ -1,12 +1,12 @@
 ---
 title: Post 481
-date: 2016-12-11T13:37:00+07:00
+date: 2018-04-27T10:21:44+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-12-04T14:39:46+07:00
+  - uncategorized
+updated: 2018-04-24T21:29:17+07:00
 
 This is content of post 481

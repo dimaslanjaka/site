@@ -1,12 +1,12 @@
 ---
 title: Post 166
-date: 2021-02-19T17:23:51+07:00
+date: 2016-07-07T01:37:14+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2019-06-24T08:13:18+07:00
+  - uncategorized
+updated: 2012-11-22T22:56:08+07:00
 
 This is content of post 166

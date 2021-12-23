@@ -1,12 +1,12 @@
 ---
 title: Post 393
-date: 2015-02-25T12:04:23+07:00
+date: 2016-06-15T08:26:00+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-04-21T05:13:00+07:00
+  - uncategorized
+updated: 2012-01-06T17:58:26+07:00
 
 This is content of post 393

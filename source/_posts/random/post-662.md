@@ -1,12 +1,12 @@
 ---
 title: Post 662
-date: 2018-10-04T21:44:01+07:00
+date: 2021-08-06T15:40:23+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-11T12:39:35+07:00
+  - uncategorized
+updated: 2020-06-04T21:20:50+07:00
 
 This is content of post 662

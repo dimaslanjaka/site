@@ -1,12 +1,12 @@
 ---
 title: Post 349
-date: 2020-05-16T03:18:05+07:00
+date: 2019-06-21T23:39:08+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-10-19T08:14:23+07:00
+  - uncategorized
+updated: 2014-03-14T17:31:42+07:00
 
 This is content of post 349

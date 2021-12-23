@@ -1,12 +1,12 @@
 ---
 title: Post 733
-date: 2018-01-14T18:24:48+07:00
+date: 2014-03-25T06:11:48+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-06-17T09:02:06+07:00
+  - uncategorized
+updated: 2012-07-19T07:12:23+07:00
 
 This is content of post 733

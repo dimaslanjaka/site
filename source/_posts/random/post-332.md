@@ -1,12 +1,12 @@
 ---
 title: Post 332
-date: 2014-09-18T18:12:55+07:00
+date: 2018-01-30T13:01:12+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-03-30T18:31:56+07:00
+  - uncategorized
+updated: 2015-04-04T18:19:25+07:00
 
 This is content of post 332

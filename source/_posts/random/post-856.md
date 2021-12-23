@@ -1,12 +1,12 @@
 ---
 title: Post 856
-date: 2015-12-09T10:10:15+07:00
+date: 2020-06-20T11:06:41+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-02-13T23:30:14+07:00
+  - uncategorized
+updated: 2018-08-08T18:13:13+07:00
 
 This is content of post 856

@@ -1,12 +1,12 @@
 ---
 title: Post 974
-date: 2017-07-14T22:52:33+07:00
+date: 2021-02-05T18:12:10+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-11-24T13:21:44+07:00
+  - uncategorized
+updated: 2015-05-28T09:27:45+07:00
 
 This is content of post 974

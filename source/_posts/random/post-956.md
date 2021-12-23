@@ -1,12 +1,12 @@
 ---
 title: Post 956
-date: 2013-11-08T00:55:01+07:00
+date: 2012-08-03T11:23:50+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-08-23T21:00:51+07:00
+  - uncategorized
+updated: 2012-05-14T03:51:47+07:00
 
 This is content of post 956

@@ -1,12 +1,12 @@
 ---
 title: Post 136
-date: 2013-03-08T00:16:17+07:00
+date: 2014-05-18T06:13:30+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-11-02T06:38:23+07:00
+  - uncategorized
+updated: 2012-01-04T12:11:00+07:00
 
 This is content of post 136

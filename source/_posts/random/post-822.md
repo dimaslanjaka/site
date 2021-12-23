@@ -1,12 +1,12 @@
 ---
 title: Post 822
-date: 2015-09-14T02:08:51+07:00
+date: 2017-10-13T15:21:26+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-01-18T02:16:47+07:00
+  - uncategorized
+updated: 2015-05-06T00:14:46+07:00
 
 This is content of post 822

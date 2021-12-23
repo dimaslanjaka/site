@@ -1,12 +1,12 @@
 ---
 title: Post 914
-date: 2017-02-05T14:10:24+07:00
+date: 2017-08-19T23:56:28+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-11-22T13:06:01+07:00
+  - uncategorized
+updated: 2013-09-02T13:17:18+07:00
 
 This is content of post 914

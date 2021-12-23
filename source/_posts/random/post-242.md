@@ -1,12 +1,12 @@
 ---
 title: Post 242
-date: 2014-06-05T05:13:34+07:00
+date: 2018-07-16T00:22:52+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-12-21T09:03:29+07:00
+  - uncategorized
+updated: 2018-04-18T19:53:21+07:00
 
 This is content of post 242

@@ -1,12 +1,12 @@
 ---
 title: Post 888
-date: 2019-12-24T16:15:07+07:00
+date: 2012-03-13T18:00:00+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-03-05T02:34:32+07:00
+  - uncategorized
+updated: 2012-02-11T13:02:21+07:00
 
 This is content of post 888

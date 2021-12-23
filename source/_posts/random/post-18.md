@@ -1,12 +1,12 @@
 ---
 title: Post 18
-date: 2021-03-06T02:01:54+07:00
+date: 2016-10-09T07:44:38+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-11-22T15:50:55+07:00
+  - uncategorized
+updated: 2012-08-19T15:39:27+07:00
 
 This is content of post 18

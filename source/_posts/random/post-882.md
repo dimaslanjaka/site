@@ -1,12 +1,12 @@
 ---
 title: Post 882
-date: 2018-07-02T06:11:56+07:00
+date: 2017-04-17T02:03:29+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-06-20T21:01:18+07:00
+  - uncategorized
+updated: 2013-09-29T22:52:03+07:00
 
 This is content of post 882

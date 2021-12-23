@@ -1,12 +1,12 @@
 ---
 title: Post 900
-date: 2021-08-23T01:15:59+07:00
+date: 2014-09-07T12:52:12+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2013-12-27T08:54:10+07:00
+updated: 2014-04-18T21:36:17+07:00
 
 This is content of post 900

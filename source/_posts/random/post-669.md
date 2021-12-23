@@ -1,12 +1,12 @@
 ---
 title: Post 669
-date: 2020-09-22T03:55:29+07:00
+date: 2014-08-10T08:36:32+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-08-19T00:04:17+07:00
+  - uncategorized
+updated: 2012-12-03T03:04:16+07:00
 
 This is content of post 669

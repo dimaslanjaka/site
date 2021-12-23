@@ -1,12 +1,12 @@
 ---
 title: Post 252
-date: 2014-08-23T13:37:56+07:00
+date: 2015-07-10T00:17:30+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-09-16T00:06:04+07:00
+  - uncategorized
+updated: 2012-02-23T19:28:34+07:00
 
 This is content of post 252

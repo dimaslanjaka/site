@@ -1,12 +1,12 @@
 ---
 title: Post 362
-date: 2018-05-15T17:13:04+07:00
+date: 2014-08-18T20:02:43+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-11-18T03:20:51+07:00
+  - uncategorized
+updated: 2012-04-17T02:44:00+07:00
 
 This is content of post 362

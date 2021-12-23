@@ -1,12 +1,12 @@
 ---
 title: Post 767
-date: 2012-10-22T09:45:17+07:00
+date: 2018-09-20T09:41:51+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-08-23T05:04:08+07:00
+  - uncategorized
+updated: 2016-06-13T06:08:12+07:00
 
 This is content of post 767

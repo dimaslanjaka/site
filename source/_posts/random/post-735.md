@@ -1,12 +1,12 @@
 ---
 title: Post 735
-date: 2021-09-09T03:01:25+07:00
+date: 2017-12-29T02:28:01+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2016-01-20T07:16:36+07:00
+  - uncategorized
+updated: 2017-11-06T14:21:29+07:00
 
 This is content of post 735

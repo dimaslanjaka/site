@@ -1,12 +1,12 @@
 ---
 title: Post 670
-date: 2018-04-05T02:07:30+07:00
+date: 2014-09-13T07:34:20+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2016-01-08T03:00:29+07:00
+updated: 2014-08-18T17:02:00+07:00
 
 This is content of post 670

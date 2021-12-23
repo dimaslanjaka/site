@@ -1,12 +1,12 @@
 ---
 title: Post 144
-date: 2015-01-21T22:12:36+07:00
+date: 2021-06-02T18:18:32+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-02-08T18:49:48+07:00
+  - uncategorized
+updated: 2020-12-31T00:08:51+07:00
 
 This is content of post 144

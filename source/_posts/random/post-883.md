@@ -1,12 +1,12 @@
 ---
 title: Post 883
-date: 2017-04-11T14:31:21+07:00
+date: 2012-12-06T17:58:21+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-12-16T02:38:55+07:00
+  - uncategorized
+updated: 2012-10-18T17:27:53+07:00
 
 This is content of post 883

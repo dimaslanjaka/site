@@ -1,12 +1,12 @@
 ---
 title: Post 632
-date: 2020-01-15T23:47:14+07:00
+date: 2021-03-13T13:56:43+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2018-04-13T06:29:30+07:00
+  - uncategorized
+updated: 2017-09-01T12:01:14+07:00
 
 This is content of post 632

@@ -1,12 +1,12 @@
 ---
 title: Post 979
-date: 2015-06-24T12:06:56+07:00
+date: 2018-03-25T22:14:55+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-04-21T15:26:06+07:00
+  - uncategorized
+updated: 2018-01-08T23:59:01+07:00
 
 This is content of post 979

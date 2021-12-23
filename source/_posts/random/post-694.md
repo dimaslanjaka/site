@@ -1,12 +1,12 @@
 ---
 title: Post 694
-date: 2012-08-01T20:41:25+07:00
+date: 2013-02-06T19:26:58+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-04-03T01:48:26+07:00
+  - uncategorized
+updated: 2012-02-03T13:58:19+07:00
 
 This is content of post 694

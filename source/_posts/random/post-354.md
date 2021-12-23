@@ -1,12 +1,12 @@
 ---
 title: Post 354
-date: 2020-06-24T12:21:06+07:00
+date: 2013-01-14T16:11:07+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2018-09-30T14:13:52+07:00
+  - uncategorized
+updated: 2012-05-17T01:52:59+07:00
 
 This is content of post 354

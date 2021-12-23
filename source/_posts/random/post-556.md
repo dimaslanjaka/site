@@ -1,12 +1,12 @@
 ---
 title: Post 556
-date: 2016-08-08T02:59:34+07:00
+date: 2012-07-13T21:46:16+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-08-28T11:33:39+07:00
+  - uncategorized
+updated: 2012-07-06T11:46:12+07:00
 
 This is content of post 556

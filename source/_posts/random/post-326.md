@@ -1,12 +1,12 @@
 ---
 title: Post 326
-date: 2018-11-28T10:48:50+07:00
+date: 2020-11-08T15:49:23+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-06-05T12:34:47+07:00
+  - uncategorized
+updated: 2017-01-14T12:40:33+07:00
 
 This is content of post 326

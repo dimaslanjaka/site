@@ -1,12 +1,12 @@
 ---
 title: Post 61
-date: 2017-12-10T16:26:21+07:00
+date: 2013-08-25T20:01:07+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-01-03T07:22:21+07:00
+  - uncategorized
+updated: 2012-06-20T21:04:30+07:00
 
 This is content of post 61

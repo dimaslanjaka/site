@@ -1,12 +1,12 @@
 ---
 title: Post 65
-date: 2017-05-26T10:13:56+07:00
+date: 2016-07-12T17:57:30+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-10-23T11:29:54+07:00
+  - uncategorized
+updated: 2013-01-06T00:06:13+07:00
 
 This is content of post 65

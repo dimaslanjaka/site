@@ -1,12 +1,12 @@
 ---
 title: Post 538
-date: 2019-08-14T04:59:27+07:00
+date: 2018-07-26T14:54:13+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-12-16T21:19:08+07:00
+  - uncategorized
+updated: 2016-01-01T00:27:06+07:00
 
 This is content of post 538

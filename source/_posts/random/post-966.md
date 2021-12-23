@@ -1,12 +1,12 @@
 ---
 title: Post 966
-date: 2020-05-27T16:18:09+07:00
+date: 2014-09-24T02:14:24+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2018-02-09T19:21:07+07:00
+  - uncategorized
+updated: 2013-02-24T02:47:18+07:00
 
 This is content of post 966

@@ -1,12 +1,12 @@
 ---
 title: Post 924
-date: 2014-03-16T07:01:45+07:00
+date: 2018-11-03T16:02:34+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-06-04T07:49:03+07:00
+  - uncategorized
+updated: 2012-01-30T05:42:49+07:00
 
 This is content of post 924

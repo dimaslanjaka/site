@@ -1,12 +1,12 @@
 ---
 title: Post 936
-date: 2013-07-14T19:48:32+07:00
+date: 2016-04-12T16:38:26+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-03-15T13:21:09+07:00
+  - uncategorized
+updated: 2014-07-20T20:25:14+07:00
 
 This is content of post 936

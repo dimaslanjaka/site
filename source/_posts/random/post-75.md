@@ -1,12 +1,12 @@
 ---
 title: Post 75
-date: 2016-10-15T03:41:25+07:00
+date: 2012-07-30T12:55:48+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-08-22T00:35:20+07:00
+  - uncategorized
+updated: 2012-07-03T17:00:01+07:00
 
 This is content of post 75

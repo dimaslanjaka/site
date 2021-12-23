@@ -1,12 +1,12 @@
 ---
 title: Post 896
-date: 2019-09-14T02:16:41+07:00
+date: 2014-03-08T09:17:14+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-11-12T00:55:10+07:00
+  - uncategorized
+updated: 2012-12-23T19:53:11+07:00
 
 This is content of post 896

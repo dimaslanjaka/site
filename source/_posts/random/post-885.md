@@ -1,12 +1,12 @@
 ---
 title: Post 885
-date: 2014-10-05T20:30:13+07:00
+date: 2016-11-10T09:41:43+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-05-28T03:28:09+07:00
+  - uncategorized
+updated: 2014-05-03T23:11:42+07:00
 
 This is content of post 885

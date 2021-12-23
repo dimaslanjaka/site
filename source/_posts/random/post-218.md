@@ -1,12 +1,12 @@
 ---
 title: Post 218
-date: 2016-08-19T17:51:48+07:00
+date: 2015-05-06T02:39:54+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-03-06T03:52:32+07:00
+  - uncategorized
+updated: 2013-06-30T18:29:22+07:00
 
 This is content of post 218

@@ -1,12 +1,12 @@
 ---
 title: Post 53
-date: 2017-02-21T15:11:06+07:00
+date: 2016-01-09T18:02:53+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-03-02T16:56:26+07:00
+  - uncategorized
+updated: 2014-10-19T08:13:24+07:00
 
 This is content of post 53

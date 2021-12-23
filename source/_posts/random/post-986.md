@@ -1,12 +1,12 @@
 ---
 title: Post 986
-date: 2014-09-22T10:11:03+07:00
+date: 2014-07-23T23:17:30+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-12-09T11:19:25+07:00
+  - uncategorized
+updated: 2014-04-19T01:36:31+07:00
 
 This is content of post 986

@@ -1,12 +1,12 @@
 ---
 title: Post 647
-date: 2013-04-22T09:27:54+07:00
+date: 2019-06-01T08:51:42+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-27T21:46:20+07:00
+  - uncategorized
+updated: 2018-01-20T18:17:19+07:00
 
 This is content of post 647

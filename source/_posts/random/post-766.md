@@ -1,12 +1,12 @@
 ---
 title: Post 766
-date: 2013-03-11T13:03:43+07:00
+date: 2019-12-28T01:34:20+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-05-04T12:36:23+07:00
+  - uncategorized
+updated: 2012-06-04T12:50:13+07:00
 
 This is content of post 766

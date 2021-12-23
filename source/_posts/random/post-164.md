@@ -1,12 +1,12 @@
 ---
 title: Post 164
-date: 2013-04-30T22:06:19+07:00
+date: 2015-01-13T07:16:48+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-03-08T02:12:20+07:00
+  - uncategorized
+updated: 2014-01-31T22:08:41+07:00
 
 This is content of post 164

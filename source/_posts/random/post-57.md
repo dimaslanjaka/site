@@ -1,12 +1,12 @@
 ---
 title: Post 57
-date: 2019-03-14T21:40:47+07:00
+date: 2016-11-13T23:18:08+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-09-17T06:50:37+07:00
+  - uncategorized
+updated: 2012-11-04T10:35:06+07:00
 
 This is content of post 57

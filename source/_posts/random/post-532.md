@@ -1,12 +1,12 @@
 ---
 title: Post 532
-date: 2014-07-01T19:49:25+07:00
+date: 2013-04-19T17:43:42+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-06-22T12:22:53+07:00
+  - uncategorized
+updated: 2012-11-11T12:37:46+07:00
 
 This is content of post 532

@@ -1,12 +1,12 @@
 ---
 title: Post 875
-date: 2019-05-22T01:19:04+07:00
+date: 2018-07-19T17:07:31+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2014-01-18T00:04:35+07:00
+  - uncategorized
+updated: 2014-08-05T08:50:53+07:00
 
 This is content of post 875

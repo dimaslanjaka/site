@@ -1,12 +1,12 @@
 ---
 title: Post 14
-date: 2018-07-28T01:15:40+07:00
+date: 2019-06-15T23:32:39+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-09T14:40:21+07:00
+  - uncategorized
+updated: 2016-11-28T17:18:09+07:00
 
 This is content of post 14

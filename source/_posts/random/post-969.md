@@ -1,12 +1,12 @@
 ---
 title: Post 969
-date: 2018-07-18T20:21:09+07:00
+date: 2021-04-23T02:47:05+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-03-27T08:41:53+07:00
+  - uncategorized
+updated: 2019-01-28T22:59:04+07:00
 
 This is content of post 969

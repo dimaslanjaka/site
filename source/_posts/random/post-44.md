@@ -1,12 +1,12 @@
 ---
 title: Post 44
-date: 2017-05-27T13:33:36+07:00
+date: 2021-03-09T03:44:08+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-05-17T18:51:49+07:00
+  - uncategorized
+updated: 2015-02-08T06:18:27+07:00
 
 This is content of post 44

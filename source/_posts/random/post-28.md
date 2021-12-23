@@ -1,12 +1,12 @@
 ---
 title: Post 28
-date: 2020-06-17T22:37:49+07:00
+date: 2013-04-05T19:06:09+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-27T06:25:07+07:00
+  - uncategorized
+updated: 2012-04-29T16:33:43+07:00
 
 This is content of post 28

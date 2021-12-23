@@ -1,12 +1,12 @@
 ---
 title: Post 475
-date: 2013-07-25T08:09:57+07:00
+date: 2019-04-18T12:22:39+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-09-09T01:16:37+07:00
+  - uncategorized
+updated: 2019-01-06T07:51:04+07:00
 
 This is content of post 475

@@ -1,12 +1,12 @@
 ---
 title: Post 270
-date: 2021-09-03T16:09:19+07:00
+date: 2016-10-19T08:54:24+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2018-03-23T18:57:53+07:00
+updated: 2013-05-31T13:41:28+07:00
 
 This is content of post 270

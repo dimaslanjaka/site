@@ -1,12 +1,12 @@
 ---
 title: Post 726
-date: 2021-05-24T06:00:06+07:00
+date: 2013-06-10T05:02:38+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-01-09T22:28:28+07:00
+  - uncategorized
+updated: 2012-10-09T16:20:04+07:00
 
 This is content of post 726

@@ -1,12 +1,12 @@
 ---
 title: Post 184
-date: 2019-10-28T10:29:24+07:00
+date: 2015-06-14T20:33:21+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2018-04-14T15:27:21+07:00
+  - uncategorized
+updated: 2013-11-07T22:32:13+07:00
 
 This is content of post 184

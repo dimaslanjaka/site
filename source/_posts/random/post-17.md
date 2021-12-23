@@ -1,12 +1,12 @@
 ---
 title: Post 17
-date: 2013-01-12T23:04:13+07:00
+date: 2014-06-19T17:18:41+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-11-03T23:34:36+07:00
+  - uncategorized
+updated: 2014-02-28T09:57:30+07:00
 
 This is content of post 17

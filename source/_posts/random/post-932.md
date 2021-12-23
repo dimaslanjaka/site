@@ -1,12 +1,12 @@
 ---
 title: Post 932
-date: 2013-11-14T01:10:07+07:00
+date: 2020-02-09T19:33:03+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-27T13:08:21+07:00
+  - uncategorized
+updated: 2012-09-19T08:12:06+07:00
 
 This is content of post 932

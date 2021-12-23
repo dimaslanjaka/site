@@ -1,12 +1,12 @@
 ---
 title: Post 73
-date: 2014-04-29T13:09:17+07:00
+date: 2021-03-25T23:26:20+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-04-24T08:22:44+07:00
+  - uncategorized
+updated: 2012-11-11T06:12:37+07:00
 
 This is content of post 73

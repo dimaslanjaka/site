@@ -1,12 +1,12 @@
 ---
 title: Post 87
-date: 2020-10-14T11:02:07+07:00
+date: 2020-02-24T18:32:18+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-02-11T12:24:29+07:00
+  - uncategorized
+updated: 2016-02-05T22:01:03+07:00
 
 This is content of post 87

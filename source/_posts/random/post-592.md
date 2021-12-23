@@ -1,12 +1,12 @@
 ---
 title: Post 592
-date: 2013-12-26T11:53:39+07:00
+date: 2019-07-19T21:11:34+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-04-03T10:38:51+07:00
+  - uncategorized
+updated: 2014-03-30T08:15:30+07:00
 
 This is content of post 592

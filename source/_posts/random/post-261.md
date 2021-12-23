@@ -1,12 +1,12 @@
 ---
 title: Post 261
-date: 2013-10-09T11:03:17+07:00
+date: 2017-05-30T14:18:17+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-09-05T20:58:15+07:00
+  - uncategorized
+updated: 2016-06-04T17:23:53+07:00
 
 This is content of post 261

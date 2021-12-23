@@ -1,12 +1,12 @@
 ---
 title: Post 124
-date: 2012-02-11T23:57:00+07:00
+date: 2018-04-18T09:29:22+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-01-20T17:56:25+07:00
+  - uncategorized
+updated: 2012-05-19T09:03:21+07:00
 
 This is content of post 124

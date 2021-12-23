@@ -1,12 +1,12 @@
 ---
 title: Post 231
-date: 2020-04-03T18:37:27+07:00
+date: 2019-06-05T22:48:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-02-10T16:22:21+07:00
+  - uncategorized
+updated: 2013-01-26T20:47:14+07:00
 
 This is content of post 231

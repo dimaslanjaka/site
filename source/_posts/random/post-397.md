@@ -1,12 +1,12 @@
 ---
 title: Post 397
-date: 2016-03-29T03:30:18+07:00
+date: 2013-06-15T03:41:53+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-06-16T05:59:27+07:00
+  - uncategorized
+updated: 2012-03-14T19:49:22+07:00
 
 This is content of post 397

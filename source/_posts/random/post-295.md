@@ -1,12 +1,12 @@
 ---
 title: Post 295
-date: 2021-04-12T03:53:52+07:00
+date: 2020-05-26T20:05:44+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2019-09-30T03:52:47+07:00
+  - uncategorized
+updated: 2018-01-15T12:19:38+07:00
 
 This is content of post 295

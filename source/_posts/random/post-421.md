@@ -1,12 +1,12 @@
 ---
 title: Post 421
-date: 2018-06-27T14:44:15+07:00
+date: 2018-03-10T03:22:57+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2016-07-28T05:38:36+07:00
+  - uncategorized
+updated: 2016-06-07T05:19:42+07:00
 
 This is content of post 421

@@ -1,12 +1,12 @@
 ---
 title: Post 83
-date: 2014-06-16T14:07:09+07:00
+date: 2015-06-26T09:55:04+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-09-27T08:08:09+07:00
+  - uncategorized
+updated: 2014-01-18T08:38:16+07:00
 
 This is content of post 83

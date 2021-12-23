@@ -1,12 +1,12 @@
 ---
 title: Post 608
-date: 2017-02-16T05:29:23+07:00
+date: 2021-07-02T15:34:14+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2013-04-06T02:14:50+07:00
+updated: 2014-07-20T13:21:28+07:00
 
 This is content of post 608

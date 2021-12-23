@@ -1,12 +1,12 @@
 ---
 title: Post 282
-date: 2019-05-15T17:15:23+07:00
+date: 2017-05-30T20:50:08+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2018-10-26T21:37:24+07:00
+  - uncategorized
+updated: 2012-09-14T12:07:20+07:00
 
 This is content of post 282

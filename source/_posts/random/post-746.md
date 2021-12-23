@@ -1,12 +1,12 @@
 ---
 title: Post 746
-date: 2020-07-11T23:31:43+07:00
+date: 2014-08-21T05:29:36+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-09-30T14:57:03+07:00
+  - uncategorized
+updated: 2013-10-17T19:37:47+07:00
 
 This is content of post 746

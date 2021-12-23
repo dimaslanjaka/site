@@ -1,12 +1,12 @@
 ---
 title: Post 277
-date: 2020-10-21T08:58:13+07:00
+date: 2014-01-16T18:40:45+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-09-12T17:06:20+07:00
+  - uncategorized
+updated: 2012-07-25T03:23:28+07:00
 
 This is content of post 277

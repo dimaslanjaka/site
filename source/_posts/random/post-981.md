@@ -1,12 +1,12 @@
 ---
 title: Post 981
-date: 2012-04-10T21:09:35+07:00
+date: 2015-02-12T22:51:28+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-01-14T06:48:04+07:00
+  - uncategorized
+updated: 2013-10-28T08:28:04+07:00
 
 This is content of post 981

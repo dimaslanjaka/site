@@ -1,12 +1,12 @@
 ---
 title: Post 852
-date: 2013-02-12T14:38:41+07:00
+date: 2020-12-27T04:20:35+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-10-09T01:22:02+07:00
+  - uncategorized
+updated: 2018-02-14T07:05:08+07:00
 
 This is content of post 852

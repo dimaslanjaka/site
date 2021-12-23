@@ -1,12 +1,12 @@
 ---
 title: Post 793
-date: 2019-02-06T13:55:54+07:00
+date: 2018-03-17T10:10:27+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-05-12T10:52:01+07:00
+  - uncategorized
+updated: 2016-02-16T05:18:21+07:00
 
 This is content of post 793

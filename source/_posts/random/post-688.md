@@ -1,12 +1,12 @@
 ---
 title: Post 688
-date: 2020-01-25T13:22:56+07:00
+date: 2014-06-06T19:52:22+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2018-07-21T15:44:53+07:00
+  - uncategorized
+updated: 2012-03-26T10:19:37+07:00
 
 This is content of post 688

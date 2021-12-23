@@ -1,12 +1,12 @@
 ---
 title: Post 402
-date: 2016-04-01T11:51:18+07:00
+date: 2013-11-06T08:55:51+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2014-09-05T06:26:28+07:00
+updated: 2012-07-09T14:11:05+07:00
 
 This is content of post 402

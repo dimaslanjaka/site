@@ -1,12 +1,12 @@
 ---
 title: Post 94
-date: 2013-09-07T11:20:50+07:00
+date: 2018-02-23T09:05:40+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-03-28T04:30:19+07:00
+  - uncategorized
+updated: 2017-07-22T14:04:02+07:00
 
 This is content of post 94

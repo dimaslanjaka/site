@@ -1,12 +1,12 @@
 ---
 title: Post 225
-date: 2019-12-19T06:01:41+07:00
+date: 2018-07-07T14:30:48+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2019-11-07T14:52:43+07:00
+  - uncategorized
+updated: 2017-09-16T01:29:06+07:00
 
 This is content of post 225

@@ -1,12 +1,12 @@
 ---
 title: Post 959
-date: 2012-12-15T07:48:52+07:00
+date: 2019-10-26T17:53:43+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2012-11-24T00:10:17+07:00
+  - uncategorized
+updated: 2013-01-01T00:28:37+07:00
 
 This is content of post 959

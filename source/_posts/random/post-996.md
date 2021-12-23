@@ -1,12 +1,12 @@
 ---
 title: Post 996
-date: 2015-10-02T16:08:40+07:00
+date: 2016-07-11T11:14:00+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-06-15T20:58:37+07:00
+  - uncategorized
+updated: 2015-01-16T07:59:17+07:00
 
 This is content of post 996

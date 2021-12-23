@@ -1,12 +1,12 @@
 ---
 title: Post 134
-date: 2021-07-11T19:13:20+07:00
+date: 2018-08-23T02:53:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2021-01-14T18:28:43+07:00
+  - uncategorized
+updated: 2015-01-07T16:03:40+07:00
 
 This is content of post 134

@@ -1,12 +1,12 @@
 ---
 title: Post 511
-date: 2017-09-18T06:09:15+07:00
+date: 2016-01-01T14:43:47+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-07-16T17:53:11+07:00
+  - uncategorized
+updated: 2014-04-21T05:34:08+07:00
 
 This is content of post 511

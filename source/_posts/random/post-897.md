@@ -1,12 +1,12 @@
 ---
 title: Post 897
-date: 2017-03-23T12:39:57+07:00
+date: 2015-02-25T12:10:17+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-11-14T11:09:32+07:00
+  - uncategorized
+updated: 2014-02-26T03:44:17+07:00
 
 This is content of post 897

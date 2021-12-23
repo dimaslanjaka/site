@@ -1,12 +1,12 @@
 ---
 title: Post 704
-date: 2021-04-07T02:20:47+07:00
+date: 2017-09-30T15:34:25+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2015-01-22T03:15:36+07:00
+updated: 2014-09-14T14:40:36+07:00
 
 This is content of post 704

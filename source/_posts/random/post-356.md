@@ -1,12 +1,12 @@
 ---
 title: Post 356
-date: 2015-04-23T17:04:07+07:00
+date: 2020-02-26T06:16:40+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2015-02-06T23:24:30+07:00
+  - uncategorized
+updated: 2015-07-01T15:54:12+07:00
 
 This is content of post 356

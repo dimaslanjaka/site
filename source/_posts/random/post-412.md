@@ -1,12 +1,12 @@
 ---
 title: Post 412
-date: 2014-09-08T13:23:57+07:00
+date: 2016-04-16T06:23:55+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-02-03T20:57:45+07:00
+  - uncategorized
+updated: 2012-01-08T03:42:23+07:00
 
 This is content of post 412

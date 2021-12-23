@@ -1,12 +1,12 @@
 ---
 title: Post 668
-date: 2018-01-03T14:11:45+07:00
+date: 2018-07-05T06:45:16+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-09-27T23:31:32+07:00
+  - uncategorized
+updated: 2014-12-05T19:25:29+07:00
 
 This is content of post 668

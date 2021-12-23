@@ -1,12 +1,12 @@
 ---
 title: Post 744
-date: 2020-05-24T14:06:26+07:00
+date: 2021-02-16T10:49:32+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2013-01-28T10:41:38+07:00
+  - uncategorized
+updated: 2012-01-29T06:32:48+07:00
 
 This is content of post 744

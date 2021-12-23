@@ -1,12 +1,12 @@
 ---
 title: Post 192
-date: 2020-03-20T19:32:59+07:00
+date: 2015-03-10T13:31:47+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-05-16T01:15:06+07:00
+  - uncategorized
+updated: 2012-07-01T04:43:47+07:00
 
 This is content of post 192

@@ -1,12 +1,12 @@
 ---
 title: Post 42
-date: 2012-07-15T13:49:58+07:00
+date: 2013-01-19T22:44:30+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-07T06:46:19+07:00
+  - uncategorized
+updated: 2012-05-15T00:21:01+07:00
 
 This is content of post 42

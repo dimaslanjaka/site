@@ -1,12 +1,12 @@
 ---
 title: Post 89
-date: 2021-11-13T18:32:28+07:00
+date: 2018-08-24T03:37:56+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-01-07T19:26:48+07:00
+  - uncategorized
+updated: 2012-08-10T08:32:47+07:00
 
 This is content of post 89

@@ -1,12 +1,12 @@
 ---
 title: Post 189
-date: 2015-08-16T04:47:42+07:00
+date: 2019-09-20T05:21:54+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-03-28T15:11:48+07:00
+  - uncategorized
+updated: 2012-03-07T08:21:04+07:00
 
 This is content of post 189

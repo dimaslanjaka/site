@@ -1,12 +1,12 @@
 ---
 title: Post 43
-date: 2019-10-08T02:36:57+07:00
+date: 2017-02-11T11:00:19+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2019-07-19T04:04:49+07:00
+  - uncategorized
+updated: 2015-05-19T17:25:10+07:00
 
 This is content of post 43

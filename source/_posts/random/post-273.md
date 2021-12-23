@@ -1,12 +1,12 @@
 ---
 title: Post 273
-date: 2015-10-27T06:34:32+07:00
+date: 2013-02-25T03:16:26+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2014-05-17T12:12:37+07:00
+  - uncategorized
+updated: 2012-01-30T05:19:05+07:00
 
 This is content of post 273

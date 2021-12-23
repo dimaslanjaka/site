@@ -1,12 +1,12 @@
 ---
 title: Post 274
-date: 2012-06-20T19:35:33+07:00
+date: 2021-02-21T23:05:20+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-02-26T01:29:02+07:00
+  - uncategorized
+updated: 2019-03-08T15:07:13+07:00
 
 This is content of post 274

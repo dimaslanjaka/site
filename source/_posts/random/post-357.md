@@ -1,12 +1,12 @@
 ---
 title: Post 357
-date: 2014-09-23T16:21:31+07:00
+date: 2019-04-21T16:17:22+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2013-05-05T16:08:38+07:00
+  - uncategorized
+updated: 2012-11-04T10:15:04+07:00
 
 This is content of post 357

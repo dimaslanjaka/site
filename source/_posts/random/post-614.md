@@ -1,12 +1,12 @@
 ---
 title: Post 614
-date: 2018-07-02T14:50:57+07:00
+date: 2015-08-19T03:53:37+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-05-27T07:14:37+07:00
+  - uncategorized
+updated: 2012-12-26T03:18:29+07:00
 
 This is content of post 614

@@ -1,12 +1,12 @@
 ---
 title: Post 651
-date: 2016-10-10T16:14:12+07:00
+date: 2012-12-15T19:31:23+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
-  - ""
-updated: 2016-06-05T11:20:33+07:00
+  - uncategorized
+updated: 2012-07-28T03:43:20+07:00
 
 This is content of post 651

@@ -1,12 +1,12 @@
 ---
 title: Post 167
-date: 2016-02-20T02:55:48+07:00
+date: 2015-07-03T23:16:20+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-10-30T18:18:44+07:00
+  - uncategorized
+updated: 2013-01-20T23:34:52+07:00
 
 This is content of post 167

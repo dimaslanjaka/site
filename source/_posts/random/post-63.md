@@ -1,12 +1,12 @@
 ---
 title: Post 63
-date: 2019-05-05T11:00:47+07:00
+date: 2017-07-17T17:35:46+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-04-03T13:57:19+07:00
+  - uncategorized
+updated: 2013-11-01T12:24:38+07:00
 
 This is content of post 63

@@ -1,12 +1,12 @@
 ---
 title: Post 211
-date: 2021-04-11T10:38:37+07:00
+date: 2014-02-02T13:07:05+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-07-01T13:44:27+07:00
+  - uncategorized
+updated: 2012-05-29T12:37:14+07:00
 
 This is content of post 211

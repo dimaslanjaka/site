@@ -1,12 +1,12 @@
 ---
 title: Post 863
-date: 2018-08-09T12:34:53+07:00
+date: 2017-09-18T13:28:49+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2012-01-12T17:36:58+07:00
+  - uncategorized
+updated: 2015-12-02T11:43:26+07:00
 
 This is content of post 863

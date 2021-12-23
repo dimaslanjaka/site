@@ -1,12 +1,12 @@
 ---
 title: Post 382
-date: 2018-09-18T13:35:42+07:00
+date: 2017-05-27T08:50:46+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-06-24T04:52:36+07:00
+  - uncategorized
+updated: 2012-06-04T14:40:39+07:00
 
 This is content of post 382

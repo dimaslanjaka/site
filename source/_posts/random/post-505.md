@@ -1,12 +1,12 @@
 ---
 title: Post 505
-date: 2019-11-16T06:45:28+07:00
+date: 2014-01-18T03:39:39+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - post has 0
-updated: 2014-08-22T13:50:07+07:00
+updated: 2012-02-04T00:00:36+07:00
 
 This is content of post 505

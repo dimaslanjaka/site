@@ -1,12 +1,12 @@
 ---
 title: Post 201
-date: 2013-11-11T23:09:00+07:00
+date: 2017-04-21T21:35:55+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
   - post has 0
-updated: 2012-02-03T06:01:25+07:00
+updated: 2013-11-30T00:15:45+07:00
 
 This is content of post 201

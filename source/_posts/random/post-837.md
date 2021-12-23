@@ -1,12 +1,12 @@
 ---
 title: Post 837
-date: 2017-06-08T07:39:12+07:00
+date: 2015-09-29T11:30:11+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2015-10-06T05:49:52+07:00
+  - uncategorized
+updated: 2014-07-03T07:11:27+07:00
 
 This is content of post 837

@@ -1,12 +1,12 @@
 ---
 title: Post 66
-date: 2019-01-02T01:43:56+07:00
+date: 2016-03-28T19:23:51+07:00
 tags:
   - random post
-  - ""
+  - null
 category:
   - random post
-  - ""
-updated: 2017-06-26T17:54:43+07:00
+  - uncategorized
+updated: 2015-05-11T01:29:31+07:00
 
 This is content of post 66
