@@ -1,6 +1,6 @@
 ---
 title: Post 2
-date: 2013-11-02T00:40:29+07:00
+date: 2017-12-13T06:48:26+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,6 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-10-12T03:08:09+07:00
+updated: 2014-12-31T10:21:26+07:00
 ---
 This is content of post 2
