@@ -1,12 +1,12 @@
 ---
 title: Post 609
-date: 2012-03-03T08:28:58+07:00
+date: 2021-01-07T21:34:26+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2012-02-15T00:34:25+07:00
-
+updated: 2018-02-26T18:59:18+07:00
+---
 This is content of post 609

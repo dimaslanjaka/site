@@ -1,12 +1,12 @@
 ---
 title: Post 248
-date: 2016-09-19T17:00:31+07:00
+date: 2017-08-26T09:29:49+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-04-28T01:07:20+07:00
-
+updated: 2012-11-20T02:54:17+07:00
+---
 This is content of post 248

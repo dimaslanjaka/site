@@ -1,12 +1,12 @@
 ---
 title: Post 337
-date: 2012-01-02T19:43:12+07:00
+date: 2020-03-03T18:47:21+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-01T13:01:02+07:00
-
+updated: 2018-07-19T13:50:26+07:00
+---
 This is content of post 337

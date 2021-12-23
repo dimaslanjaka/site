@@ -1,12 +1,12 @@
 ---
 title: Post 535
-date: 2014-08-08T20:18:03+07:00
+date: 2013-11-04T03:44:20+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2013-12-16T03:44:10+07:00
-
+updated: 2012-09-08T11:51:03+07:00
+---
 This is content of post 535

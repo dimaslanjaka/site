@@ -1,12 +1,12 @@
 ---
 title: Post 78
-date: 2020-03-05T13:40:24+07:00
+date: 2018-04-04T20:09:40+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-01-01T05:26:24+07:00
-
+updated: 2013-08-10T23:47:14+07:00
+---
 This is content of post 78

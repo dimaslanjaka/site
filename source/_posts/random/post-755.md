@@ -1,12 +1,12 @@
 ---
 title: Post 755
-date: 2019-02-14T10:04:37+07:00
+date: 2020-03-29T00:56:49+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2015-04-08T11:03:36+07:00
-
+updated: 2013-01-20T03:28:46+07:00
+---
 This is content of post 755

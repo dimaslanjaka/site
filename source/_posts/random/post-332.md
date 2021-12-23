@@ -1,12 +1,12 @@
 ---
 title: Post 332
-date: 2013-05-11T02:10:55+07:00
+date: 2021-03-28T05:44:06+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-06-29T22:17:26+07:00
-
+updated: 2013-09-02T13:59:58+07:00
+---
 This is content of post 332

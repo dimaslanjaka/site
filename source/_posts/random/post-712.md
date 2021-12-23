@@ -1,12 +1,12 @@
 ---
 title: Post 712
-date: 2016-10-22T18:08:32+07:00
+date: 2013-06-06T10:40:32+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-01-30T18:25:40+07:00
-
+updated: 2013-01-20T20:52:12+07:00
+---
 This is content of post 712

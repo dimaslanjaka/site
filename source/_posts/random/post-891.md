@@ -1,12 +1,12 @@
 ---
 title: Post 891
-date: 2015-05-12T08:19:10+07:00
+date: 2012-06-17T16:21:35+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-05-10T13:06:04+07:00
-
+updated: 2012-03-19T09:17:37+07:00
+---
 This is content of post 891

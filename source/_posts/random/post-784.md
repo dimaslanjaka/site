@@ -1,12 +1,12 @@
 ---
 title: Post 784
-date: 2019-09-08T18:06:47+07:00
+date: 2016-02-08T19:42:25+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-12-24T06:43:10+07:00
-
+updated: 2014-09-12T02:23:54+07:00
+---
 This is content of post 784

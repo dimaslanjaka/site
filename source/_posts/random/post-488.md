@@ -1,12 +1,12 @@
 ---
 title: Post 488
-date: 2015-05-29T11:17:48+07:00
+date: 2015-11-26T04:33:32+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-02-23T09:32:02+07:00
-
+updated: 2012-07-10T09:42:32+07:00
+---
 This is content of post 488

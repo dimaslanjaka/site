@@ -1,12 +1,12 @@
 ---
 title: Post 322
-date: 2012-06-03T07:07:38+07:00
+date: 2013-02-26T06:11:12+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-04-17T19:11:36+07:00
-
+updated: 2013-01-14T14:19:47+07:00
+---
 This is content of post 322

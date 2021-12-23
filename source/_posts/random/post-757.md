@@ -1,12 +1,12 @@
 ---
 title: Post 757
-date: 2015-12-08T19:26:32+07:00
+date: 2016-09-19T06:21:40+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-03-08T13:01:07+07:00
-
+updated: 2016-02-13T11:50:35+07:00
+---
 This is content of post 757

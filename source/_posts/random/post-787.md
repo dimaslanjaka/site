@@ -1,12 +1,12 @@
 ---
 title: Post 787
-date: 2018-08-21T10:36:45+07:00
+date: 2014-08-24T07:28:55+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-05-22T19:31:32+07:00
-
+updated: 2012-11-08T13:09:39+07:00
+---
 This is content of post 787

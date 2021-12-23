@@ -1,12 +1,12 @@
 ---
 title: Post 424
-date: 2013-03-08T02:00:48+07:00
+date: 2019-08-16T04:43:02+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-27T00:00:16+07:00
-
+updated: 2013-07-20T12:33:11+07:00
+---
 This is content of post 424

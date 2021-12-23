@@ -1,12 +1,12 @@
 ---
 title: Post 507
-date: 2014-09-19T07:58:53+07:00
+date: 2012-07-22T12:40:04+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - post has 0
-updated: 2014-06-15T01:39:02+07:00
-
+updated: 2012-02-15T07:37:48+07:00
+---
 This is content of post 507

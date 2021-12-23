@@ -1,12 +1,12 @@
 ---
 title: Post 814
-date: 2014-01-07T20:40:32+07:00
+date: 2012-10-03T12:58:26+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-05-28T02:57:39+07:00
-
+updated: 2012-02-08T17:24:36+07:00
+---
 This is content of post 814

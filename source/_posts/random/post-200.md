@@ -1,12 +1,12 @@
 ---
 title: Post 200
-date: 2012-12-17T14:53:13+07:00
+date: 2014-08-28T05:01:17+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2012-03-29T22:43:37+07:00
-
+updated: 2012-10-19T07:28:10+07:00
+---
 This is content of post 200

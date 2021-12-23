@@ -1,12 +1,12 @@
 ---
 title: Post 225
-date: 2014-01-31T12:21:57+07:00
+date: 2012-01-01T21:50:03+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2014-01-26T01:00:12+07:00
-
+updated: 2012-01-01T21:08:29+07:00
+---
 This is content of post 225

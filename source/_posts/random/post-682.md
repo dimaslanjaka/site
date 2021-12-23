@@ -1,12 +1,12 @@
 ---
 title: Post 682
-date: 2016-12-17T00:26:49+07:00
+date: 2019-05-22T13:38:21+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-03-26T08:56:30+07:00
-
+updated: 2017-09-05T12:15:52+07:00
+---
 This is content of post 682

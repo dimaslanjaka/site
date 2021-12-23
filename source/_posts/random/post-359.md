@@ -1,12 +1,12 @@
 ---
 title: Post 359
-date: 2018-09-04T16:09:38+07:00
+date: 2020-01-11T14:39:34+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2017-11-13T06:16:35+07:00
-
+updated: 2012-09-21T21:30:20+07:00
+---
 This is content of post 359

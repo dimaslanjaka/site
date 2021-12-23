@@ -1,12 +1,12 @@
 ---
 title: Post 150
-date: 2012-06-05T21:39:15+07:00
+date: 2013-11-25T21:33:24+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - post has 0
-updated: 2012-06-02T07:13:58+07:00
-
+updated: 2012-05-21T22:18:47+07:00
+---
 This is content of post 150

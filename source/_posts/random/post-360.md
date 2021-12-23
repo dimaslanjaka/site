@@ -1,12 +1,12 @@
 ---
 title: Post 360
-date: 2015-06-07T08:57:28+07:00
+date: 2019-01-02T02:06:47+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2013-04-02T14:50:41+07:00
-
+updated: 2015-01-13T19:03:22+07:00
+---
 This is content of post 360

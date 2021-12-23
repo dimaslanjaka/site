@@ -1,12 +1,12 @@
 ---
 title: Post 261
-date: 2014-12-23T22:31:07+07:00
+date: 2017-03-24T22:20:01+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-07-29T23:47:54+07:00
-
+updated: 2015-10-23T09:10:59+07:00
+---
 This is content of post 261

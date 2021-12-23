@@ -1,12 +1,12 @@
 ---
 title: Post 749
-date: 2018-06-01T06:56:38+07:00
+date: 2014-07-14T11:56:43+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-06-24T08:52:01+07:00
-
+updated: 2012-11-19T04:14:56+07:00
+---
 This is content of post 749

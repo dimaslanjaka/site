@@ -1,12 +1,12 @@
 ---
 title: Post 404
-date: 2016-03-07T08:43:04+07:00
+date: 2013-05-17T15:34:22+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2015-11-21T21:24:00+07:00
-
+updated: 2012-03-10T03:10:09+07:00
+---
 This is content of post 404

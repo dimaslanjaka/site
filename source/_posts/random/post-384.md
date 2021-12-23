@@ -1,12 +1,12 @@
 ---
 title: Post 384
-date: 2020-09-04T12:09:30+07:00
+date: 2019-06-14T08:28:11+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-07-01T15:38:51+07:00
-
+updated: 2014-11-09T02:49:03+07:00
+---
 This is content of post 384

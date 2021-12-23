@@ -1,12 +1,12 @@
 ---
 title: Post 245
-date: 2012-12-05T21:43:02+07:00
+date: 2020-02-16T04:58:49+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-10-07T09:13:14+07:00
-
+updated: 2019-11-15T19:30:53+07:00
+---
 This is content of post 245

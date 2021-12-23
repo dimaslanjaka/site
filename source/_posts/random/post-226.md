@@ -1,12 +1,12 @@
 ---
 title: Post 226
-date: 2017-07-22T14:31:59+07:00
+date: 2020-06-29T21:49:43+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-03-28T15:25:07+07:00
-
+updated: 2012-01-14T06:13:27+07:00
+---
 This is content of post 226

@@ -1,12 +1,12 @@
 ---
 title: Post 648
-date: 2018-05-12T10:23:32+07:00
+date: 2015-02-06T00:20:48+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-04-29T16:13:56+07:00
-
+updated: 2012-12-23T20:26:01+07:00
+---
 This is content of post 648

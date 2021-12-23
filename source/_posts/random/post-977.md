@@ -1,12 +1,12 @@
 ---
 title: Post 977
-date: 2014-02-11T20:11:44+07:00
+date: 2012-08-19T11:59:41+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-06-27T07:27:03+07:00
-
+updated: 2012-03-15T09:08:10+07:00
+---
 This is content of post 977

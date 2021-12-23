@@ -1,12 +1,12 @@
 ---
 title: Post 268
-date: 2015-06-05T14:17:01+07:00
+date: 2017-06-01T20:09:49+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-04-07T16:33:11+07:00
-
+updated: 2016-09-09T16:13:29+07:00
+---
 This is content of post 268

@@ -1,12 +1,12 @@
 ---
 title: Post 84
-date: 2013-10-11T14:09:06+07:00
+date: 2012-05-02T14:02:31+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-07-27T09:24:25+07:00
-
+updated: 2012-03-06T22:41:34+07:00
+---
 This is content of post 84

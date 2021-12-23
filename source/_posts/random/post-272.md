@@ -1,12 +1,12 @@
 ---
 title: Post 272
-date: 2019-01-13T00:50:38+07:00
+date: 2013-06-20T04:19:53+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-11-04T13:39:56+07:00
-
+updated: 2012-06-17T00:06:29+07:00
+---
 This is content of post 272

@@ -1,12 +1,12 @@
 ---
 title: Post 486
-date: 2013-10-09T09:56:36+07:00
+date: 2015-06-19T03:15:08+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-13T06:30:30+07:00
-
+updated: 2013-04-28T21:27:13+07:00
+---
 This is content of post 486

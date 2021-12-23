@@ -1,12 +1,12 @@
 ---
 title: Post 926
-date: 2013-08-04T09:58:06+07:00
+date: 2017-01-01T01:20:05+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-06-07T21:00:38+07:00
-
+updated: 2012-11-22T23:47:31+07:00
+---
 This is content of post 926

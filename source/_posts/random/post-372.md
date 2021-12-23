@@ -1,12 +1,12 @@
 ---
 title: Post 372
-date: 2013-06-17T08:17:03+07:00
+date: 2012-03-01T01:41:19+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-17T05:49:50+07:00
-
+updated: 2012-01-13T04:20:09+07:00
+---
 This is content of post 372

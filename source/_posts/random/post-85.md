@@ -1,12 +1,12 @@
 ---
 title: Post 85
-date: 2014-12-20T01:36:14+07:00
+date: 2013-07-26T01:15:39+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2013-01-17T16:50:30+07:00
-
+updated: 2012-01-28T09:38:01+07:00
+---
 This is content of post 85

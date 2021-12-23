@@ -1,12 +1,12 @@
 ---
 title: Post 106
-date: 2013-02-24T20:31:35+07:00
+date: 2015-09-04T16:15:00+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2013-01-12T08:10:26+07:00
-
+updated: 2014-02-22T16:45:32+07:00
+---
 This is content of post 106

@@ -1,12 +1,12 @@
 ---
 title: Post 801
-date: 2016-04-12T15:48:16+07:00
+date: 2015-06-19T10:17:11+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2014-12-16T19:56:39+07:00
-
+updated: 2013-02-15T09:49:03+07:00
+---
 This is content of post 801

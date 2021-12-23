@@ -1,12 +1,12 @@
 ---
 title: Post 234
-date: 2015-08-04T07:13:13+07:00
+date: 2015-03-10T00:12:07+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-04T00:29:49+07:00
-
+updated: 2015-03-04T15:19:54+07:00
+---
 This is content of post 234

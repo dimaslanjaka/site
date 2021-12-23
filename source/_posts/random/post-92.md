@@ -1,12 +1,12 @@
 ---
 title: Post 92
-date: 2017-01-20T06:19:36+07:00
+date: 2016-10-25T10:32:11+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-05-01T12:05:15+07:00
-
+updated: 2015-01-02T12:24:26+07:00
+---
 This is content of post 92

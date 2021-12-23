@@ -1,12 +1,12 @@
 ---
 title: Post 345
-date: 2014-04-29T07:55:41+07:00
+date: 2012-12-21T06:09:18+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-07-14T16:53:41+07:00
-
+updated: 2012-04-18T23:34:26+07:00
+---
 This is content of post 345

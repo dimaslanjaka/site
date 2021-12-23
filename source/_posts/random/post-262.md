@@ -1,12 +1,12 @@
 ---
 title: Post 262
-date: 2020-12-05T13:51:01+07:00
+date: 2018-06-24T23:10:20+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-01-02T18:18:54+07:00
-
+updated: 2014-08-20T14:10:50+07:00
+---
 This is content of post 262

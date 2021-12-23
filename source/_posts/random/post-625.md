@@ -1,12 +1,12 @@
 ---
 title: Post 625
-date: 2018-08-31T12:15:48+07:00
+date: 2012-11-03T04:11:17+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2013-03-19T21:18:54+07:00
-
+updated: 2012-07-15T23:50:43+07:00
+---
 This is content of post 625

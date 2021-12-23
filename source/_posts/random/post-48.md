@@ -1,12 +1,12 @@
 ---
 title: Post 48
-date: 2013-04-26T09:45:15+07:00
+date: 2020-05-12T03:12:41+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-09-08T20:14:56+07:00
-
+updated: 2019-05-26T11:59:49+07:00
+---
 This is content of post 48

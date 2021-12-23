@@ -1,12 +1,12 @@
 ---
 title: Post 796
-date: 2013-05-27T13:19:29+07:00
+date: 2012-12-15T08:00:32+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-11T02:58:29+07:00
-
+updated: 2012-09-05T03:34:46+07:00
+---
 This is content of post 796

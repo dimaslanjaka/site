@@ -1,12 +1,12 @@
 ---
 title: Post 243
-date: 2021-09-25T22:55:53+07:00
+date: 2018-04-25T20:45:25+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-08-08T12:04:47+07:00
-
+updated: 2017-01-13T23:00:25+07:00
+---
 This is content of post 243

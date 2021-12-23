@@ -1,12 +1,12 @@
 ---
 title: Post 730
-date: 2019-01-09T06:58:02+07:00
+date: 2018-11-26T21:28:33+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2016-11-13T18:33:46+07:00
-
+updated: 2014-10-13T20:16:06+07:00
+---
 This is content of post 730

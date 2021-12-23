@@ -1,12 +1,12 @@
 ---
 title: Post 318
-date: 2013-02-19T03:41:52+07:00
+date: 2016-03-05T07:15:02+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-09-27T05:20:26+07:00
-
+updated: 2014-05-10T04:50:11+07:00
+---
 This is content of post 318

@@ -1,12 +1,12 @@
 ---
 title: Post 108
-date: 2017-09-05T08:44:24+07:00
+date: 2012-07-05T18:46:01+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2013-01-31T17:12:45+07:00
-
+updated: 2012-03-18T02:01:46+07:00
+---
 This is content of post 108

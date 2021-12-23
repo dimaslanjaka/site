@@ -1,12 +1,12 @@
 ---
 title: Post 472
-date: 2012-07-30T16:24:05+07:00
+date: 2020-04-28T03:57:14+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-04-15T01:19:24+07:00
-
+updated: 2016-03-27T00:51:16+07:00
+---
 This is content of post 472

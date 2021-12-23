@@ -1,12 +1,12 @@
 ---
 title: Post 128
-date: 2017-08-30T23:45:03+07:00
+date: 2012-08-13T00:40:38+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-04-03T21:40:55+07:00
-
+updated: 2012-03-06T00:47:39+07:00
+---
 This is content of post 128

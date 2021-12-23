@@ -1,12 +1,12 @@
 ---
 title: Post 812
-date: 2014-10-09T13:09:45+07:00
+date: 2017-08-22T17:33:18+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-11T18:18:26+07:00
-
+updated: 2016-11-27T02:46:35+07:00
+---
 This is content of post 812

@@ -1,12 +1,12 @@
 ---
 title: Post 696
-date: 2021-10-13T21:04:08+07:00
+date: 2013-04-12T00:11:56+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2019-03-18T09:28:23+07:00
-
+updated: 2013-02-15T17:30:20+07:00
+---
 This is content of post 696

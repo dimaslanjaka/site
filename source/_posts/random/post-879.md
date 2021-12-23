@@ -1,12 +1,12 @@
 ---
 title: Post 879
-date: 2013-01-01T08:18:15+07:00
+date: 2020-05-02T07:20:28+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-09T22:18:03+07:00
-
+updated: 2019-11-13T18:20:43+07:00
+---
 This is content of post 879

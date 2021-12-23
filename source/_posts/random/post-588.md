@@ -1,12 +1,12 @@
 ---
 title: Post 588
-date: 2020-11-18T04:33:08+07:00
+date: 2012-06-15T02:48:48+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2020-10-14T19:40:47+07:00
-
+updated: 2012-02-14T15:26:54+07:00
+---
 This is content of post 588

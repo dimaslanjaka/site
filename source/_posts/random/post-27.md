@@ -1,12 +1,12 @@
 ---
 title: Post 27
-date: 2017-08-16T06:32:21+07:00
+date: 2018-06-15T23:22:47+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-04-14T12:45:18+07:00
-
+updated: 2015-12-09T06:04:19+07:00
+---
 This is content of post 27

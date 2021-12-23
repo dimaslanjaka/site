@@ -1,12 +1,12 @@
 ---
 title: Post 471
-date: 2020-06-11T10:17:04+07:00
+date: 2016-06-09T18:21:30+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-11-12T18:38:53+07:00
-
+updated: 2014-12-13T23:21:01+07:00
+---
 This is content of post 471

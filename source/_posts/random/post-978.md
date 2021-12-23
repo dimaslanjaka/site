@@ -1,12 +1,12 @@
 ---
 title: Post 978
-date: 2014-03-16T11:19:22+07:00
+date: 2016-03-31T21:24:38+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-10-23T13:23:47+07:00
-
+updated: 2015-10-03T10:25:19+07:00
+---
 This is content of post 978

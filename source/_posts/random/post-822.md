@@ -1,12 +1,12 @@
 ---
 title: Post 822
-date: 2021-01-24T14:52:49+07:00
+date: 2016-06-08T07:05:52+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2020-04-14T14:06:31+07:00
-
+updated: 2012-03-03T03:33:28+07:00
+---
 This is content of post 822

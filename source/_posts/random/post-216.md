@@ -1,12 +1,12 @@
 ---
 title: Post 216
-date: 2018-03-16T15:40:09+07:00
+date: 2013-12-25T16:02:01+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-04-29T17:53:21+07:00
-
+updated: 2012-11-26T16:30:24+07:00
+---
 This is content of post 216

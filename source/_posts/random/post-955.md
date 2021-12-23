@@ -1,12 +1,12 @@
 ---
 title: Post 955
-date: 2019-03-18T11:52:53+07:00
+date: 2015-01-28T15:32:20+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-06-20T12:12:28+07:00
-
+updated: 2014-01-26T10:00:57+07:00
+---
 This is content of post 955

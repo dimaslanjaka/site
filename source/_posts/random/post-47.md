@@ -1,12 +1,12 @@
 ---
 title: Post 47
-date: 2015-08-11T23:21:19+07:00
+date: 2013-04-06T00:52:46+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-12-18T08:19:08+07:00
-
+updated: 2012-12-24T21:57:59+07:00
+---
 This is content of post 47

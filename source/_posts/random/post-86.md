@@ -1,12 +1,12 @@
 ---
 title: Post 86
-date: 2016-04-02T04:28:15+07:00
+date: 2017-10-15T20:48:26+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-03-26T03:25:21+07:00
-
+updated: 2012-07-26T12:00:20+07:00
+---
 This is content of post 86

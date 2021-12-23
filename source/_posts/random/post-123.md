@@ -1,12 +1,12 @@
 ---
 title: Post 123
-date: 2012-08-17T12:48:58+07:00
+date: 2020-03-31T10:42:30+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-06T10:40:50+07:00
-
+updated: 2017-04-14T21:45:07+07:00
+---
 This is content of post 123

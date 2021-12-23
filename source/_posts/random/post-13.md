@@ -1,12 +1,12 @@
 ---
 title: Post 13
-date: 2013-02-12T06:38:27+07:00
+date: 2014-03-19T21:56:45+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-20T20:55:49+07:00
-
+updated: 2013-07-22T13:40:22+07:00
+---
 This is content of post 13

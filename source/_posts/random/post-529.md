@@ -1,12 +1,12 @@
 ---
 title: Post 529
-date: 2012-04-19T05:30:30+07:00
+date: 2016-12-20T10:56:14+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-01-07T02:08:11+07:00
-
+updated: 2012-05-28T19:41:09+07:00
+---
 This is content of post 529

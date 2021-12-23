@@ -1,12 +1,12 @@
 ---
 title: Post 484
-date: 2018-02-12T11:44:51+07:00
+date: 2015-11-28T03:06:18+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-01-10T11:49:04+07:00
-
+updated: 2012-01-29T22:03:54+07:00
+---
 This is content of post 484

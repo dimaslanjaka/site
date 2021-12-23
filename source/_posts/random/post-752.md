@@ -1,12 +1,12 @@
 ---
 title: Post 752
-date: 2012-01-21T11:05:48+07:00
+date: 2013-08-23T05:43:50+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-01-13T08:29:20+07:00
-
+updated: 2012-12-18T19:19:09+07:00
+---
 This is content of post 752
