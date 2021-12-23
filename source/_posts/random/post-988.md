@@ -1,12 +1,12 @@
 ---
 title: Post 988
-date: 2016-12-17T05:58:18+07:00
+date: 2019-05-01T01:22:13+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-06-02T07:57:38+07:00
+updated: 2012-11-06T01:36:10+07:00
 ---
 This is content of post 988

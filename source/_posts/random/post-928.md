@@ -1,12 +1,12 @@
 ---
 title: Post 928
-date: 2016-10-30T04:17:29+07:00
+date: 2018-01-28T19:19:02+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-04T22:12:23+07:00
+updated: 2014-05-07T06:08:08+07:00
 ---
 This is content of post 928

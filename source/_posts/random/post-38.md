@@ -1,12 +1,12 @@
 ---
 title: Post 38
-date: 2019-10-03T14:54:52+07:00
+date: 2021-08-17T18:07:11+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-08-20T12:48:43+07:00
+updated: 2015-09-11T03:06:50+07:00
 ---
 This is content of post 38

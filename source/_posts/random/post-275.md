@@ -1,12 +1,12 @@
 ---
 title: Post 275
-date: 2014-04-25T15:07:27+07:00
+date: 2012-11-07T11:00:45+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-12-29T17:58:40+07:00
+updated: 2012-01-06T11:43:55+07:00
 ---
 This is content of post 275

@@ -1,12 +1,12 @@
 ---
 title: Post 695
-date: 2019-09-03T05:20:10+07:00
+date: 2012-09-01T12:15:13+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2016-10-29T12:42:55+07:00
+updated: 2012-05-12T22:24:16+07:00
 ---
 This is content of post 695

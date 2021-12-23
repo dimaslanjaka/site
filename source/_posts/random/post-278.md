@@ -1,12 +1,12 @@
 ---
 title: Post 278
-date: 2017-02-11T10:55:21+07:00
+date: 2016-02-12T16:40:27+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-03-16T15:44:44+07:00
+updated: 2014-08-24T22:32:54+07:00
 ---
 This is content of post 278

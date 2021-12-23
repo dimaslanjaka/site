@@ -1,12 +1,12 @@
 ---
 title: Post 929
-date: 2016-09-21T09:18:34+07:00
+date: 2015-09-16T19:50:52+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-11T21:18:51+07:00
+updated: 2013-10-18T12:22:47+07:00
 ---
 This is content of post 929

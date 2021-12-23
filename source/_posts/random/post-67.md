@@ -1,12 +1,12 @@
 ---
 title: Post 67
-date: 2012-03-07T14:16:35+07:00
+date: 2016-07-14T06:07:29+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-09T13:37:31+07:00
+updated: 2012-03-17T20:34:13+07:00
 ---
 This is content of post 67

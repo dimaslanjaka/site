@@ -1,12 +1,12 @@
 ---
 title: Post 715
-date: 2016-11-20T10:10:18+07:00
+date: 2021-11-18T20:56:07+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2015-10-14T17:20:20+07:00
+updated: 2012-05-20T17:13:54+07:00
 ---
 This is content of post 715

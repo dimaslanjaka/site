@@ -1,12 +1,12 @@
 ---
 title: Post 349
-date: 2017-09-17T07:04:14+07:00
+date: 2018-02-26T23:32:15+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-08-09T00:17:21+07:00
+updated: 2016-02-08T06:31:29+07:00
 ---
 This is content of post 349

@@ -1,12 +1,12 @@
 ---
 title: Post 169
-date: 2016-07-21T09:18:38+07:00
+date: 2015-11-30T15:28:05+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-12T03:49:03+07:00
+updated: 2012-01-29T19:07:48+07:00
 ---
 This is content of post 169

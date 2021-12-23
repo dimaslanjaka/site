@@ -1,12 +1,12 @@
 ---
 title: Post 833
-date: 2019-12-27T22:31:43+07:00
+date: 2014-07-04T22:29:04+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-02-16T21:36:31+07:00
+updated: 2012-08-03T14:15:01+07:00
 ---
 This is content of post 833

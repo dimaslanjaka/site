@@ -1,12 +1,12 @@
 ---
 title: Post 195
-date: 2015-09-11T10:19:54+07:00
+date: 2012-10-12T21:16:57+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2013-11-04T22:20:58+07:00
+updated: 2012-02-24T22:25:48+07:00
 ---
 This is content of post 195

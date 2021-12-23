@@ -1,12 +1,12 @@
 ---
 title: Post 288
-date: 2019-01-07T16:20:24+07:00
+date: 2017-07-27T12:10:45+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-11-27T03:32:14+07:00
+updated: 2017-06-18T01:49:51+07:00
 ---
 This is content of post 288

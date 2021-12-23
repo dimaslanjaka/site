@@ -1,12 +1,12 @@
 ---
 title: Post 420
-date: 2016-01-02T23:52:40+07:00
+date: 2018-01-10T00:34:31+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2014-07-20T01:07:39+07:00
+updated: 2012-10-20T03:33:09+07:00
 ---
 This is content of post 420

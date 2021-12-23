@@ -1,12 +1,12 @@
 ---
 title: Post 765
-date: 2016-03-03T02:10:30+07:00
+date: 2016-05-03T08:13:20+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2016-02-26T01:33:07+07:00
+updated: 2015-02-18T14:38:42+07:00
 ---
 This is content of post 765

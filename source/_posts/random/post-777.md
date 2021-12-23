@@ -1,12 +1,12 @@
 ---
 title: Post 777
-date: 2016-01-26T06:12:37+07:00
+date: 2018-01-02T02:45:42+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-10-27T01:15:57+07:00
+updated: 2013-04-14T02:09:36+07:00
 ---
 This is content of post 777

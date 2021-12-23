@@ -1,12 +1,12 @@
 ---
 title: Post 925
-date: 2018-10-08T15:04:14+07:00
+date: 2018-11-17T23:23:53+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2015-03-06T18:18:12+07:00
+updated: 2012-09-02T10:26:12+07:00
 ---
 This is content of post 925

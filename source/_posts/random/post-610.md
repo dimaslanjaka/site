@@ -1,12 +1,12 @@
 ---
 title: Post 610
-date: 2018-11-16T03:57:53+07:00
+date: 2016-05-12T00:19:32+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2015-12-29T07:37:04+07:00
+updated: 2013-06-19T03:13:30+07:00
 ---
 This is content of post 610

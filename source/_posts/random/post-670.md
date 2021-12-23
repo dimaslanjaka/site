@@ -1,12 +1,12 @@
 ---
 title: Post 670
-date: 2021-12-20T12:22:23+07:00
+date: 2020-03-25T03:23:43+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2021-03-23T23:23:55+07:00
+updated: 2013-06-02T14:14:54+07:00
 ---
 This is content of post 670

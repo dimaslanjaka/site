@@ -1,12 +1,12 @@
 ---
 title: Post 264
-date: 2020-03-17T20:55:17+07:00
+date: 2017-04-22T15:47:49+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2019-04-30T20:26:09+07:00
+updated: 2016-06-08T14:11:10+07:00
 ---
 This is content of post 264

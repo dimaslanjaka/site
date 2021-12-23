@@ -1,12 +1,12 @@
 ---
 title: Post 208
-date: 2021-07-17T06:56:18+07:00
+date: 2019-08-11T23:04:38+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2019-08-19T02:04:21+07:00
+updated: 2012-04-14T06:16:54+07:00
 ---
 This is content of post 208

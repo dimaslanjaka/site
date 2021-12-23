@@ -1,12 +1,12 @@
 ---
 title: Post 69
-date: 2016-07-06T21:17:26+07:00
+date: 2013-06-16T16:09:20+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-11-09T15:48:31+07:00
+updated: 2012-04-27T22:52:07+07:00
 ---
 This is content of post 69

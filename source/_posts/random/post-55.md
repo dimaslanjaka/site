@@ -1,12 +1,12 @@
 ---
 title: Post 55
-date: 2018-02-24T17:59:51+07:00
+date: 2017-11-23T15:29:56+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2015-09-05T04:57:00+07:00
+updated: 2012-05-04T02:46:24+07:00
 ---
 This is content of post 55

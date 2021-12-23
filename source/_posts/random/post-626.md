@@ -1,12 +1,12 @@
 ---
 title: Post 626
-date: 2021-08-02T07:57:14+07:00
+date: 2018-10-07T07:05:32+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-12-29T01:19:38+07:00
+updated: 2012-05-12T21:31:40+07:00
 ---
 This is content of post 626

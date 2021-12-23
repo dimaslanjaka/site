@@ -1,12 +1,12 @@
 ---
 title: Post 608
-date: 2012-02-26T11:59:43+07:00
+date: 2016-02-22T21:38:03+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2012-02-25T07:40:19+07:00
+updated: 2014-10-21T02:58:49+07:00
 ---
 This is content of post 608

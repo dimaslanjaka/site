@@ -1,12 +1,12 @@
 ---
 title: Post 94
-date: 2015-09-07T01:37:10+07:00
+date: 2012-07-01T14:22:25+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-01-26T04:19:27+07:00
+updated: 2012-02-10T03:47:12+07:00
 ---
 This is content of post 94

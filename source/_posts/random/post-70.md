@@ -1,12 +1,12 @@
 ---
 title: Post 70
-date: 2012-06-06T12:54:08+07:00
+date: 2016-08-01T14:29:01+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2012-04-06T01:46:20+07:00
+updated: 2015-05-04T02:34:23+07:00
 ---
 This is content of post 70

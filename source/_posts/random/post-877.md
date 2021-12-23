@@ -1,12 +1,12 @@
 ---
 title: Post 877
-date: 2020-11-22T10:20:51+07:00
+date: 2016-01-31T10:56:03+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-04-11T09:11:58+07:00
+updated: 2012-04-10T15:55:30+07:00
 ---
 This is content of post 877

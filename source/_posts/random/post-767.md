@@ -1,12 +1,12 @@
 ---
 title: Post 767
-date: 2020-11-23T18:23:15+07:00
+date: 2012-03-07T18:15:34+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-07-25T16:45:54+07:00
+updated: 2012-01-22T21:02:26+07:00
 ---
 This is content of post 767

@@ -1,12 +1,12 @@
 ---
 title: Post 892
-date: 2017-07-26T09:03:38+07:00
+date: 2015-10-30T02:47:05+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-24T09:20:36+07:00
+updated: 2015-08-17T10:10:54+07:00
 ---
 This is content of post 892

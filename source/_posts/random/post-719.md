@@ -1,12 +1,12 @@
 ---
 title: Post 719
-date: 2017-01-14T18:13:57+07:00
+date: 2016-11-12T03:37:06+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-06-18T05:30:47+07:00
+updated: 2015-05-11T21:51:59+07:00
 ---
 This is content of post 719

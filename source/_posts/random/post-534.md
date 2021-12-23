@@ -1,12 +1,12 @@
 ---
 title: Post 534
-date: 2017-10-11T11:10:11+07:00
+date: 2020-02-19T01:58:27+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2016-08-28T12:38:06+07:00
+updated: 2012-10-04T17:20:31+07:00
 ---
 This is content of post 534

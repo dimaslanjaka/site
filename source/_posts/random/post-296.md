@@ -1,12 +1,12 @@
 ---
 title: Post 296
-date: 2012-10-31T20:44:15+07:00
+date: 2016-01-05T01:02:06+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-07-15T14:52:08+07:00
+updated: 2014-09-09T09:40:10+07:00
 ---
 This is content of post 296

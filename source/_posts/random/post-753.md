@@ -1,12 +1,12 @@
 ---
 title: Post 753
-date: 2019-10-16T22:55:39+07:00
+date: 2012-06-23T12:29:25+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2018-07-11T23:31:38+07:00
+updated: 2012-03-23T11:33:18+07:00
 ---
 This is content of post 753

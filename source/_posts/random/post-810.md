@@ -1,12 +1,12 @@
 ---
 title: Post 810
-date: 2017-03-20T08:31:20+07:00
+date: 2014-02-15T13:53:01+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - post has 0
-updated: 2012-07-11T20:57:08+07:00
+updated: 2013-01-24T04:12:47+07:00
 ---
 This is content of post 810

@@ -1,12 +1,12 @@
 ---
 title: Post 396
-date: 2018-02-04T05:48:25+07:00
+date: 2013-06-30T04:55:50+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-04-06T16:05:03+07:00
+updated: 2013-02-20T16:28:38+07:00
 ---
 This is content of post 396

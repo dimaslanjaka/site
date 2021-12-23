@@ -1,12 +1,12 @@
 ---
 title: Post 748
-date: 2015-03-12T18:47:47+07:00
+date: 2021-04-13T17:03:44+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-16T17:00:53+07:00
+updated: 2019-05-21T06:45:21+07:00
 ---
 This is content of post 748

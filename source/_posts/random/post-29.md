@@ -1,12 +1,12 @@
 ---
 title: Post 29
-date: 2021-07-04T12:26:30+07:00
+date: 2015-05-16T14:01:22+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-12-31T05:27:34+07:00
+updated: 2012-06-03T05:39:24+07:00
 ---
 This is content of post 29

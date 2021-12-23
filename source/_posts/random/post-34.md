@@ -1,12 +1,12 @@
 ---
 title: Post 34
-date: 2018-12-05T18:24:07+07:00
+date: 2013-05-22T09:24:21+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-10-22T14:30:34+07:00
+updated: 2012-01-10T12:36:24+07:00
 ---
 This is content of post 34

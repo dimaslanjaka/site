@@ -1,12 +1,12 @@
 ---
 title: Post 395
-date: 2017-07-26T00:59:54+07:00
+date: 2014-02-27T09:05:52+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2017-04-17T17:48:24+07:00
+updated: 2013-04-07T23:27:41+07:00
 ---
 This is content of post 395

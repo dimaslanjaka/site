@@ -1,12 +1,12 @@
 ---
 title: Post 8
-date: 2019-11-25T10:36:17+07:00
+date: 2013-07-01T21:44:45+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-03-14T03:04:09+07:00
+updated: 2013-03-27T19:01:44+07:00
 ---
 This is content of post 8

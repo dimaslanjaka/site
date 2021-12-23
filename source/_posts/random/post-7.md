@@ -1,12 +1,12 @@
 ---
 title: Post 7
-date: 2018-10-14T11:38:06+07:00
+date: 2019-08-28T20:41:25+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-02-24T06:11:34+07:00
+updated: 2014-06-07T18:37:46+07:00
 ---
 This is content of post 7

@@ -1,12 +1,12 @@
 ---
 title: Post 4
-date: 2015-08-30T14:43:36+07:00
+date: 2015-01-30T18:01:51+07:00
 tags:
   - random post
   - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-03-06T14:03:06+07:00
+updated: 2014-07-06T08:42:58+07:00
 ---
 This is content of post 4
