@@ -1,6 +1,6 @@
 ---
 title: Post 96
-date: 2016-08-27T19:03:13+07:00
-updated: 2015-11-02T04:18:07+07:00
+date: 2017-01-15T17:49:05+07:00
+updated: 2013-04-06T22:59:59+07:00
 
 This is content of post 96

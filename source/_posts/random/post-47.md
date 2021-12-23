@@ -1,6 +1,6 @@
 ---
 title: Post 47
-date: 2014-03-03T11:31:45+07:00
-updated: 2013-07-17T10:12:09+07:00
+date: 2019-11-06T06:58:14+07:00
+updated: 2012-07-27T15:26:18+07:00
 
 This is content of post 47
