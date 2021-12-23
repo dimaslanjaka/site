@@ -1,6 +1,6 @@
 ---
 title: Post 36
-date: 2019-11-06T08:29:20+07:00
-updated: 2012-10-10T06:35:56+07:00
+date: 2014-10-20T04:31:40+07:00
+updated: 2012-04-01T12:11:25+07:00
 
 This is content of post 36

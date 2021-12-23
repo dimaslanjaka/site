@@ -1,6 +1,6 @@
 ---
 title: Post 7
-date: 2015-08-17T17:13:26+07:00
-updated: 2015-04-21T07:20:32+07:00
+date: 2020-06-13T18:35:45+07:00
+updated: 2020-05-17T10:21:22+07:00
 
 This is content of post 7

@@ -1,6 +1,6 @@
 ---
 title: Post 60
-date: 2016-07-22T09:03:17+07:00
-updated: 2013-11-08T04:19:04+07:00
+date: 2015-01-21T20:23:15+07:00
+updated: 2014-02-15T11:38:25+07:00
 
 This is content of post 60

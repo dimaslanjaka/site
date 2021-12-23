@@ -1,6 +1,6 @@
 ---
 title: Post 67
-date: 2012-04-16T01:44:43+07:00
-updated: 2012-03-18T21:03:38+07:00
+date: 2017-11-02T09:12:35+07:00
+updated: 2013-03-31T05:40:30+07:00
 
 This is content of post 67

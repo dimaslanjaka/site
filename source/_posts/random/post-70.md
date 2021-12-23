@@ -1,6 +1,6 @@
 ---
 title: Post 70
-date: 2020-04-15T09:54:08+07:00
-updated: 2020-03-07T23:05:55+07:00
+date: 2015-10-09T00:53:54+07:00
+updated: 2012-03-02T09:34:27+07:00
 
 This is content of post 70

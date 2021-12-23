@@ -1,6 +1,6 @@
 ---
 title: Post 42
-date: 2014-01-23T03:48:42+07:00
-updated: 2013-06-25T15:25:28+07:00
+date: 2012-08-16T07:27:43+07:00
+updated: 2012-02-17T09:23:35+07:00
 
 This is content of post 42
