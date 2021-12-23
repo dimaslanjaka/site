@@ -34,5 +34,10 @@
     "hexo-server": "^2.0.0",
     "hexo-theme-butterfly": "file:themes/butterfly",
     "hexo-theme-landscape": "^0.0.3"
+  },
+  "devDependencies": {
+    "moment": "^2.29.1",
+    "prompt": "^1.2.0",
+    "yaml": "^1.10.2"
   }
 }
