@@ -1,12 +1,12 @@
 ---
 title: Post 460
-date: 2012-04-16T17:36:53+07:00
+date: 2017-07-09T14:52:19+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-01-22T18:57:21+07:00
+updated: 2014-03-29T01:08:08+07:00
 
 This is content of post 460

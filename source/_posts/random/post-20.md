@@ -1,12 +1,12 @@
 ---
 title: Post 20
-date: 2014-05-03T11:52:39+07:00
+date: 2020-03-20T04:07:36+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-06-09T17:40:56+07:00
+updated: 2016-04-13T06:32:37+07:00
 
 This is content of post 20

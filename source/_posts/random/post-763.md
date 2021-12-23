@@ -1,12 +1,12 @@
 ---
 title: Post 763
-date: 2014-04-23T10:40:11+07:00
+date: 2012-11-06T07:57:44+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-04-17T15:26:06+07:00
+updated: 2012-06-23T06:40:37+07:00
 
 This is content of post 763

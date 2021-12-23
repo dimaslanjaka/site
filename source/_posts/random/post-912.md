@@ -1,12 +1,12 @@
 ---
 title: Post 912
-date: 2021-08-26T10:21:01+07:00
+date: 2018-12-23T11:47:00+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-10-14T10:27:49+07:00
+updated: 2015-08-17T08:54:39+07:00
 
 This is content of post 912

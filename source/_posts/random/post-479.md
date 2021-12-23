@@ -1,12 +1,12 @@
 ---
 title: Post 479
-date: 2017-10-25T01:35:49+07:00
+date: 2013-11-11T14:27:08+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-04-16T22:13:00+07:00
+updated: 2012-11-08T22:03:32+07:00
 
 This is content of post 479

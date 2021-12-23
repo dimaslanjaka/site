@@ -1,12 +1,12 @@
 ---
 title: Post 267
-date: 2021-07-07T11:00:01+07:00
+date: 2016-12-08T17:17:14+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2020-11-01T09:34:12+07:00
+updated: 2015-04-08T15:31:17+07:00
 
 This is content of post 267

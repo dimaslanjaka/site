@@ -1,12 +1,12 @@
 ---
 title: Post 321
-date: 2015-01-19T09:10:38+07:00
+date: 2012-10-16T23:36:17+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-22T16:20:31+07:00
+updated: 2012-08-03T13:39:00+07:00
 
 This is content of post 321

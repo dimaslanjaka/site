@@ -1,12 +1,12 @@
 ---
 title: Post 821
-date: 2021-06-26T10:34:24+07:00
+date: 2015-06-28T22:34:22+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2019-10-10T08:48:55+07:00
+updated: 2015-04-09T04:24:27+07:00
 
 This is content of post 821

@@ -1,12 +1,12 @@
 ---
 title: Post 681
-date: 2013-10-14T22:04:55+07:00
+date: 2014-10-20T05:59:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-12-19T17:36:03+07:00
+updated: 2013-04-16T05:50:08+07:00
 
 This is content of post 681

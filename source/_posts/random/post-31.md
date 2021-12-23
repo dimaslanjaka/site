@@ -1,12 +1,12 @@
 ---
 title: Post 31
-date: 2012-03-26T09:05:14+07:00
+date: 2012-10-29T21:08:30+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-28T08:06:08+07:00
+updated: 2012-05-01T22:45:05+07:00
 
 This is content of post 31

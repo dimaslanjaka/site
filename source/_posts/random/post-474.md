@@ -1,12 +1,12 @@
 ---
 title: Post 474
-date: 2019-08-21T03:59:57+07:00
+date: 2020-01-04T23:30:03+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-05-18T03:36:46+07:00
+updated: 2014-01-22T22:02:17+07:00
 
 This is content of post 474

@@ -1,12 +1,12 @@
 ---
 title: Post 232
-date: 2017-10-09T06:04:03+07:00
+date: 2019-12-16T06:03:27+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-26T15:33:58+07:00
+updated: 2017-08-23T21:07:59+07:00
 
 This is content of post 232

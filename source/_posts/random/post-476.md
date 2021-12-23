@@ -1,12 +1,12 @@
 ---
 title: Post 476
-date: 2018-08-04T03:23:42+07:00
+date: 2019-11-15T02:56:47+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-12T00:34:15+07:00
+updated: 2016-05-21T16:05:43+07:00
 
 This is content of post 476

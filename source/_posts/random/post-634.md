@@ -1,12 +1,12 @@
 ---
 title: Post 634
-date: 2012-12-31T23:45:38+07:00
+date: 2012-08-21T01:28:43+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-10-15T01:49:40+07:00
+updated: 2012-04-15T03:02:26+07:00
 
 This is content of post 634

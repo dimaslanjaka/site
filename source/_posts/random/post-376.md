@@ -1,12 +1,12 @@
 ---
 title: Post 376
-date: 2020-02-28T11:29:22+07:00
+date: 2016-07-19T19:29:33+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-04-11T21:30:49+07:00
+updated: 2015-12-28T01:32:48+07:00
 
 This is content of post 376

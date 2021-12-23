@@ -1,12 +1,12 @@
 ---
 title: Post 312
-date: 2020-05-16T04:46:20+07:00
+date: 2018-04-12T16:34:21+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-05-03T16:27:45+07:00
+updated: 2017-04-23T00:55:58+07:00
 
 This is content of post 312

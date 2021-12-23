@@ -1,12 +1,12 @@
 ---
 title: Post 701
-date: 2015-09-21T15:48:48+07:00
+date: 2014-04-09T16:13:32+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-06-07T18:36:34+07:00
+updated: 2013-07-19T08:36:03+07:00
 
 This is content of post 701

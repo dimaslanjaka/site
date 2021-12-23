@@ -1,12 +1,12 @@
 ---
 title: Post 394
-date: 2013-02-06T01:35:05+07:00
+date: 2015-11-04T06:39:02+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-13T03:05:38+07:00
+updated: 2014-01-20T13:45:15+07:00
 
 This is content of post 394

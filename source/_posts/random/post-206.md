@@ -1,12 +1,12 @@
 ---
 title: Post 206
-date: 2017-07-28T13:23:24+07:00
+date: 2020-05-26T17:17:58+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2016-03-27T03:20:19+07:00
+updated: 2017-04-22T13:31:38+07:00
 
 This is content of post 206

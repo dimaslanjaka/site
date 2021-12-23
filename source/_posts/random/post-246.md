@@ -1,12 +1,12 @@
 ---
 title: Post 246
-date: 2017-10-18T16:54:16+07:00
+date: 2021-06-26T01:52:19+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-07-24T20:18:35+07:00
+updated: 2020-12-02T17:29:37+07:00
 
 This is content of post 246

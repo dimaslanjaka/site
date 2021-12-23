@@ -1,12 +1,12 @@
 ---
 title: Post 610
-date: 2013-04-07T04:12:44+07:00
+date: 2020-02-23T12:10:22+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2013-03-05T00:27:45+07:00
+updated: 2015-12-11T14:40:33+07:00
 
 This is content of post 610

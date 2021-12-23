@@ -1,12 +1,12 @@
 ---
 title: Post 930
-date: 2018-10-25T22:10:29+07:00
+date: 2012-05-22T19:19:49+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2015-02-26T04:20:34+07:00
+updated: 2012-03-27T06:53:36+07:00
 
 This is content of post 930

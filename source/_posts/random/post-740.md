@@ -1,12 +1,12 @@
 ---
 title: Post 740
-date: 2014-09-22T07:21:53+07:00
+date: 2020-02-02T19:19:33+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2014-04-28T21:46:53+07:00
+updated: 2019-12-19T10:10:17+07:00
 
 This is content of post 740

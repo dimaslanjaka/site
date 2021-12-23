@@ -1,12 +1,12 @@
 ---
 title: Post 341
-date: 2017-08-25T07:35:32+07:00
+date: 2015-11-15T10:57:31+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-06-13T15:47:02+07:00
+updated: 2013-12-25T00:58:54+07:00
 
 This is content of post 341

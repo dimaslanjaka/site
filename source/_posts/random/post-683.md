@@ -1,12 +1,12 @@
 ---
 title: Post 683
-date: 2015-06-27T03:03:00+07:00
+date: 2018-05-22T07:13:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-02-21T23:00:07+07:00
+updated: 2013-02-14T12:55:11+07:00
 
 This is content of post 683

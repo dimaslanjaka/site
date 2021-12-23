@@ -1,12 +1,12 @@
 ---
 title: Post 487
-date: 2018-09-04T00:44:53+07:00
+date: 2017-08-20T00:06:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-10-04T06:28:55+07:00
+updated: 2014-12-06T19:13:39+07:00
 
 This is content of post 487

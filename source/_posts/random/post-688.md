@@ -1,12 +1,12 @@
 ---
 title: Post 688
-date: 2014-06-06T19:52:22+07:00
+date: 2017-05-23T03:28:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-26T10:19:37+07:00
+updated: 2015-03-15T05:16:17+07:00
 
 This is content of post 688

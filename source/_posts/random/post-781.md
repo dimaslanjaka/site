@@ -1,12 +1,12 @@
 ---
 title: Post 781
-date: 2012-05-12T06:49:17+07:00
+date: 2016-04-09T03:18:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-08T19:25:21+07:00
+updated: 2013-09-15T01:36:33+07:00
 
 This is content of post 781

@@ -1,12 +1,12 @@
 ---
 title: Post 12
-date: 2021-07-01T03:29:50+07:00
+date: 2017-04-03T13:43:31+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2021-04-22T20:24:35+07:00
+updated: 2016-04-21T02:44:53+07:00
 
 This is content of post 12

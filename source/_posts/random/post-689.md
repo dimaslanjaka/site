@@ -1,12 +1,12 @@
 ---
 title: Post 689
-date: 2014-06-05T14:10:21+07:00
+date: 2017-10-28T06:57:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-08-23T04:11:34+07:00
+updated: 2017-02-11T21:31:07+07:00
 
 This is content of post 689

@@ -1,12 +1,12 @@
 ---
 title: Post 348
-date: 2013-11-10T01:36:11+07:00
+date: 2016-01-19T18:25:37+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-08-25T10:41:04+07:00
+updated: 2012-10-10T00:14:47+07:00
 
 This is content of post 348

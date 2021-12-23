@@ -1,12 +1,12 @@
 ---
 title: Post 628
-date: 2014-06-12T07:05:24+07:00
+date: 2015-12-30T15:42:49+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-10T08:13:46+07:00
+updated: 2014-05-03T08:20:38+07:00
 
 This is content of post 628

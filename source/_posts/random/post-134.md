@@ -1,12 +1,12 @@
 ---
 title: Post 134
-date: 2018-08-23T02:53:16+07:00
+date: 2012-09-30T12:49:17+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-01-07T16:03:40+07:00
+updated: 2012-09-02T22:55:43+07:00
 
 This is content of post 134

@@ -1,12 +1,12 @@
 ---
 title: Post 742
-date: 2015-12-11T17:42:50+07:00
+date: 2014-04-22T01:58:00+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-02-14T11:41:03+07:00
+updated: 2013-10-02T23:14:16+07:00
 
 This is content of post 742

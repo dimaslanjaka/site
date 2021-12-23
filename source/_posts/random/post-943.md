@@ -1,12 +1,12 @@
 ---
 title: Post 943
-date: 2021-08-21T06:48:41+07:00
+date: 2014-04-20T03:30:38+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2020-02-21T23:13:06+07:00
+updated: 2012-05-11T09:24:30+07:00
 
 This is content of post 943

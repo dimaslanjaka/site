@@ -1,12 +1,12 @@
 ---
 title: Post 494
-date: 2012-05-24T13:43:03+07:00
+date: 2018-03-28T19:20:11+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-04-24T06:10:43+07:00
+updated: 2017-09-06T15:38:20+07:00
 
 This is content of post 494

@@ -1,12 +1,12 @@
 ---
 title: Post 917
-date: 2019-09-20T03:08:26+07:00
+date: 2018-03-26T10:30:04+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-07-26T12:23:43+07:00
+updated: 2018-03-05T12:42:08+07:00
 
 This is content of post 917

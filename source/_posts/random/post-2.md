@@ -1,12 +1,12 @@
 ---
 title: Post 2
-date: 2019-08-27T13:26:57+07:00
+date: 2012-12-24T03:26:08+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-05-26T07:04:17+07:00
+updated: 2012-07-18T00:30:59+07:00
 
 This is content of post 2

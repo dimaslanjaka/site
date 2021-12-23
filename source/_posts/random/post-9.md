@@ -1,12 +1,12 @@
 ---
 title: Post 9
-date: 2019-01-10T14:42:22+07:00
+date: 2020-12-07T05:48:53+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-03-19T05:10:47+07:00
+updated: 2012-04-01T00:45:39+07:00
 
 This is content of post 9

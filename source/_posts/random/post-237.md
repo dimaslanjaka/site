@@ -1,12 +1,12 @@
 ---
 title: Post 237
-date: 2013-02-28T15:03:04+07:00
+date: 2013-01-21T23:43:41+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-04T06:37:49+07:00
+updated: 2012-06-27T23:21:51+07:00
 
 This is content of post 237

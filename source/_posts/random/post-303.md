@@ -1,12 +1,12 @@
 ---
 title: Post 303
-date: 2017-07-05T17:19:27+07:00
+date: 2013-10-18T14:42:05+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-05-10T23:15:11+07:00
+updated: 2013-01-22T15:38:43+07:00
 
 This is content of post 303

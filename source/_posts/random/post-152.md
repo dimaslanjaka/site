@@ -1,12 +1,12 @@
 ---
 title: Post 152
-date: 2012-08-26T23:12:34+07:00
+date: 2020-05-06T18:01:39+07:00
 tags:
   - random post
   - post has 5
 category:
   - random post
   - uncategorized
-updated: 2012-05-16T16:06:11+07:00
+updated: 2012-10-04T04:21:38+07:00
 
 This is content of post 152

@@ -1,12 +1,12 @@
 ---
 title: Post 736
-date: 2021-08-19T03:48:54+07:00
+date: 2018-07-19T20:07:02+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2021-01-26T19:50:33+07:00
+updated: 2014-08-16T00:29:25+07:00
 
 This is content of post 736

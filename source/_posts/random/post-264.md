@@ -1,12 +1,12 @@
 ---
 title: Post 264
-date: 2013-04-28T06:20:35+07:00
+date: 2016-03-30T04:09:34+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-08-25T08:47:56+07:00
+updated: 2013-01-26T04:38:28+07:00
 
 This is content of post 264

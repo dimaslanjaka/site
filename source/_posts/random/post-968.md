@@ -1,12 +1,12 @@
 ---
 title: Post 968
-date: 2019-11-27T16:32:55+07:00
+date: 2021-11-01T08:29:07+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-03-27T11:39:50+07:00
+updated: 2013-03-17T04:01:01+07:00
 
 This is content of post 968

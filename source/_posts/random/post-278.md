@@ -1,12 +1,12 @@
 ---
 title: Post 278
-date: 2020-05-20T00:08:52+07:00
+date: 2016-05-01T01:58:57+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-11-09T10:37:44+07:00
+updated: 2013-12-01T06:23:40+07:00
 
 This is content of post 278

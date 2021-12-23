@@ -1,12 +1,12 @@
 ---
 title: Post 887
-date: 2012-06-13T19:49:15+07:00
+date: 2018-07-17T11:56:33+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-02T19:43:02+07:00
+updated: 2018-06-26T16:52:45+07:00
 
 This is content of post 887

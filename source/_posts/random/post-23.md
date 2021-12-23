@@ -1,12 +1,12 @@
 ---
 title: Post 23
-date: 2019-07-30T06:29:43+07:00
+date: 2020-05-12T15:13:57+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-12-18T18:11:08+07:00
+updated: 2015-12-25T09:48:16+07:00
 
 This is content of post 23

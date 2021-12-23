@@ -1,12 +1,12 @@
 ---
 title: Post 820
-date: 2019-05-18T01:50:17+07:00
+date: 2017-09-20T00:02:58+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2017-04-20T23:15:01+07:00
+updated: 2017-04-25T19:29:33+07:00
 
 This is content of post 820

@@ -1,12 +1,12 @@
 ---
 title: Post 671
-date: 2018-10-11T02:22:51+07:00
+date: 2015-05-16T16:42:24+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-07-05T11:01:56+07:00
+updated: 2014-10-15T10:02:04+07:00
 
 This is content of post 671

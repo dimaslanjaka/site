@@ -1,12 +1,12 @@
 ---
 title: Post 776
-date: 2019-01-12T15:24:15+07:00
+date: 2018-02-13T21:19:09+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-11-27T19:22:25+07:00
+updated: 2017-03-12T01:38:51+07:00
 
 This is content of post 776

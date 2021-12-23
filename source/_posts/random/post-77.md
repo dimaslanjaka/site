@@ -1,12 +1,12 @@
 ---
 title: Post 77
-date: 2020-09-06T08:05:33+07:00
+date: 2015-02-08T05:45:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-10-11T22:34:16+07:00
+updated: 2012-11-06T05:31:02+07:00
 
 This is content of post 77

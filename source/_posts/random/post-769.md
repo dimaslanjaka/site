@@ -1,12 +1,12 @@
 ---
 title: Post 769
-date: 2015-03-06T05:43:01+07:00
+date: 2013-09-11T19:24:52+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-07-19T17:51:44+07:00
+updated: 2012-04-26T10:07:15+07:00
 
 This is content of post 769

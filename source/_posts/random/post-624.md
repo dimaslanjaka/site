@@ -1,12 +1,12 @@
 ---
 title: Post 624
-date: 2019-06-05T22:58:51+07:00
+date: 2013-01-08T01:15:03+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-06-17T11:12:18+07:00
+updated: 2012-04-15T14:07:35+07:00
 
 This is content of post 624

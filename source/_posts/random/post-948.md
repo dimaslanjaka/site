@@ -1,12 +1,12 @@
 ---
 title: Post 948
-date: 2020-07-05T17:12:16+07:00
+date: 2015-04-29T22:27:45+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-26T16:10:36+07:00
+updated: 2013-04-28T23:16:19+07:00
 
 This is content of post 948

@@ -1,12 +1,12 @@
 ---
 title: Post 76
-date: 2012-01-10T08:02:09+07:00
+date: 2021-05-09T21:10:52+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-09T03:37:43+07:00
+updated: 2014-06-22T16:03:11+07:00
 
 This is content of post 76

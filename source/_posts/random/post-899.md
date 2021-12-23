@@ -1,12 +1,12 @@
 ---
 title: Post 899
-date: 2018-10-13T11:17:21+07:00
+date: 2012-09-24T05:34:36+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-10-05T12:52:59+07:00
+updated: 2012-04-13T18:16:35+07:00
 
 This is content of post 899

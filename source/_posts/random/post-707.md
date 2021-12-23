@@ -1,12 +1,12 @@
 ---
 title: Post 707
-date: 2014-03-18T21:42:49+07:00
+date: 2018-04-06T10:32:19+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-11-07T09:45:14+07:00
+updated: 2012-01-13T08:45:24+07:00
 
 This is content of post 707

@@ -1,12 +1,12 @@
 ---
 title: Post 783
-date: 2017-10-14T20:54:39+07:00
+date: 2021-03-19T08:45:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-12-27T01:12:42+07:00
+updated: 2015-02-09T07:52:53+07:00
 
 This is content of post 783

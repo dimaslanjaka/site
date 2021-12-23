@@ -1,12 +1,12 @@
 ---
 title: Post 940
-date: 2015-04-08T11:30:40+07:00
+date: 2012-09-11T17:36:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2014-04-22T15:22:40+07:00
+updated: 2012-07-18T07:05:07+07:00
 
 This is content of post 940

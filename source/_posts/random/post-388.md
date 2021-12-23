@@ -1,12 +1,12 @@
 ---
 title: Post 388
-date: 2018-09-14T07:56:33+07:00
+date: 2021-10-30T09:49:59+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-10-03T19:03:17+07:00
+updated: 2016-09-10T13:57:38+07:00
 
 This is content of post 388

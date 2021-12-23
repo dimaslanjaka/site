@@ -1,12 +1,12 @@
 ---
 title: Post 10
-date: 2016-11-18T00:51:24+07:00
+date: 2014-09-08T13:39:06+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2015-07-05T18:06:45+07:00
+updated: 2014-06-22T13:38:59+07:00
 
 This is content of post 10

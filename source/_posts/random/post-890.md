@@ -1,12 +1,12 @@
 ---
 title: Post 890
-date: 2018-07-12T00:48:13+07:00
+date: 2019-09-25T15:39:08+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2016-10-01T23:06:03+07:00
+updated: 2017-05-22T17:50:38+07:00
 
 This is content of post 890

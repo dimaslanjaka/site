@@ -1,12 +1,12 @@
 ---
 title: Post 789
-date: 2021-11-04T03:14:34+07:00
+date: 2013-08-24T03:07:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-08-30T04:21:39+07:00
+updated: 2013-06-08T23:46:35+07:00
 
 This is content of post 789

@@ -1,12 +1,12 @@
 ---
 title: Post 741
-date: 2021-08-25T00:57:15+07:00
+date: 2013-03-22T00:01:46+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-09-07T12:49:58+07:00
+updated: 2012-01-27T04:08:59+07:00
 
 This is content of post 741

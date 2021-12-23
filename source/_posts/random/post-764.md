@@ -1,12 +1,12 @@
 ---
 title: Post 764
-date: 2012-09-18T15:48:14+07:00
+date: 2015-07-29T22:30:17+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-25T16:08:15+07:00
+updated: 2013-09-12T00:36:05+07:00
 
 This is content of post 764

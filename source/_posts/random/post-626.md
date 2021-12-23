@@ -1,12 +1,12 @@
 ---
 title: Post 626
-date: 2013-04-26T02:43:32+07:00
+date: 2020-04-16T20:01:17+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-18T10:46:55+07:00
+updated: 2016-01-06T18:44:59+07:00
 
 This is content of post 626

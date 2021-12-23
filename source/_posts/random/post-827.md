@@ -1,12 +1,12 @@
 ---
 title: Post 827
-date: 2018-03-20T20:26:21+07:00
+date: 2019-08-23T01:03:38+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-07-27T22:15:01+07:00
+updated: 2018-09-01T13:03:07+07:00
 
 This is content of post 827

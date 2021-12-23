@@ -1,12 +1,12 @@
 ---
 title: Post 778
-date: 2014-09-21T16:22:17+07:00
+date: 2018-12-07T07:31:47+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-02-17T15:38:23+07:00
+updated: 2012-04-07T23:37:52+07:00
 
 This is content of post 778

@@ -1,12 +1,12 @@
 ---
 title: Post 0
-date: 2014-12-03T02:03:18+07:00
+date: 2018-10-09T11:44:36+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2013-01-07T06:11:49+07:00
+updated: 2016-04-01T18:41:48+07:00
 
 This is content of post 0

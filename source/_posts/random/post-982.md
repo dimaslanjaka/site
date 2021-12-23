@@ -1,12 +1,12 @@
 ---
 title: Post 982
-date: 2019-12-10T11:22:03+07:00
+date: 2021-03-02T20:51:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-23T22:51:41+07:00
+updated: 2012-07-20T08:45:16+07:00
 
 This is content of post 982

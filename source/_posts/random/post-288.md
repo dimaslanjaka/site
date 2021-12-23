@@ -1,12 +1,12 @@
 ---
 title: Post 288
-date: 2015-02-11T02:04:41+07:00
+date: 2013-05-12T13:14:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-01-20T16:40:07+07:00
+updated: 2012-08-17T07:41:47+07:00
 
 This is content of post 288

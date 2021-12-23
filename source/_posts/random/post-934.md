@@ -1,12 +1,12 @@
 ---
 title: Post 934
-date: 2015-05-11T13:13:09+07:00
+date: 2020-04-26T23:06:09+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-12-22T14:06:56+07:00
+updated: 2013-05-31T04:50:14+07:00
 
 This is content of post 934

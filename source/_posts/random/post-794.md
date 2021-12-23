@@ -1,12 +1,12 @@
 ---
 title: Post 794
-date: 2015-12-18T07:08:49+07:00
+date: 2021-06-22T12:45:18+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-10-18T21:53:02+07:00
+updated: 2012-02-11T02:22:21+07:00
 
 This is content of post 794

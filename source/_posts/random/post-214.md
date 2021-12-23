@@ -1,12 +1,12 @@
 ---
 title: Post 214
-date: 2019-10-07T04:02:34+07:00
+date: 2015-01-31T20:37:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-05-20T04:56:41+07:00
+updated: 2013-11-23T16:21:06+07:00
 
 This is content of post 214

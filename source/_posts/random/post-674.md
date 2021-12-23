@@ -1,12 +1,12 @@
 ---
 title: Post 674
-date: 2016-03-20T02:14:32+07:00
+date: 2020-11-25T02:30:39+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-05-08T14:23:23+07:00
+updated: 2019-11-25T00:13:53+07:00
 
 This is content of post 674

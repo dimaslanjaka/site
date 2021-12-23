@@ -1,12 +1,12 @@
 ---
 title: Post 773
-date: 2020-07-28T21:27:53+07:00
+date: 2015-12-01T08:58:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-12-30T03:55:09+07:00
+updated: 2012-09-24T16:08:49+07:00
 
 This is content of post 773

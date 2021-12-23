@@ -1,12 +1,12 @@
 ---
 title: Post 369
-date: 2019-04-03T13:58:01+07:00
+date: 2018-03-17T15:28:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-10-05T14:12:15+07:00
+updated: 2015-09-29T16:06:06+07:00
 
 This is content of post 369

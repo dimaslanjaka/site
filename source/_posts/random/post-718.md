@@ -1,12 +1,12 @@
 ---
 title: Post 718
-date: 2014-08-27T08:40:36+07:00
+date: 2014-10-01T07:40:49+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-08-09T01:59:03+07:00
+updated: 2014-01-17T12:30:33+07:00
 
 This is content of post 718

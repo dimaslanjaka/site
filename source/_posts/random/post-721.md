@@ -1,12 +1,12 @@
 ---
 title: Post 721
-date: 2012-06-20T23:42:58+07:00
+date: 2016-11-18T12:40:11+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-02T23:17:38+07:00
+updated: 2013-12-17T08:24:44+07:00
 
 This is content of post 721

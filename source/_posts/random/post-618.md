@@ -1,12 +1,12 @@
 ---
 title: Post 618
-date: 2015-01-01T19:52:08+07:00
+date: 2021-11-02T15:11:11+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-04-11T04:20:14+07:00
+updated: 2013-03-24T11:08:07+07:00
 
 This is content of post 618

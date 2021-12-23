@@ -1,12 +1,12 @@
 ---
 title: Post 276
-date: 2019-04-04T14:27:39+07:00
+date: 2020-12-21T01:31:26+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-26T22:49:41+07:00
+updated: 2013-03-08T16:56:35+07:00
 
 This is content of post 276

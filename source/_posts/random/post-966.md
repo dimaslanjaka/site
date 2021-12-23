@@ -1,12 +1,12 @@
 ---
 title: Post 966
-date: 2014-09-24T02:14:24+07:00
+date: 2017-10-05T16:46:54+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-02-24T02:47:18+07:00
+updated: 2015-10-01T21:55:59+07:00
 
 This is content of post 966

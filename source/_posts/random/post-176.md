@@ -1,12 +1,12 @@
 ---
 title: Post 176
-date: 2015-10-06T23:47:31+07:00
+date: 2015-04-30T11:47:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-07-26T01:40:06+07:00
+updated: 2014-06-24T02:20:29+07:00
 
 This is content of post 176

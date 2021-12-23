@@ -1,12 +1,12 @@
 ---
 title: Post 212
-date: 2019-08-14T19:44:36+07:00
+date: 2018-05-01T08:58:20+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-10-19T14:27:05+07:00
+updated: 2013-06-18T10:53:58+07:00
 
 This is content of post 212

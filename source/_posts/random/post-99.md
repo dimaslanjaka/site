@@ -1,12 +1,12 @@
 ---
 title: Post 99
-date: 2013-01-15T05:55:18+07:00
+date: 2018-01-10T04:44:12+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-09-02T01:38:18+07:00
+updated: 2015-01-18T08:59:42+07:00
 
 This is content of post 99

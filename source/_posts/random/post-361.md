@@ -1,12 +1,12 @@
 ---
 title: Post 361
-date: 2013-09-20T19:10:18+07:00
+date: 2015-04-23T03:00:12+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-03-29T21:05:12+07:00
+updated: 2014-10-20T07:22:19+07:00
 
 This is content of post 361

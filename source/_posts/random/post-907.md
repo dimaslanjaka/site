@@ -1,12 +1,12 @@
 ---
 title: Post 907
-date: 2012-03-12T05:54:38+07:00
+date: 2015-05-21T10:19:35+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-01-19T09:14:02+07:00
+updated: 2012-10-13T07:48:07+07:00
 
 This is content of post 907

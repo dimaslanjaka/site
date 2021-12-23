@@ -1,12 +1,12 @@
 ---
 title: Post 373
-date: 2017-03-01T08:27:22+07:00
+date: 2012-12-31T02:38:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-08-20T21:49:08+07:00
+updated: 2012-12-12T15:54:24+07:00
 
 This is content of post 373

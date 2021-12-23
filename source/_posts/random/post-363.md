@@ -1,12 +1,12 @@
 ---
 title: Post 363
-date: 2016-04-28T05:16:03+07:00
+date: 2021-01-17T05:49:02+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-08-05T13:18:31+07:00
+updated: 2012-03-01T15:03:02+07:00
 
 This is content of post 363

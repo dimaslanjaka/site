@@ -1,12 +1,12 @@
 ---
 title: Post 102
-date: 2021-09-07T08:43:04+07:00
+date: 2016-09-06T06:30:48+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2013-01-20T12:48:45+07:00
+updated: 2014-02-14T07:37:49+07:00
 
 This is content of post 102

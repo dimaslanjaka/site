@@ -1,12 +1,12 @@
 ---
 title: Post 342
-date: 2017-10-01T01:26:41+07:00
+date: 2014-02-26T21:19:55+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-01-05T21:50:36+07:00
+updated: 2013-11-15T22:03:41+07:00
 
 This is content of post 342

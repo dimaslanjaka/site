@@ -1,12 +1,12 @@
 ---
 title: Post 380
-date: 2017-06-14T14:26:05+07:00
+date: 2016-07-12T23:53:04+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2016-03-30T03:41:17+07:00
+updated: 2014-05-16T18:49:06+07:00
 
 This is content of post 380

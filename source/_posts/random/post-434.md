@@ -1,12 +1,12 @@
 ---
 title: Post 434
-date: 2015-07-02T17:34:06+07:00
+date: 2016-03-01T12:19:40+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-11T03:57:39+07:00
+updated: 2015-02-22T22:01:22+07:00
 
 This is content of post 434

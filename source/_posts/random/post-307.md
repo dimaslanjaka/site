@@ -1,12 +1,12 @@
 ---
 title: Post 307
-date: 2016-08-25T01:16:33+07:00
+date: 2018-08-26T07:57:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-08-20T13:51:23+07:00
+updated: 2016-02-25T23:59:56+07:00
 
 This is content of post 307

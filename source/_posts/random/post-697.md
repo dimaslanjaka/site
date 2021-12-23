@@ -1,12 +1,12 @@
 ---
 title: Post 697
-date: 2012-08-17T18:26:09+07:00
+date: 2015-07-20T05:30:11+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-08-10T14:11:21+07:00
+updated: 2012-02-21T23:20:30+07:00
 
 This is content of post 697

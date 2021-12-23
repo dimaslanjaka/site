@@ -1,12 +1,12 @@
 ---
 title: Post 971
-date: 2013-07-30T11:54:23+07:00
+date: 2021-07-10T00:57:08+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-29T05:17:29+07:00
+updated: 2019-01-31T16:46:52+07:00
 
 This is content of post 971

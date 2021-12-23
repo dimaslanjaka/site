@@ -1,12 +1,12 @@
 ---
 title: Post 732
-date: 2020-01-24T17:51:08+07:00
+date: 2016-05-13T12:44:56+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2019-09-19T04:51:22+07:00
+updated: 2013-10-11T01:08:56+07:00
 
 This is content of post 732

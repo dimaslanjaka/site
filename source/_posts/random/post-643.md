@@ -1,12 +1,12 @@
 ---
 title: Post 643
-date: 2019-12-09T12:01:08+07:00
+date: 2018-02-26T17:20:58+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-10-05T12:26:13+07:00
+updated: 2013-12-12T08:24:13+07:00
 
 This is content of post 643

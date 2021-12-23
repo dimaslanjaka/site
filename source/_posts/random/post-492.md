@@ -1,12 +1,12 @@
 ---
 title: Post 492
-date: 2016-02-04T22:59:40+07:00
+date: 2021-09-05T15:32:47+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-09-21T22:35:20+07:00
+updated: 2014-09-17T22:48:12+07:00
 
 This is content of post 492

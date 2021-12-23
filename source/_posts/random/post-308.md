@@ -1,12 +1,12 @@
 ---
 title: Post 308
-date: 2012-10-23T02:25:15+07:00
+date: 2017-10-18T21:39:29+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-10-04T23:25:55+07:00
+updated: 2017-02-22T07:23:51+07:00
 
 This is content of post 308

@@ -1,12 +1,12 @@
 ---
 title: Post 364
-date: 2017-01-24T23:21:16+07:00
+date: 2012-04-26T03:24:25+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-19T07:35:13+07:00
+updated: 2012-04-21T15:32:34+07:00
 
 This is content of post 364

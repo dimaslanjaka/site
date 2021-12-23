@@ -1,12 +1,12 @@
 ---
 title: Post 142
-date: 2015-05-29T23:18:12+07:00
+date: 2013-03-30T20:53:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-07-24T09:25:39+07:00
+updated: 2012-05-06T11:12:18+07:00
 
 This is content of post 142

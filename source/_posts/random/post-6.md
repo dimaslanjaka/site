@@ -1,12 +1,12 @@
 ---
 title: Post 6
-date: 2018-09-13T02:00:25+07:00
+date: 2016-11-11T04:45:11+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-04-28T14:01:18+07:00
+updated: 2016-03-13T06:23:55+07:00
 
 This is content of post 6

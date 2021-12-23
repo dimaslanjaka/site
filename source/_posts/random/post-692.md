@@ -1,12 +1,12 @@
 ---
 title: Post 692
-date: 2014-08-22T00:45:11+07:00
+date: 2019-07-09T09:46:25+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-03-06T15:13:11+07:00
+updated: 2014-02-05T11:05:12+07:00
 
 This is content of post 692

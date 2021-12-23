@@ -1,12 +1,12 @@
 ---
 title: Post 468
-date: 2014-01-13T04:28:05+07:00
+date: 2014-12-23T04:14:48+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-09-23T22:13:41+07:00
+updated: 2012-01-17T23:25:29+07:00
 
 This is content of post 468

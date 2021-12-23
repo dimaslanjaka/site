@@ -1,12 +1,12 @@
 ---
 title: Post 496
-date: 2014-09-26T13:02:45+07:00
+date: 2012-05-06T21:29:40+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-24T14:04:59+07:00
+updated: 2012-01-24T07:00:58+07:00
 
 This is content of post 496

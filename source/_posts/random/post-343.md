@@ -1,12 +1,12 @@
 ---
 title: Post 343
-date: 2014-04-12T06:05:28+07:00
+date: 2020-02-23T18:46:53+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-06-11T08:51:43+07:00
+updated: 2014-07-06T23:17:12+07:00
 
 This is content of post 343

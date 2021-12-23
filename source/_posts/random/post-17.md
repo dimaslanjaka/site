@@ -1,12 +1,12 @@
 ---
 title: Post 17
-date: 2014-06-19T17:18:41+07:00
+date: 2015-11-26T12:10:49+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-02-28T09:57:30+07:00
+updated: 2014-09-18T22:09:48+07:00
 
 This is content of post 17

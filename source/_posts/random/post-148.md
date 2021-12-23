@@ -1,12 +1,12 @@
 ---
 title: Post 148
-date: 2018-07-31T22:40:35+07:00
+date: 2017-02-03T15:09:33+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-01-01T07:50:17+07:00
+updated: 2014-12-24T08:19:01+07:00
 
 This is content of post 148

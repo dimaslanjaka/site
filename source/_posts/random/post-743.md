@@ -1,12 +1,12 @@
 ---
 title: Post 743
-date: 2017-05-13T05:27:39+07:00
+date: 2013-10-12T06:19:56+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-17T00:42:33+07:00
+updated: 2012-02-13T15:04:46+07:00
 
 This is content of post 743

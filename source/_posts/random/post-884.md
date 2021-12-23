@@ -1,12 +1,12 @@
 ---
 title: Post 884
-date: 2013-09-18T08:22:04+07:00
+date: 2017-06-15T05:44:55+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-08-15T20:07:16+07:00
+updated: 2014-03-01T19:11:58+07:00
 
 This is content of post 884

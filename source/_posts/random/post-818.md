@@ -1,12 +1,12 @@
 ---
 title: Post 818
-date: 2018-10-05T08:31:35+07:00
+date: 2021-02-18T00:05:18+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-02T04:32:53+07:00
+updated: 2016-09-18T13:52:09+07:00
 
 This is content of post 818

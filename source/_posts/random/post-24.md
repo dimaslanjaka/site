@@ -1,12 +1,12 @@
 ---
 title: Post 24
-date: 2015-02-03T23:01:56+07:00
+date: 2021-10-17T14:29:57+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-03-12T21:09:51+07:00
+updated: 2012-05-23T03:12:30+07:00
 
 This is content of post 24

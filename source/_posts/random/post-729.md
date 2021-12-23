@@ -1,12 +1,12 @@
 ---
 title: Post 729
-date: 2018-03-19T18:09:23+07:00
+date: 2015-01-13T01:42:33+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-03-28T09:58:53+07:00
+updated: 2013-10-18T15:39:41+07:00
 
 This is content of post 729

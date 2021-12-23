@@ -1,12 +1,12 @@
 ---
 title: Post 892
-date: 2012-12-28T01:42:53+07:00
+date: 2019-07-14T23:04:30+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-10-19T05:57:22+07:00
+updated: 2012-02-01T05:28:00+07:00
 
 This is content of post 892

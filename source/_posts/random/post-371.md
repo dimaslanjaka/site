@@ -1,12 +1,12 @@
 ---
 title: Post 371
-date: 2013-10-11T09:30:02+07:00
+date: 2021-05-26T16:52:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-04-29T11:42:15+07:00
+updated: 2021-03-27T12:45:01+07:00
 
 This is content of post 371

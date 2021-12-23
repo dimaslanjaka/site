@@ -1,12 +1,12 @@
 ---
 title: Post 808
-date: 2012-05-12T17:44:19+07:00
+date: 2013-01-15T05:22:12+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-03-16T10:37:40+07:00
+updated: 2012-05-16T12:36:50+07:00
 
 This is content of post 808

@@ -1,12 +1,12 @@
 ---
 title: Post 607
-date: 2015-07-20T09:16:17+07:00
+date: 2014-12-31T00:01:35+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2015-01-11T14:42:32+07:00
+updated: 2014-11-23T04:27:06+07:00
 
 This is content of post 607

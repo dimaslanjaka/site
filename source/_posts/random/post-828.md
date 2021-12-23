@@ -1,12 +1,12 @@
 ---
 title: Post 828
-date: 2014-09-20T21:48:36+07:00
+date: 2020-09-06T03:12:04+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-08-25T09:41:31+07:00
+updated: 2015-12-14T19:27:56+07:00
 
 This is content of post 828

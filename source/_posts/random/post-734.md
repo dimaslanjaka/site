@@ -1,12 +1,12 @@
 ---
 title: Post 734
-date: 2017-07-08T19:56:07+07:00
+date: 2013-03-14T16:00:07+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-18T07:25:24+07:00
+updated: 2012-09-17T15:04:05+07:00
 
 This is content of post 734

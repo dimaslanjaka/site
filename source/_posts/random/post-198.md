@@ -1,12 +1,12 @@
 ---
 title: Post 198
-date: 2012-09-18T17:03:40+07:00
+date: 2018-11-10T06:26:08+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-02T03:39:05+07:00
+updated: 2014-06-13T15:40:08+07:00
 
 This is content of post 198

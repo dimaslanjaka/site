@@ -1,12 +1,12 @@
 ---
 title: Post 973
-date: 2014-10-24T03:09:08+07:00
+date: 2012-09-15T18:35:12+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-10-21T19:10:17+07:00
+updated: 2012-08-05T15:28:24+07:00
 
 This is content of post 973

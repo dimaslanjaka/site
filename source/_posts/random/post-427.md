@@ -1,12 +1,12 @@
 ---
 title: Post 427
-date: 2018-03-26T02:30:47+07:00
+date: 2012-09-17T19:53:36+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-06-10T23:06:42+07:00
+updated: 2012-01-08T16:48:26+07:00
 
 This is content of post 427

@@ -1,12 +1,12 @@
 ---
 title: Post 792
-date: 2013-06-27T08:41:44+07:00
+date: 2012-04-28T12:54:06+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-03-10T00:43:19+07:00
+updated: 2012-03-02T00:46:52+07:00
 
 This is content of post 792

@@ -1,12 +1,12 @@
 ---
 title: Post 338
-date: 2018-02-17T23:46:45+07:00
+date: 2020-08-26T09:06:22+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-01-14T12:54:18+07:00
+updated: 2012-01-31T22:16:27+07:00
 
 This is content of post 338

@@ -1,12 +1,12 @@
 ---
 title: Post 196
-date: 2018-09-16T18:25:05+07:00
+date: 2017-02-20T20:10:54+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-08-27T16:21:03+07:00
+updated: 2012-09-07T01:28:46+07:00
 
 This is content of post 196

@@ -1,12 +1,12 @@
 ---
 title: Post 29
-date: 2017-07-14T07:14:17+07:00
+date: 2015-02-25T14:06:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-10-25T14:25:31+07:00
+updated: 2015-02-23T17:36:41+07:00
 
 This is content of post 29

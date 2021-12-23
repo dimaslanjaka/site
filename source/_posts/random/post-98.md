@@ -1,12 +1,12 @@
 ---
 title: Post 98
-date: 2020-01-05T20:36:17+07:00
+date: 2014-08-28T00:49:57+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-06-07T08:40:20+07:00
+updated: 2014-08-07T02:51:45+07:00
 
 This is content of post 98

@@ -1,12 +1,12 @@
 ---
 title: Post 316
-date: 2015-11-03T12:29:33+07:00
+date: 2018-01-02T15:29:26+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-07-05T08:33:42+07:00
+updated: 2013-05-20T11:24:13+07:00
 
 This is content of post 316

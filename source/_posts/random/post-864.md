@@ -1,12 +1,12 @@
 ---
 title: Post 864
-date: 2017-03-23T11:08:41+07:00
+date: 2017-07-29T17:48:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-01-02T08:59:35+07:00
+updated: 2013-01-07T00:20:55+07:00
 
 This is content of post 864

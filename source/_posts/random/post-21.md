@@ -1,12 +1,12 @@
 ---
 title: Post 21
-date: 2020-03-02T23:50:23+07:00
+date: 2018-04-07T06:30:13+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2019-01-09T20:49:24+07:00
+updated: 2016-07-20T15:12:09+07:00
 
 This is content of post 21

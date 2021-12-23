@@ -1,12 +1,12 @@
 ---
 title: Post 984
-date: 2017-07-14T22:12:38+07:00
+date: 2016-11-07T15:34:47+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-05-28T05:12:40+07:00
+updated: 2014-09-20T23:09:51+07:00
 
 This is content of post 984

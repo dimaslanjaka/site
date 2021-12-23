@@ -1,12 +1,12 @@
 ---
 title: Post 603
-date: 2019-09-22T11:54:30+07:00
+date: 2018-06-30T21:45:51+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-01-23T07:17:46+07:00
+updated: 2017-05-26T15:47:25+07:00
 
 This is content of post 603

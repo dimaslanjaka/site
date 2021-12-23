@@ -1,12 +1,12 @@
 ---
 title: Post 297
-date: 2021-02-19T16:42:21+07:00
+date: 2020-06-19T07:42:53+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-10-15T23:52:27+07:00
+updated: 2018-05-29T12:03:07+07:00
 
 This is content of post 297

@@ -1,12 +1,12 @@
 ---
 title: Post 249
-date: 2014-07-20T11:42:03+07:00
+date: 2012-11-19T15:59:30+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-06-21T14:56:44+07:00
+updated: 2012-06-17T03:46:31+07:00
 
 This is content of post 249

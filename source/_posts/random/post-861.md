@@ -1,12 +1,12 @@
 ---
 title: Post 861
-date: 2016-02-11T16:46:08+07:00
+date: 2021-02-06T06:46:46+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-06-29T00:01:24+07:00
+updated: 2012-07-28T22:30:45+07:00
 
 This is content of post 861

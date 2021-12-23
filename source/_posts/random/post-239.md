@@ -1,12 +1,12 @@
 ---
 title: Post 239
-date: 2013-09-18T06:54:03+07:00
+date: 2013-01-26T12:19:54+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-09-08T20:59:10+07:00
+updated: 2012-12-05T15:04:42+07:00
 
 This is content of post 239

@@ -1,12 +1,12 @@
 ---
 title: Post 690
-date: 2018-03-04T10:29:25+07:00
+date: 2021-07-19T06:35:28+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2017-12-20T09:15:10+07:00
+updated: 2013-10-27T14:18:11+07:00
 
 This is content of post 690

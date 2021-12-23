@@ -1,12 +1,12 @@
 ---
 title: Post 118
-date: 2012-03-20T05:18:40+07:00
+date: 2015-09-10T08:57:09+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-26T04:47:29+07:00
+updated: 2012-04-01T09:21:40+07:00
 
 This is content of post 118

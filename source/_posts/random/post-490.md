@@ -1,12 +1,12 @@
 ---
 title: Post 490
-date: 2019-02-17T11:41:49+07:00
+date: 2021-09-03T05:21:29+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2017-09-19T22:08:29+07:00
+updated: 2015-06-26T19:18:03+07:00
 
 This is content of post 490

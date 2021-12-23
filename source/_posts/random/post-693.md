@@ -1,12 +1,12 @@
 ---
 title: Post 693
-date: 2019-08-19T14:21:52+07:00
+date: 2016-05-16T23:29:41+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-02-03T16:15:20+07:00
+updated: 2012-03-03T01:15:02+07:00
 
 This is content of post 693

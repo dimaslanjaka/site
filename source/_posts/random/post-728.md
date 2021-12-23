@@ -1,12 +1,12 @@
 ---
 title: Post 728
-date: 2014-02-14T10:09:50+07:00
+date: 2012-11-10T18:01:35+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-01-03T19:48:28+07:00
+updated: 2012-07-16T20:25:34+07:00
 
 This is content of post 728

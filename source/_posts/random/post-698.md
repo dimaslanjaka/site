@@ -1,12 +1,12 @@
 ---
 title: Post 698
-date: 2013-06-03T13:36:44+07:00
+date: 2017-06-11T16:11:48+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-12-16T13:50:45+07:00
+updated: 2013-06-11T09:24:12+07:00
 
 This is content of post 698

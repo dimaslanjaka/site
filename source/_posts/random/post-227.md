@@ -1,12 +1,12 @@
 ---
 title: Post 227
-date: 2021-08-08T10:32:56+07:00
+date: 2020-04-07T21:21:09+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-02-11T19:50:58+07:00
+updated: 2014-05-13T02:38:22+07:00
 
 This is content of post 227

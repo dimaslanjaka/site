@@ -1,12 +1,12 @@
 ---
 title: Post 473
-date: 2012-02-06T06:05:20+07:00
+date: 2014-05-06T19:28:48+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-01-15T00:34:32+07:00
+updated: 2012-08-15T23:02:18+07:00
 
 This is content of post 473

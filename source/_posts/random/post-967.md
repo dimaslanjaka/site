@@ -1,12 +1,12 @@
 ---
 title: Post 967
-date: 2021-02-27T15:33:30+07:00
+date: 2016-06-20T07:28:22+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-11-23T21:33:51+07:00
+updated: 2013-03-04T14:45:04+07:00
 
 This is content of post 967

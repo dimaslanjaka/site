@@ -1,12 +1,12 @@
 ---
 title: Post 642
-date: 2018-07-10T12:35:42+07:00
+date: 2015-01-07T11:39:19+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-10-12T10:38:46+07:00
+updated: 2012-01-07T02:13:19+07:00
 
 This is content of post 642

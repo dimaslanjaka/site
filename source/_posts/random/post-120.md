@@ -1,12 +1,12 @@
 ---
 title: Post 120
-date: 2019-08-10T08:53:36+07:00
+date: 2012-09-18T01:48:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-11-02T18:05:31+07:00
+updated: 2012-03-05T14:50:49+07:00
 
 This is content of post 120

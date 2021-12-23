@@ -1,12 +1,12 @@
 ---
 title: Post 843
-date: 2014-10-28T09:57:01+07:00
+date: 2013-07-11T15:41:05+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-02-13T15:05:05+07:00
+updated: 2012-01-31T01:47:32+07:00
 
 This is content of post 843

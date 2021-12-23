@@ -1,12 +1,12 @@
 ---
 title: Post 271
-date: 2012-08-10T22:26:09+07:00
+date: 2019-05-25T23:04:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-11T08:16:37+07:00
+updated: 2018-07-24T04:34:17+07:00
 
 This is content of post 271

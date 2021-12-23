@@ -1,12 +1,12 @@
 ---
 title: Post 677
-date: 2015-04-18T10:45:11+07:00
+date: 2018-10-29T14:31:48+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-12-03T00:34:18+07:00
+updated: 2015-07-03T05:03:24+07:00
 
 This is content of post 677

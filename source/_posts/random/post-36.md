@@ -1,12 +1,12 @@
 ---
 title: Post 36
-date: 2012-06-12T23:55:43+07:00
+date: 2021-06-19T21:37:09+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-04-05T04:51:44+07:00
+updated: 2016-02-26T17:11:07+07:00
 
 This is content of post 36

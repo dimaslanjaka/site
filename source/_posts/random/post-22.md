@@ -1,12 +1,12 @@
 ---
 title: Post 22
-date: 2015-03-28T18:35:44+07:00
+date: 2014-06-06T19:52:23+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-05-28T17:19:18+07:00
+updated: 2012-06-15T04:51:17+07:00
 
 This is content of post 22

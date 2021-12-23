@@ -1,12 +1,12 @@
 ---
 title: Post 723
-date: 2018-11-12T08:55:35+07:00
+date: 2019-04-05T08:00:03+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2017-08-11T01:34:21+07:00
+updated: 2013-03-25T02:15:26+07:00
 
 This is content of post 723

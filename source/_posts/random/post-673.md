@@ -1,12 +1,12 @@
 ---
 title: Post 673
-date: 2018-10-29T16:30:51+07:00
+date: 2015-08-09T06:50:35+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2016-09-04T09:20:06+07:00
+updated: 2014-03-14T18:31:37+07:00
 
 This is content of post 673

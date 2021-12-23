@@ -1,12 +1,12 @@
 ---
 title: Post 160
-date: 2018-10-29T22:22:21+07:00
+date: 2018-11-10T18:32:04+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2014-09-03T02:29:23+07:00
+updated: 2015-11-29T17:29:04+07:00
 
 This is content of post 160

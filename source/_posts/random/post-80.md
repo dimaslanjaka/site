@@ -1,12 +1,12 @@
 ---
 title: Post 80
-date: 2019-01-06T18:22:14+07:00
+date: 2017-03-03T04:20:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2018-07-28T13:39:52+07:00
+updated: 2013-01-02T13:34:23+07:00
 
 This is content of post 80

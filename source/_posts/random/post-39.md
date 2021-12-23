@@ -1,12 +1,12 @@
 ---
 title: Post 39
-date: 2018-08-30T01:51:25+07:00
+date: 2017-08-09T10:58:55+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2018-01-17T06:54:37+07:00
+updated: 2013-10-23T19:28:29+07:00
 
 This is content of post 39

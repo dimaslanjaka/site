@@ -1,12 +1,12 @@
 ---
 title: Post 79
-date: 2015-09-13T03:40:55+07:00
+date: 2021-06-27T07:56:20+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-02-04T10:27:59+07:00
+updated: 2017-10-10T03:56:06+07:00
 
 This is content of post 79

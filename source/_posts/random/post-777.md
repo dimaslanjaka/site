@@ -1,12 +1,12 @@
 ---
 title: Post 777
-date: 2020-06-02T22:59:13+07:00
+date: 2018-04-08T23:20:46+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-05-12T02:41:39+07:00
+updated: 2016-12-19T05:07:45+07:00
 
 This is content of post 777

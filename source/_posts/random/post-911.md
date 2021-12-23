@@ -1,12 +1,12 @@
 ---
 title: Post 911
-date: 2016-11-05T04:32:23+07:00
+date: 2019-09-26T17:25:55+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-08-14T11:45:59+07:00
+updated: 2018-04-07T00:32:21+07:00
 
 This is content of post 911

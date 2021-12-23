@@ -1,12 +1,12 @@
 ---
 title: Post 886
-date: 2018-06-18T06:12:31+07:00
+date: 2019-01-10T17:22:01+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-12-10T04:16:41+07:00
+updated: 2014-11-20T11:45:54+07:00
 
 This is content of post 886

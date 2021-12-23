@@ -1,12 +1,12 @@
 ---
 title: Post 390
-date: 2012-04-05T02:14:47+07:00
+date: 2012-09-15T05:25:16+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2012-02-29T02:57:58+07:00
+updated: 2012-04-01T04:07:13+07:00
 
 This is content of post 390

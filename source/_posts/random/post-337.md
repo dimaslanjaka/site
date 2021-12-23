@@ -1,12 +1,12 @@
 ---
 title: Post 337
-date: 2014-06-17T06:09:40+07:00
+date: 2012-01-02T19:43:12+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2013-10-11T09:17:37+07:00
+updated: 2012-01-01T13:01:02+07:00
 
 This is content of post 337

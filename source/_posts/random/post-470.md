@@ -1,12 +1,12 @@
 ---
 title: Post 470
-date: 2014-06-27T20:26:58+07:00
+date: 2018-01-22T23:32:08+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2014-06-11T12:14:16+07:00
+updated: 2017-12-14T02:00:45+07:00
 
 This is content of post 470

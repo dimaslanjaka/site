@@ -1,12 +1,12 @@
 ---
 title: Post 760
-date: 2014-11-03T18:13:42+07:00
+date: 2018-07-24T03:21:27+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2014-09-01T06:17:44+07:00
+updated: 2017-06-13T16:57:33+07:00
 
 This is content of post 760

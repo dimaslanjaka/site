@@ -1,12 +1,12 @@
 ---
 title: Post 362
-date: 2014-08-18T20:02:43+07:00
+date: 2012-08-07T07:07:58+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-04-17T02:44:00+07:00
+updated: 2012-05-01T04:38:16+07:00
 
 This is content of post 362

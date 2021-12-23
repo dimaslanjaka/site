@@ -1,12 +1,12 @@
 ---
 title: Post 217
-date: 2012-11-11T07:55:37+07:00
+date: 2012-07-21T08:35:04+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-19T01:15:32+07:00
+updated: 2012-07-07T03:10:26+07:00
 
 This is content of post 217

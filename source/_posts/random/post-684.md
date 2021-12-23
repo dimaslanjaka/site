@@ -1,12 +1,12 @@
 ---
 title: Post 684
-date: 2013-09-21T16:07:56+07:00
+date: 2016-02-06T02:43:33+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-03-08T18:52:18+07:00
+updated: 2013-03-18T20:16:09+07:00
 
 This is content of post 684

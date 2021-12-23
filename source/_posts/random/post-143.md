@@ -1,12 +1,12 @@
 ---
 title: Post 143
-date: 2014-08-14T19:25:21+07:00
+date: 2018-05-19T13:33:22+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2014-03-23T19:46:35+07:00
+updated: 2013-12-08T16:45:00+07:00
 
 This is content of post 143

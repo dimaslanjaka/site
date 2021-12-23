@@ -1,12 +1,12 @@
 ---
 title: Post 93
-date: 2015-12-24T23:30:28+07:00
+date: 2012-11-05T23:03:17+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2012-05-28T11:01:29+07:00
+updated: 2012-08-28T11:43:41+07:00
 
 This is content of post 93

@@ -1,12 +1,12 @@
 ---
 title: Post 16
-date: 2015-10-27T09:26:38+07:00
+date: 2021-01-20T19:59:10+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-09-03T02:53:32+07:00
+updated: 2020-07-27T06:24:09+07:00
 
 This is content of post 16

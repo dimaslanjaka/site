@@ -1,12 +1,12 @@
 ---
 title: Post 832
-date: 2018-10-04T16:55:14+07:00
+date: 2017-12-19T21:47:49+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - uncategorized
-updated: 2015-04-28T19:56:46+07:00
+updated: 2016-04-03T20:45:57+07:00
 
 This is content of post 832

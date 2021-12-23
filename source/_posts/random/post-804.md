@@ -1,12 +1,12 @@
 ---
 title: Post 804
-date: 2015-12-24T02:45:54+07:00
+date: 2018-06-18T22:25:55+07:00
 tags:
   - random post
-  - null
+  - untagged
 category:
   - random post
   - post has 0
-updated: 2013-08-19T10:21:59+07:00
+updated: 2013-06-22T10:33:55+07:00
 
 This is content of post 804
