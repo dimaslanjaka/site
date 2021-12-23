@@ -1,6 +1,12 @@
 ---
 title: Post 850
-date: 2021-01-03T18:43:02+07:00
-updated: 2017-07-15T02:55:30+07:00
+date: 2012-05-20T04:42:02+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - post has 0
+updated: 2012-01-07T01:41:09+07:00
 
 This is content of post 850

@@ -1,6 +1,12 @@
 ---
 title: Post 322
-date: 2019-07-30T12:27:19+07:00
-updated: 2012-05-28T08:18:25+07:00
+date: 2013-02-22T12:26:58+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-04-05T06:39:46+07:00
 
 This is content of post 322

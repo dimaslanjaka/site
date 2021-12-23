@@ -1,6 +1,12 @@
 ---
 title: Post 914
-date: 2020-04-03T06:58:29+07:00
-updated: 2017-07-26T00:14:36+07:00
+date: 2017-02-05T14:10:24+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-11-22T13:06:01+07:00
 
 This is content of post 914

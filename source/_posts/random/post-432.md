@@ -1,6 +1,12 @@
 ---
 title: Post 432
-date: 2021-10-24T18:48:37+07:00
-updated: 2016-09-25T19:40:43+07:00
+date: 2021-03-16T15:16:20+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-06-29T13:22:43+07:00
 
 This is content of post 432

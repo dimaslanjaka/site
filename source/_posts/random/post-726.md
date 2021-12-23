@@ -1,6 +1,12 @@
 ---
 title: Post 726
-date: 2021-06-29T17:53:06+07:00
-updated: 2017-06-15T14:45:49+07:00
+date: 2021-05-24T06:00:06+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-01-09T22:28:28+07:00
 
 This is content of post 726

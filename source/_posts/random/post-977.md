@@ -1,6 +1,12 @@
 ---
 title: Post 977
-date: 2021-05-03T15:02:15+07:00
-updated: 2015-04-23T08:19:38+07:00
+date: 2021-07-31T06:59:58+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-06-12T09:44:30+07:00
 
 This is content of post 977

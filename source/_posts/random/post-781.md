@@ -1,6 +1,12 @@
 ---
 title: Post 781
-date: 2012-11-14T16:11:11+07:00
-updated: 2012-07-07T06:42:14+07:00
+date: 2017-09-04T08:11:15+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-04-12T21:39:53+07:00
 
 This is content of post 781

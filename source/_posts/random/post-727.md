@@ -1,6 +1,12 @@
 ---
 title: Post 727
-date: 2017-09-21T06:01:54+07:00
-updated: 2017-06-11T17:22:32+07:00
+date: 2015-10-07T06:38:04+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-08-06T02:26:49+07:00
 
 This is content of post 727

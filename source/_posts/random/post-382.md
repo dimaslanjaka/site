@@ -1,6 +1,12 @@
 ---
 title: Post 382
-date: 2020-06-02T02:54:08+07:00
-updated: 2017-07-20T21:33:54+07:00
+date: 2018-09-18T13:35:42+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-06-24T04:52:36+07:00
 
 This is content of post 382

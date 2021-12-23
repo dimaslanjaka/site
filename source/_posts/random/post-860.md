@@ -1,6 +1,12 @@
 ---
 title: Post 860
-date: 2020-05-11T20:13:41+07:00
-updated: 2016-03-14T10:49:40+07:00
+date: 2014-04-15T04:29:19+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2012-06-13T18:31:05+07:00
 
 This is content of post 860

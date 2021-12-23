@@ -1,6 +1,12 @@
 ---
 title: Post 831
-date: 2015-08-31T15:01:26+07:00
-updated: 2013-01-09T00:42:54+07:00
+date: 2016-05-05T08:23:58+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-01-09T10:22:08+07:00
 
 This is content of post 831

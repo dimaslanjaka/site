@@ -1,6 +1,12 @@
 ---
 title: Post 526
-date: 2021-04-16T03:33:39+07:00
-updated: 2012-02-11T22:01:32+07:00
+date: 2018-01-23T02:06:01+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-07-20T12:37:37+07:00
 
 This is content of post 526

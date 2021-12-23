@@ -1,6 +1,12 @@
 ---
 title: Post 753
-date: 2018-05-07T04:18:32+07:00
-updated: 2012-10-22T17:17:23+07:00
+date: 2018-05-12T13:17:30+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2017-11-14T06:59:31+07:00
 
 This is content of post 753

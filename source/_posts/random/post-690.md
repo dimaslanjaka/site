@@ -1,6 +1,12 @@
 ---
 title: Post 690
-date: 2018-01-02T11:33:58+07:00
-updated: 2015-08-27T20:43:01+07:00
+date: 2018-08-05T00:29:40+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-01-23T09:46:48+07:00
 
 This is content of post 690

@@ -1,6 +1,12 @@
 ---
 title: Post 44
-date: 2012-06-21T20:58:40+07:00
-updated: 2012-06-01T06:52:38+07:00
+date: 2017-05-27T13:33:36+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-05-17T18:51:49+07:00
 
 This is content of post 44

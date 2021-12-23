@@ -1,6 +1,12 @@
 ---
 title: Post 161
-date: 2014-12-22T22:21:11+07:00
-updated: 2013-05-18T22:00:41+07:00
+date: 2017-10-30T16:45:31+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-09-18T02:58:32+07:00
 
 This is content of post 161

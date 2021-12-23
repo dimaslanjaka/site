@@ -1,6 +1,12 @@
 ---
 title: Post 306
-date: 2020-05-29T02:15:25+07:00
-updated: 2014-10-04T19:45:19+07:00
+date: 2019-04-03T17:25:21+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2014-03-08T06:53:14+07:00
 
 This is content of post 306

@@ -1,6 +1,12 @@
 ---
 title: Post 416
-date: 2016-08-12T07:42:48+07:00
-updated: 2015-05-02T00:15:12+07:00
+date: 2013-08-19T20:11:39+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-07-20T05:03:06+07:00
 
 This is content of post 416

@@ -1,6 +1,12 @@
 ---
 title: Post 611
-date: 2014-07-27T14:12:57+07:00
-updated: 2012-04-22T11:54:09+07:00
+date: 2014-07-14T00:02:43+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-10-07T02:52:04+07:00
 
 This is content of post 611

@@ -1,6 +1,12 @@
 ---
 title: Post 626
-date: 2017-03-28T11:15:05+07:00
-updated: 2013-08-20T16:17:15+07:00
+date: 2012-02-19T20:34:23+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-02-04T23:44:01+07:00
 
 This is content of post 626

@@ -1,6 +1,12 @@
 ---
 title: Post 589
-date: 2012-04-17T21:16:55+07:00
-updated: 2012-03-12T20:43:35+07:00
+date: 2017-07-26T18:09:55+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2016-07-22T09:30:53+07:00
 
 This is content of post 589

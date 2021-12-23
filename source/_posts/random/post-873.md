@@ -1,6 +1,12 @@
 ---
 title: Post 873
-date: 2013-05-05T07:38:15+07:00
-updated: 2013-03-07T02:31:39+07:00
+date: 2016-12-16T09:11:32+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-01-08T21:47:58+07:00
 
 This is content of post 873

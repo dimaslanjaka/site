@@ -1,6 +1,12 @@
 ---
 title: Post 563
-date: 2015-01-15T20:40:37+07:00
-updated: 2013-01-16T02:55:31+07:00
+date: 2019-02-25T09:12:51+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-07-02T06:25:00+07:00
 
 This is content of post 563

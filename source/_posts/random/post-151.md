@@ -1,6 +1,12 @@
 ---
 title: Post 151
-date: 2013-10-07T16:12:15+07:00
-updated: 2012-08-09T04:37:02+07:00
+date: 2015-08-09T18:50:56+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2015-07-12T07:54:35+07:00
 
 This is content of post 151

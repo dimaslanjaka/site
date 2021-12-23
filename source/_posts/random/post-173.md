@@ -1,6 +1,12 @@
 ---
 title: Post 173
-date: 2012-11-15T12:33:19+07:00
-updated: 2012-11-04T23:47:56+07:00
+date: 2019-03-10T13:28:31+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-03-02T22:01:39+07:00
 
 This is content of post 173

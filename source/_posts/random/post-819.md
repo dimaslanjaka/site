@@ -1,6 +1,12 @@
 ---
 title: Post 819
-date: 2020-09-11T14:26:13+07:00
-updated: 2013-10-27T07:01:55+07:00
+date: 2012-06-12T02:54:31+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-03-22T03:47:53+07:00
 
 This is content of post 819

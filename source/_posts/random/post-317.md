@@ -1,6 +1,12 @@
 ---
 title: Post 317
-date: 2012-10-24T20:23:53+07:00
-updated: 2012-07-19T03:57:48+07:00
+date: 2019-03-11T16:46:42+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-06-05T14:21:52+07:00
 
 This is content of post 317

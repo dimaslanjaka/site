@@ -1,6 +1,12 @@
 ---
 title: Post 76
-date: 2021-10-16T23:28:53+07:00
-updated: 2015-05-21T14:41:43+07:00
+date: 2012-06-08T16:33:08+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-02-29T18:11:20+07:00
 
 This is content of post 76

@@ -1,6 +1,12 @@
 ---
 title: Post 346
-date: 2012-12-16T07:02:37+07:00
-updated: 2012-07-14T18:08:33+07:00
+date: 2012-09-25T13:01:59+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-05-30T08:36:11+07:00
 
 This is content of post 346

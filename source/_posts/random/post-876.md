@@ -1,6 +1,12 @@
 ---
 title: Post 876
-date: 2018-11-29T08:02:21+07:00
-updated: 2013-11-27T14:23:42+07:00
+date: 2020-05-17T15:18:35+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-01-01T15:17:47+07:00
 
 This is content of post 876

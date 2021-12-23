@@ -1,6 +1,12 @@
 ---
 title: Post 731
-date: 2020-10-10T17:37:18+07:00
-updated: 2020-03-23T17:59:11+07:00
+date: 2012-03-29T06:03:20+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-03-21T03:22:11+07:00
 
 This is content of post 731

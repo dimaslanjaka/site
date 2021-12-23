@@ -1,6 +1,12 @@
 ---
 title: Post 237
-date: 2019-01-21T08:16:56+07:00
-updated: 2017-01-18T09:27:11+07:00
+date: 2019-04-05T16:13:24+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-01-20T09:50:37+07:00
 
 This is content of post 237

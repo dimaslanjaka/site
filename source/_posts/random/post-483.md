@@ -1,6 +1,12 @@
 ---
 title: Post 483
-date: 2015-01-27T05:36:05+07:00
-updated: 2013-12-27T16:51:46+07:00
+date: 2012-10-31T17:37:31+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-02-18T10:21:19+07:00
 
 This is content of post 483

@@ -1,6 +1,12 @@
 ---
 title: Post 268
-date: 2015-03-03T23:20:15+07:00
-updated: 2013-08-18T07:43:10+07:00
+date: 2015-08-12T07:07:43+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-05-20T06:08:23+07:00
 
 This is content of post 268

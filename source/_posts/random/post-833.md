@@ -1,6 +1,12 @@
 ---
 title: Post 833
-date: 2012-05-11T22:48:44+07:00
-updated: 2012-01-03T08:48:36+07:00
+date: 2013-01-26T06:40:06+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-05-09T23:53:01+07:00
 
 This is content of post 833

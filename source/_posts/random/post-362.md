@@ -1,6 +1,12 @@
 ---
 title: Post 362
-date: 2016-03-28T10:48:27+07:00
-updated: 2013-01-16T19:57:33+07:00
+date: 2018-05-15T17:13:04+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-11-18T03:20:51+07:00
 
 This is content of post 362

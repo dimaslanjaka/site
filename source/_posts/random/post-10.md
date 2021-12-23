@@ -1,6 +1,12 @@
 ---
 title: Post 10
-date: 2017-02-23T07:17:00+07:00
-updated: 2014-01-03T05:21:32+07:00
+date: 2013-11-17T18:40:27+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2012-05-27T07:43:03+07:00
 
 This is content of post 10

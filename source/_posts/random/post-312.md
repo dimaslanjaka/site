@@ -1,6 +1,12 @@
 ---
 title: Post 312
-date: 2013-04-11T17:02:03+07:00
-updated: 2012-02-02T19:08:36+07:00
+date: 2016-12-14T20:50:01+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-01-15T10:49:12+07:00
 
 This is content of post 312

@@ -1,6 +1,12 @@
 ---
 title: Post 571
-date: 2021-04-10T19:44:29+07:00
-updated: 2015-07-29T21:56:14+07:00
+date: 2014-09-04T18:01:22+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-01-25T11:32:04+07:00
 
 This is content of post 571

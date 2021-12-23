@@ -1,6 +1,12 @@
 ---
 title: Post 334
-date: 2018-06-20T18:13:20+07:00
-updated: 2016-10-29T05:18:19+07:00
+date: 2017-02-04T12:30:39+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-03-20T00:42:46+07:00
 
 This is content of post 334

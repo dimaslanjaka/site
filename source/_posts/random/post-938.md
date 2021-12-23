@@ -1,6 +1,12 @@
 ---
 title: Post 938
-date: 2016-10-25T22:18:51+07:00
-updated: 2016-06-23T00:57:32+07:00
+date: 2012-04-08T08:12:51+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-01-28T16:25:14+07:00
 
 This is content of post 938

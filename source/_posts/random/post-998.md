@@ -1,6 +1,12 @@
 ---
 title: Post 998
-date: 2018-10-27T15:13:14+07:00
-updated: 2017-07-16T23:30:03+07:00
+date: 2019-05-19T06:28:12+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-10-15T23:01:11+07:00
 
 This is content of post 998

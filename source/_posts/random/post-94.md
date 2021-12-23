@@ -1,6 +1,12 @@
 ---
 title: Post 94
-date: 2021-07-06T21:04:58+07:00
-updated: 2018-11-16T09:06:37+07:00
+date: 2013-09-07T11:20:50+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-03-28T04:30:19+07:00
 
 This is content of post 94

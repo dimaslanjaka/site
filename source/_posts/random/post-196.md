@@ -1,6 +1,12 @@
 ---
 title: Post 196
-date: 2015-07-05T06:04:21+07:00
-updated: 2014-07-10T00:39:27+07:00
+date: 2020-04-25T17:10:40+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-06-23T02:06:27+07:00
 
 This is content of post 196

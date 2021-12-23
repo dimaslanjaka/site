@@ -1,6 +1,12 @@
 ---
 title: Post 982
-date: 2017-02-19T19:19:48+07:00
-updated: 2012-07-05T14:47:15+07:00
+date: 2013-04-14T21:33:59+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-07-11T14:39:59+07:00
 
 This is content of post 982

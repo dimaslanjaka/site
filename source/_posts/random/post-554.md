@@ -1,6 +1,12 @@
 ---
 title: Post 554
-date: 2015-10-06T21:47:41+07:00
-updated: 2014-11-02T17:00:06+07:00
+date: 2014-08-02T08:07:22+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2013-10-07T06:14:07+07:00
 
 This is content of post 554

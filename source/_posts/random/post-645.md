@@ -1,6 +1,12 @@
 ---
 title: Post 645
-date: 2013-08-04T03:30:52+07:00
-updated: 2013-01-04T07:59:35+07:00
+date: 2020-03-12T13:28:12+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2016-09-08T06:06:27+07:00
 
 This is content of post 645

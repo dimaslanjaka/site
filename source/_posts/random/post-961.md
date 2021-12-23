@@ -1,6 +1,12 @@
 ---
 title: Post 961
-date: 2019-12-07T13:33:56+07:00
-updated: 2014-10-20T08:48:10+07:00
+date: 2018-11-14T12:33:18+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-05-08T07:45:51+07:00
 
 This is content of post 961

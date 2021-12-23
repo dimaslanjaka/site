@@ -1,6 +1,12 @@
 ---
 title: Post 862
-date: 2019-09-21T18:21:08+07:00
-updated: 2014-07-07T08:41:58+07:00
+date: 2016-11-15T10:20:15+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-10-19T21:51:05+07:00
 
 This is content of post 862

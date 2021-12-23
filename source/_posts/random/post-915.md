@@ -1,6 +1,12 @@
 ---
 title: Post 915
-date: 2012-09-16T15:00:54+07:00
-updated: 2012-07-25T12:42:06+07:00
+date: 2017-03-11T17:05:31+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2015-11-10T12:02:38+07:00
 
 This is content of post 915

@@ -1,6 +1,12 @@
 ---
 title: Post 622
-date: 2018-02-23T13:08:33+07:00
-updated: 2012-03-02T04:08:08+07:00
+date: 2012-01-13T21:55:05+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-01-03T20:18:07+07:00
 
 This is content of post 622

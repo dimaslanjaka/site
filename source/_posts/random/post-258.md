@@ -1,6 +1,12 @@
 ---
 title: Post 258
-date: 2013-05-02T13:36:54+07:00
-updated: 2012-04-01T21:39:50+07:00
+date: 2018-07-01T09:51:12+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2016-04-27T20:18:46+07:00
 
 This is content of post 258

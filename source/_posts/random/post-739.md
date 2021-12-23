@@ -1,6 +1,12 @@
 ---
 title: Post 739
-date: 2018-04-14T00:16:20+07:00
-updated: 2017-08-26T08:35:12+07:00
+date: 2016-07-19T11:40:03+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-01-08T16:02:34+07:00
 
 This is content of post 739

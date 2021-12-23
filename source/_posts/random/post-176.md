@@ -1,6 +1,12 @@
 ---
 title: Post 176
-date: 2012-01-05T03:07:53+07:00
-updated: 2012-01-02T19:58:24+07:00
+date: 2015-06-11T21:02:35+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-03-23T23:33:33+07:00
 
 This is content of post 176

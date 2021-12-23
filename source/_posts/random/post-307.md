@@ -1,6 +1,12 @@
 ---
 title: Post 307
-date: 2012-12-08T14:56:28+07:00
-updated: 2012-02-03T09:34:02+07:00
+date: 2018-10-07T02:36:45+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2016-09-25T16:28:13+07:00
 
 This is content of post 307

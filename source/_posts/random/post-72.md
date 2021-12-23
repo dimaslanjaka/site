@@ -1,6 +1,12 @@
 ---
 title: Post 72
-date: 2018-07-06T23:11:52+07:00
-updated: 2014-12-21T12:44:32+07:00
+date: 2020-10-31T21:40:40+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2020-06-07T12:17:20+07:00
 
 This is content of post 72

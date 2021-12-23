@@ -1,6 +1,12 @@
 ---
 title: Post 685
-date: 2015-04-21T10:28:35+07:00
-updated: 2013-08-17T05:46:59+07:00
+date: 2021-04-20T19:01:31+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2018-08-15T21:08:52+07:00
 
 This is content of post 685

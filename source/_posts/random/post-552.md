@@ -1,6 +1,12 @@
 ---
 title: Post 552
-date: 2021-07-05T18:56:59+07:00
-updated: 2018-01-27T10:41:39+07:00
+date: 2017-08-25T12:06:37+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2016-05-09T12:11:38+07:00
 
 This is content of post 552

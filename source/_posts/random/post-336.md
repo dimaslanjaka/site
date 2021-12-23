@@ -1,6 +1,12 @@
 ---
 title: Post 336
-date: 2017-08-22T11:00:38+07:00
-updated: 2016-01-06T12:06:59+07:00
+date: 2015-06-09T01:32:21+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-11-20T17:19:12+07:00
 
 This is content of post 336

@@ -1,6 +1,12 @@
 ---
 title: Post 696
-date: 2015-01-05T08:07:02+07:00
-updated: 2014-04-04T19:47:16+07:00
+date: 2015-03-10T22:11:39+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-06-09T09:37:05+07:00
 
 This is content of post 696

@@ -1,6 +1,12 @@
 ---
 title: Post 578
-date: 2012-12-20T20:00:11+07:00
-updated: 2012-02-20T11:55:15+07:00
+date: 2012-09-02T23:50:34+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-02-06T01:54:43+07:00
 
 This is content of post 578

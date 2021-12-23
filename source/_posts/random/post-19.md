@@ -1,6 +1,12 @@
 ---
 title: Post 19
-date: 2012-03-19T12:32:43+07:00
-updated: 2012-03-18T01:36:12+07:00
+date: 2016-12-31T03:50:41+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-07-05T16:51:42+07:00
 
 This is content of post 19

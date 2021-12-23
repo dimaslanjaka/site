@@ -1,6 +1,12 @@
 ---
 title: Post 427
-date: 2014-10-07T00:19:38+07:00
-updated: 2012-03-28T14:38:17+07:00
+date: 2021-05-10T18:17:44+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-11-19T14:49:35+07:00
 
 This is content of post 427

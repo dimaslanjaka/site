@@ -1,6 +1,12 @@
 ---
 title: Post 62
-date: 2020-07-29T14:30:17+07:00
-updated: 2012-01-23T01:00:26+07:00
+date: 2019-11-16T14:13:30+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-03-28T04:14:03+07:00
 
 This is content of post 62

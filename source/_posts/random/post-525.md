@@ -1,6 +1,12 @@
 ---
 title: Post 525
-date: 2012-08-29T13:58:29+07:00
-updated: 2012-02-15T09:09:57+07:00
+date: 2019-06-27T00:49:56+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2013-01-20T06:53:37+07:00
 
 This is content of post 525

@@ -1,6 +1,12 @@
 ---
 title: Post 51
-date: 2015-04-20T08:37:55+07:00
-updated: 2012-03-08T16:08:57+07:00
+date: 2012-02-23T07:54:22+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-01-10T08:06:31+07:00
 
 This is content of post 51

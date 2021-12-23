@@ -1,6 +1,12 @@
 ---
 title: Post 302
-date: 2021-08-29T16:59:14+07:00
-updated: 2018-10-11T11:44:03+07:00
+date: 2018-12-22T22:15:05+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-03-03T05:52:40+07:00
 
 This is content of post 302

@@ -1,6 +1,12 @@
 ---
 title: Post 245
-date: 2021-05-13T07:40:22+07:00
-updated: 2018-04-07T12:27:42+07:00
+date: 2019-03-04T13:22:00+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2016-04-07T02:47:49+07:00
 
 This is content of post 245

@@ -1,6 +1,12 @@
 ---
 title: Post 386
-date: 2017-11-06T03:20:05+07:00
-updated: 2016-11-30T20:56:36+07:00
+date: 2018-07-22T16:41:57+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-04-09T17:50:15+07:00
 
 This is content of post 386

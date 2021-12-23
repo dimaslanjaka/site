@@ -1,6 +1,12 @@
 ---
 title: Post 852
-date: 2021-04-19T05:58:57+07:00
-updated: 2018-05-16T01:01:41+07:00
+date: 2013-02-12T14:38:41+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-10-09T01:22:02+07:00
 
 This is content of post 852

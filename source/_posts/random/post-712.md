@@ -1,6 +1,12 @@
 ---
 title: Post 712
-date: 2014-09-14T07:04:23+07:00
-updated: 2013-05-17T07:10:25+07:00
+date: 2021-04-07T16:11:11+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-07-14T15:06:33+07:00
 
 This is content of post 712

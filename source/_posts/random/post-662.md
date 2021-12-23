@@ -1,6 +1,12 @@
 ---
 title: Post 662
-date: 2018-06-26T12:53:10+07:00
-updated: 2015-04-15T10:15:31+07:00
+date: 2018-10-04T21:44:01+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-01-11T12:39:35+07:00
 
 This is content of post 662

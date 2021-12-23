@@ -1,6 +1,12 @@
 ---
 title: Post 349
-date: 2012-10-04T06:12:54+07:00
-updated: 2012-09-14T16:14:11+07:00
+date: 2020-05-16T03:18:05+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-10-19T08:14:23+07:00
 
 This is content of post 349

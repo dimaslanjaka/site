@@ -1,6 +1,12 @@
 ---
 title: Post 330
-date: 2012-12-30T10:04:48+07:00
-updated: 2012-03-18T06:54:27+07:00
+date: 2017-01-18T13:09:02+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-09-22T11:21:11+07:00
 
 This is content of post 330

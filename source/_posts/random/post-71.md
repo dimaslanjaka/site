@@ -1,6 +1,12 @@
 ---
 title: Post 71
-date: 2018-04-29T23:35:16+07:00
-updated: 2014-09-04T09:44:57+07:00
+date: 2014-08-20T16:06:51+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-12-06T23:25:23+07:00
 
 This is content of post 71

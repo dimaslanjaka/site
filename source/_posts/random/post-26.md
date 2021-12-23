@@ -1,6 +1,12 @@
 ---
 title: Post 26
-date: 2018-06-14T15:23:46+07:00
-updated: 2014-03-25T00:44:14+07:00
+date: 2015-11-03T09:13:49+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-05-11T05:39:53+07:00
 
 This is content of post 26

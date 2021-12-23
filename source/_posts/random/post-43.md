@@ -1,6 +1,12 @@
 ---
 title: Post 43
-date: 2014-03-13T11:31:27+07:00
-updated: 2012-06-12T10:58:42+07:00
+date: 2019-10-08T02:36:57+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-07-19T04:04:49+07:00
 
 This is content of post 43

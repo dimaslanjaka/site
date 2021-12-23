@@ -1,6 +1,12 @@
 ---
 title: Post 325
-date: 2013-11-05T19:27:03+07:00
-updated: 2013-06-08T20:52:40+07:00
+date: 2019-10-18T18:18:16+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-06-09T15:44:58+07:00
 
 This is content of post 325

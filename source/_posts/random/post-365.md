@@ -1,6 +1,12 @@
 ---
 title: Post 365
-date: 2019-09-24T04:31:49+07:00
-updated: 2018-09-08T13:09:06+07:00
+date: 2017-11-27T03:19:51+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-08-28T08:08:47+07:00
 
 This is content of post 365

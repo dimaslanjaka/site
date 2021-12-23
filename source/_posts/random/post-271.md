@@ -1,6 +1,12 @@
 ---
 title: Post 271
-date: 2019-12-01T21:33:26+07:00
-updated: 2013-11-16T22:18:39+07:00
+date: 2016-02-11T15:52:52+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-06-19T11:40:42+07:00
 
 This is content of post 271

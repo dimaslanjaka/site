@@ -1,6 +1,12 @@
 ---
 title: Post 892
-date: 2016-08-04T04:25:56+07:00
-updated: 2013-10-31T09:09:46+07:00
+date: 2013-04-26T15:09:22+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-01-14T19:40:02+07:00
 
 This is content of post 892

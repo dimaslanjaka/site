@@ -1,6 +1,12 @@
 ---
 title: Post 21
-date: 2020-05-03T11:55:53+07:00
-updated: 2013-09-13T21:51:48+07:00
+date: 2019-07-17T20:30:40+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-05-18T21:06:45+07:00
 
 This is content of post 21

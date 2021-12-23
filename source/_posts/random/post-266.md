@@ -1,6 +1,12 @@
 ---
 title: Post 266
-date: 2015-07-29T13:27:11+07:00
-updated: 2014-03-24T18:21:48+07:00
+date: 2020-01-05T05:49:32+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-03-26T15:06:03+07:00
 
 This is content of post 266

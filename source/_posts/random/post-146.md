@@ -1,6 +1,12 @@
 ---
 title: Post 146
-date: 2018-03-04T04:39:59+07:00
-updated: 2017-01-09T07:25:41+07:00
+date: 2012-11-04T01:55:56+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-04-08T12:06:55+07:00
 
 This is content of post 146

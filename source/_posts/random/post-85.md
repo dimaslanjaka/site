@@ -1,6 +1,12 @@
 ---
 title: Post 85
-date: 2021-08-06T06:09:47+07:00
-updated: 2018-07-19T22:23:09+07:00
+date: 2012-02-24T07:07:15+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-01-03T22:14:57+07:00
 
 This is content of post 85

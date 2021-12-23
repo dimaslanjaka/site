@@ -1,6 +1,12 @@
 ---
 title: Post 276
-date: 2018-08-04T21:20:05+07:00
-updated: 2013-02-09T05:51:49+07:00
+date: 2017-10-07T08:54:42+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-01-26T12:25:53+07:00
 
 This is content of post 276

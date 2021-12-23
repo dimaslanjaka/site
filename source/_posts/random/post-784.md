@@ -1,6 +1,12 @@
 ---
 title: Post 784
-date: 2013-08-16T15:17:50+07:00
-updated: 2012-04-19T02:26:10+07:00
+date: 2014-10-08T03:21:57+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-06-24T01:10:49+07:00
 
 This is content of post 784

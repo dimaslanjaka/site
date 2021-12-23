@@ -1,6 +1,12 @@
 ---
 title: Post 547
-date: 2014-05-24T12:51:09+07:00
-updated: 2012-07-15T23:07:29+07:00
+date: 2014-08-16T19:28:06+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-07-28T02:31:44+07:00
 
 This is content of post 547

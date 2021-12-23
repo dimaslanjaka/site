@@ -1,6 +1,12 @@
 ---
 title: Post 126
-date: 2021-07-22T02:55:03+07:00
-updated: 2012-06-06T18:55:57+07:00
+date: 2018-01-05T10:13:28+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-04-01T01:58:31+07:00
 
 This is content of post 126

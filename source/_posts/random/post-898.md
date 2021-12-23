@@ -1,6 +1,12 @@
 ---
 title: Post 898
-date: 2018-04-04T21:28:26+07:00
-updated: 2016-01-20T04:33:30+07:00
+date: 2016-06-04T11:42:41+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-03-25T01:11:55+07:00
 
 This is content of post 898

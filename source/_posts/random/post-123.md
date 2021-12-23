@@ -1,6 +1,12 @@
 ---
 title: Post 123
-date: 2017-08-25T20:37:44+07:00
-updated: 2012-01-22T00:46:19+07:00
+date: 2019-07-06T18:14:56+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-04-20T12:53:48+07:00
 
 This is content of post 123

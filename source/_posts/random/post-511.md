@@ -1,6 +1,12 @@
 ---
 title: Post 511
-date: 2020-01-03T21:47:28+07:00
-updated: 2014-09-07T13:42:49+07:00
+date: 2017-09-18T06:09:15+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2013-07-16T17:53:11+07:00
 
 This is content of post 511

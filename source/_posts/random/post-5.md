@@ -1,6 +1,12 @@
 ---
 title: Post 5
-date: 2015-12-10T06:51:09+07:00
-updated: 2015-03-28T03:05:00+07:00
+date: 2016-07-17T09:22:20+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2014-03-14T15:03:44+07:00
 
 This is content of post 5

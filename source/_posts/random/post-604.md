@@ -1,6 +1,12 @@
 ---
 title: Post 604
-date: 2018-04-14T06:45:21+07:00
-updated: 2016-12-10T02:36:24+07:00
+date: 2019-12-30T11:14:35+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2014-01-14T18:04:48+07:00
 
 This is content of post 604

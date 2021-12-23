@@ -1,6 +1,12 @@
 ---
 title: Post 964
-date: 2016-09-20T17:21:36+07:00
-updated: 2014-07-17T14:37:34+07:00
+date: 2014-03-06T07:06:08+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-11-02T05:50:07+07:00
 
 This is content of post 964

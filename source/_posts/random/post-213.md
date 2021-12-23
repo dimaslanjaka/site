@@ -1,6 +1,12 @@
 ---
 title: Post 213
-date: 2019-02-02T19:03:28+07:00
-updated: 2015-10-30T00:55:35+07:00
+date: 2017-10-15T18:29:38+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-04-26T02:03:02+07:00
 
 This is content of post 213

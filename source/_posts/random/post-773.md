@@ -1,6 +1,12 @@
 ---
 title: Post 773
-date: 2016-05-03T08:18:17+07:00
-updated: 2014-08-30T06:43:23+07:00
+date: 2016-07-12T18:26:53+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-04-23T22:09:49+07:00
 
 This is content of post 773

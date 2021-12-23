@@ -1,6 +1,12 @@
 ---
 title: Post 713
-date: 2013-11-20T22:25:00+07:00
-updated: 2013-03-12T17:29:23+07:00
+date: 2014-01-16T10:18:24+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-01-31T20:40:27+07:00
 
 This is content of post 713

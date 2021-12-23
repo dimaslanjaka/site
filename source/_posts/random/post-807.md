@@ -1,6 +1,12 @@
 ---
 title: Post 807
-date: 2017-01-03T23:28:57+07:00
-updated: 2014-07-15T04:22:53+07:00
+date: 2014-09-10T22:20:24+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2012-09-09T10:03:30+07:00
 
 This is content of post 807

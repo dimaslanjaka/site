@@ -1,6 +1,12 @@
 ---
 title: Post 738
-date: 2016-02-12T10:46:20+07:00
-updated: 2014-08-13T06:05:23+07:00
+date: 2021-05-21T05:56:48+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-05-23T00:54:31+07:00
 
 This is content of post 738

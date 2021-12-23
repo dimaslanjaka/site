@@ -1,6 +1,12 @@
 ---
 title: Post 174
-date: 2015-01-09T21:01:20+07:00
-updated: 2012-10-14T19:49:53+07:00
+date: 2015-01-27T09:04:08+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-01-11T14:28:29+07:00
 
 This is content of post 174

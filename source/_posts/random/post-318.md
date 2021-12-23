@@ -1,6 +1,12 @@
 ---
 title: Post 318
-date: 2013-06-23T11:30:07+07:00
-updated: 2013-01-23T11:03:25+07:00
+date: 2015-03-19T07:53:14+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-10-29T13:34:30+07:00
 
 This is content of post 318

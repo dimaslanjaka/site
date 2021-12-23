@@ -1,6 +1,12 @@
 ---
 title: Post 666
-date: 2019-01-17T01:03:37+07:00
-updated: 2012-01-23T07:52:52+07:00
+date: 2018-02-16T15:34:15+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-09-14T17:08:32+07:00
 
 This is content of post 666

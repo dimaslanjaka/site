@@ -1,6 +1,12 @@
 ---
 title: Post 625
-date: 2013-01-15T00:28:36+07:00
-updated: 2012-02-25T03:27:38+07:00
+date: 2020-10-19T11:08:54+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2015-09-23T11:38:35+07:00
 
 This is content of post 625

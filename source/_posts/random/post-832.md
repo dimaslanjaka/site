@@ -1,6 +1,12 @@
 ---
 title: Post 832
-date: 2020-10-21T16:40:32+07:00
-updated: 2018-09-28T05:55:47+07:00
+date: 2016-07-31T23:17:14+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-06-17T09:32:59+07:00
 
 This is content of post 832

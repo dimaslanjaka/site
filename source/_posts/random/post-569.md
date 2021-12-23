@@ -1,6 +1,12 @@
 ---
 title: Post 569
-date: 2014-01-24T20:40:15+07:00
-updated: 2012-02-15T22:13:13+07:00
+date: 2014-08-31T20:33:01+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2014-06-04T01:03:53+07:00
 
 This is content of post 569

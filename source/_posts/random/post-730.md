@@ -1,6 +1,12 @@
 ---
 title: Post 730
-date: 2016-11-17T13:04:02+07:00
-updated: 2016-04-02T01:06:17+07:00
+date: 2018-07-22T18:37:11+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-09-03T11:00:17+07:00
 
 This is content of post 730

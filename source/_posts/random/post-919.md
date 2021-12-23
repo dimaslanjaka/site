@@ -1,6 +1,12 @@
 ---
 title: Post 919
-date: 2015-03-21T14:39:54+07:00
-updated: 2014-07-10T20:03:54+07:00
+date: 2014-02-25T13:00:19+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-08-02T09:46:08+07:00
 
 This is content of post 919

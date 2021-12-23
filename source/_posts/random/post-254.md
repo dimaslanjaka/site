@@ -1,6 +1,12 @@
 ---
 title: Post 254
-date: 2016-10-10T17:39:19+07:00
-updated: 2016-05-13T06:53:56+07:00
+date: 2014-05-04T07:11:21+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2012-05-29T23:32:54+07:00
 
 This is content of post 254

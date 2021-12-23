@@ -1,6 +1,12 @@
 ---
 title: Post 507
-date: 2019-10-31T17:35:39+07:00
-updated: 2015-11-06T01:15:55+07:00
+date: 2019-05-13T23:04:09+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - post has 0
+updated: 2012-03-15T03:30:17+07:00
 
 This is content of post 507

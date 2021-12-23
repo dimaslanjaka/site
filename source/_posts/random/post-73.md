@@ -1,6 +1,12 @@
 ---
 title: Post 73
-date: 2017-07-26T13:54:59+07:00
-updated: 2014-01-17T23:08:43+07:00
+date: 2014-04-29T13:09:17+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-04-24T08:22:44+07:00
 
 This is content of post 73

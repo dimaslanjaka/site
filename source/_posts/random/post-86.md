@@ -1,6 +1,12 @@
 ---
 title: Post 86
-date: 2021-01-06T17:59:29+07:00
-updated: 2012-06-03T13:29:41+07:00
+date: 2015-10-14T11:37:47+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-03-29T00:59:09+07:00
 
 This is content of post 86

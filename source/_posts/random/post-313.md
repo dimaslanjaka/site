@@ -1,6 +1,12 @@
 ---
 title: Post 313
-date: 2016-11-15T11:42:14+07:00
-updated: 2013-05-05T01:47:36+07:00
+date: 2021-09-02T17:58:34+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-12-01T14:09:41+07:00
 
 This is content of post 313

@@ -1,6 +1,12 @@
 ---
 title: Post 888
-date: 2015-08-10T13:00:38+07:00
-updated: 2014-06-26T11:40:13+07:00
+date: 2019-12-24T16:15:07+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2015-03-05T02:34:32+07:00
 
 This is content of post 888

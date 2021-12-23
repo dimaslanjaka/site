@@ -1,6 +1,12 @@
 ---
 title: Post 0
-date: 2017-04-19T05:05:10+07:00
-updated: 2014-05-07T00:09:44+07:00
+date: 2020-04-22T20:27:39+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2019-07-21T12:48:21+07:00
 
 This is content of post 0

@@ -1,6 +1,12 @@
 ---
 title: Post 643
-date: 2017-05-16T23:51:09+07:00
-updated: 2012-04-26T16:03:12+07:00
+date: 2015-09-30T16:26:22+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-08-19T17:14:05+07:00
 
 This is content of post 643

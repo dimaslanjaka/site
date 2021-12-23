@@ -1,6 +1,12 @@
 ---
 title: Post 354
-date: 2013-08-14T23:40:58+07:00
-updated: 2012-04-17T03:43:47+07:00
+date: 2020-06-24T12:21:06+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2018-09-30T14:13:52+07:00
 
 This is content of post 354

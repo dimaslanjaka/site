@@ -1,6 +1,12 @@
 ---
 title: Post 927
-date: 2017-09-16T09:03:24+07:00
-updated: 2014-06-17T23:25:59+07:00
+date: 2015-11-22T13:41:58+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-01-17T09:50:45+07:00
 
 This is content of post 927

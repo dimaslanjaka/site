@@ -1,6 +1,12 @@
 ---
 title: Post 12
-date: 2018-11-17T17:25:17+07:00
-updated: 2012-09-19T01:31:42+07:00
+date: 2015-02-22T05:20:00+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-04-03T17:54:57+07:00
 
 This is content of post 12

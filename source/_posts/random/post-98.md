@@ -1,6 +1,12 @@
 ---
 title: Post 98
-date: 2019-11-09T04:12:35+07:00
-updated: 2019-10-20T22:48:36+07:00
+date: 2016-07-24T12:53:01+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-10-23T16:47:16+07:00
 
 This is content of post 98

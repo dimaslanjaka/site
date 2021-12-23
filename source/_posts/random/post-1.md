@@ -1,6 +1,12 @@
 ---
 title: Post 1
-date: 2013-12-28T00:35:09+07:00
-updated: 2013-08-07T02:02:38+07:00
+date: 2017-05-30T13:46:05+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2016-03-04T09:30:22+07:00
 
 This is content of post 1

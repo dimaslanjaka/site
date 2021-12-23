@@ -1,6 +1,12 @@
 ---
 title: Post 772
-date: 2016-08-20T17:42:16+07:00
-updated: 2012-08-11T05:23:15+07:00
+date: 2019-07-25T20:58:59+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2018-10-17T05:53:27+07:00
 
 This is content of post 772

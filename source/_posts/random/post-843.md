@@ -1,6 +1,12 @@
 ---
 title: Post 843
-date: 2013-07-20T19:29:09+07:00
-updated: 2012-08-26T09:07:24+07:00
+date: 2018-01-02T02:18:26+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2017-10-17T00:22:32+07:00
 
 This is content of post 843

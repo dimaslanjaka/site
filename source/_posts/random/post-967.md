@@ -1,6 +1,12 @@
 ---
 title: Post 967
-date: 2013-09-12T07:32:57+07:00
-updated: 2012-06-02T23:12:37+07:00
+date: 2012-05-20T10:52:18+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-01-16T12:13:24+07:00
 
 This is content of post 967

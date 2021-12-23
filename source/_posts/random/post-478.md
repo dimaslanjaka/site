@@ -1,6 +1,12 @@
 ---
 title: Post 478
-date: 2018-11-26T21:57:27+07:00
-updated: 2014-07-18T15:10:36+07:00
+date: 2015-11-16T17:33:17+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-08-17T03:47:01+07:00
 
 This is content of post 478

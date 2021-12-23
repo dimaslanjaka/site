@@ -1,6 +1,12 @@
 ---
 title: Post 743
-date: 2012-06-28T18:35:32+07:00
-updated: 2012-05-06T09:43:30+07:00
+date: 2015-10-06T23:04:24+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-05-05T23:30:01+07:00
 
 This is content of post 743

@@ -1,6 +1,12 @@
 ---
 title: Post 948
-date: 2021-12-01T06:20:40+07:00
-updated: 2014-11-18T13:57:21+07:00
+date: 2017-06-15T10:53:59+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-04-18T19:57:04+07:00
 
 This is content of post 948

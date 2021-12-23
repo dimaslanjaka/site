@@ -1,6 +1,12 @@
 ---
 title: Post 900
-date: 2012-06-20T11:10:08+07:00
-updated: 2012-06-06T23:39:11+07:00
+date: 2021-08-23T01:15:59+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-12-27T08:54:10+07:00
 
 This is content of post 900

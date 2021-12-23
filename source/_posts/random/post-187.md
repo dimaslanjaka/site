@@ -1,6 +1,12 @@
 ---
 title: Post 187
-date: 2020-04-02T02:35:55+07:00
-updated: 2018-01-10T21:11:43+07:00
+date: 2012-11-10T17:09:12+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-04-27T00:07:07+07:00
 
 This is content of post 187

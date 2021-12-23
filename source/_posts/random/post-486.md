@@ -1,6 +1,12 @@
 ---
 title: Post 486
-date: 2012-07-07T17:08:28+07:00
-updated: 2012-06-17T05:30:41+07:00
+date: 2013-08-31T09:34:17+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-07-06T03:01:53+07:00
 
 This is content of post 486

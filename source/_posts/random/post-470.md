@@ -1,6 +1,12 @@
 ---
 title: Post 470
-date: 2020-02-09T09:33:47+07:00
-updated: 2017-12-06T08:41:17+07:00
+date: 2015-03-04T11:19:46+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-05-06T13:21:00+07:00
 
 This is content of post 470

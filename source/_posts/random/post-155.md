@@ -1,6 +1,12 @@
 ---
 title: Post 155
-date: 2019-04-13T11:52:53+07:00
-updated: 2014-05-19T22:16:19+07:00
+date: 2019-02-06T18:16:46+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2018-01-05T20:07:40+07:00
 
 This is content of post 155

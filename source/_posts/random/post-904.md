@@ -1,6 +1,12 @@
 ---
 title: Post 904
-date: 2018-06-27T02:36:40+07:00
-updated: 2014-07-29T06:10:15+07:00
+date: 2017-12-15T11:30:05+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2014-12-31T04:31:10+07:00
 
 This is content of post 904

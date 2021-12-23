@@ -1,6 +1,12 @@
 ---
 title: Post 25
-date: 2016-03-18T02:27:08+07:00
-updated: 2013-08-27T05:17:51+07:00
+date: 2019-08-06T00:01:03+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - ""
+updated: 2014-09-29T14:23:58+07:00
 
 This is content of post 25

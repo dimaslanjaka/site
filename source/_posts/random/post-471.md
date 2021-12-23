@@ -1,6 +1,12 @@
 ---
 title: Post 471
-date: 2017-07-10T22:32:42+07:00
-updated: 2012-11-11T13:11:07+07:00
+date: 2012-12-25T07:12:05+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-10-30T19:45:03+07:00
 
 This is content of post 471

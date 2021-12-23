@@ -1,6 +1,12 @@
 ---
 title: Post 220
-date: 2017-04-11T01:51:59+07:00
-updated: 2012-06-19T03:42:37+07:00
+date: 2018-10-26T19:21:37+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2014-05-08T00:09:47+07:00
 
 This is content of post 220

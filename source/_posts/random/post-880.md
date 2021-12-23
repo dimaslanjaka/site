@@ -1,6 +1,12 @@
 ---
 title: Post 880
-date: 2021-05-25T05:57:10+07:00
-updated: 2017-09-23T17:17:19+07:00
+date: 2014-05-14T15:35:07+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2013-09-28T22:01:51+07:00
 
 This is content of post 880

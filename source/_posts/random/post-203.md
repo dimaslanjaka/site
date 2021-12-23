@@ -1,6 +1,12 @@
 ---
 title: Post 203
-date: 2012-12-06T15:17:36+07:00
-updated: 2012-08-18T07:12:45+07:00
+date: 2020-10-19T02:01:34+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2017-11-14T18:18:22+07:00
 
 This is content of post 203

@@ -1,6 +1,12 @@
 ---
 title: Post 694
-date: 2018-03-14T21:10:39+07:00
-updated: 2013-09-03T14:28:32+07:00
+date: 2012-08-01T20:41:25+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-04-03T01:48:26+07:00
 
 This is content of post 694

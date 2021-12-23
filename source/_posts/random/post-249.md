@@ -1,6 +1,12 @@
 ---
 title: Post 249
-date: 2019-11-04T09:04:08+07:00
-updated: 2014-11-28T04:00:01+07:00
+date: 2014-10-17T00:19:17+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-04-12T21:31:49+07:00
 
 This is content of post 249

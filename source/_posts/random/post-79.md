@@ -1,6 +1,12 @@
 ---
 title: Post 79
-date: 2018-11-15T11:48:04+07:00
-updated: 2014-01-25T01:14:19+07:00
+date: 2018-02-07T01:45:56+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-01-17T01:19:45+07:00
 
 This is content of post 79

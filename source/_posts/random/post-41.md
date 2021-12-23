@@ -1,6 +1,12 @@
 ---
 title: Post 41
-date: 2014-12-03T07:43:14+07:00
-updated: 2013-10-24T17:33:34+07:00
+date: 2018-03-25T05:36:30+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-04-19T03:43:41+07:00
 
 This is content of post 41

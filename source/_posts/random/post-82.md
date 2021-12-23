@@ -1,6 +1,12 @@
 ---
 title: Post 82
-date: 2018-01-26T10:34:36+07:00
-updated: 2013-05-05T06:25:28+07:00
+date: 2017-11-14T07:14:31+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-12-31T04:40:42+07:00
 
 This is content of post 82

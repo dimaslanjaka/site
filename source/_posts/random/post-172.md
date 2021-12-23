@@ -1,6 +1,12 @@
 ---
 title: Post 172
-date: 2021-05-08T08:49:50+07:00
-updated: 2016-02-20T03:22:27+07:00
+date: 2014-05-31T23:29:55+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-05-03T20:01:54+07:00
 
 This is content of post 172

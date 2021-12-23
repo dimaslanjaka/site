@@ -1,6 +1,12 @@
 ---
 title: Post 293
-date: 2014-04-19T21:19:08+07:00
-updated: 2013-05-15T16:42:07+07:00
+date: 2019-12-05T03:06:02+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-07-22T16:34:26+07:00
 
 This is content of post 293

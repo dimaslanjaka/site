@@ -1,6 +1,12 @@
 ---
 title: Post 931
-date: 2016-02-06T17:55:32+07:00
-updated: 2016-01-07T19:21:03+07:00
+date: 2020-08-24T17:20:53+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2019-06-04T21:17:00+07:00
 
 This is content of post 931

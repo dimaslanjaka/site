@@ -1,6 +1,12 @@
 ---
 title: Post 502
-date: 2017-08-05T10:10:39+07:00
-updated: 2015-02-11T20:01:12+07:00
+date: 2013-08-29T10:51:21+07:00
+tags:
+  - random post
+  - post has 5
+category:
+  - random post
+  - post has 0
+updated: 2012-09-21T19:38:28+07:00
 
 This is content of post 502

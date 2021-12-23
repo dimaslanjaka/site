@@ -1,6 +1,12 @@
 ---
 title: Post 996
-date: 2021-04-02T08:11:18+07:00
-updated: 2019-11-05T09:55:44+07:00
+date: 2015-10-02T16:08:40+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2013-06-15T20:58:37+07:00
 
 This is content of post 996

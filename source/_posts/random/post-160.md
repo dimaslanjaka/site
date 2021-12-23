@@ -1,6 +1,12 @@
 ---
 title: Post 160
-date: 2021-10-25T16:19:32+07:00
-updated: 2016-09-10T21:12:49+07:00
+date: 2017-10-07T23:41:00+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - post has 0
+updated: 2012-09-25T09:10:27+07:00
 
 This is content of post 160

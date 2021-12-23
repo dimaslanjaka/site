@@ -1,6 +1,12 @@
 ---
 title: Post 488
-date: 2019-03-02T15:28:08+07:00
-updated: 2013-07-18T20:07:13+07:00
+date: 2018-04-02T12:11:51+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2014-08-25T19:16:01+07:00
 
 This is content of post 488

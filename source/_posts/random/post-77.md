@@ -1,6 +1,12 @@
 ---
 title: Post 77
-date: 2020-06-01T21:01:34+07:00
-updated: 2013-05-03T20:01:44+07:00
+date: 2017-07-04T02:35:32+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-02-24T02:15:28+07:00
 
 This is content of post 77

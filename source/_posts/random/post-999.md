@@ -1,6 +1,12 @@
 ---
 title: Post 999
-date: 2019-06-12T17:51:17+07:00
-updated: 2016-09-05T08:58:23+07:00
+date: 2012-06-24T00:54:18+07:00
+tags:
+  - random post
+  - ""
+category:
+  - random post
+  - ""
+updated: 2012-03-13T16:08:07+07:00
 
 This is content of post 999
