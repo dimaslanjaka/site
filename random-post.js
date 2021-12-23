@@ -35,8 +35,12 @@ prompt.get(properties, function (err, result) {
 
 function generate(countArticle) {
   return Array.from(Array(countArticle).keys()).map((n) => {
-    const created = randomDate(new Date(2012, 0, 1), new Date());
+    // make random post latest to 2021-11-25
+    // prevent indicator post overriden
+    const created = randomDate(new Date(2012, 0, 1), moment("2021-11-25").toDate());
+    // latest updated based on created date
     const updated = randomDate(new Date(2012, 0, 1), created);
+    // index count, dismiss 0/zero
     const current = n + 1;
     return {
       title: "Post " + current,
