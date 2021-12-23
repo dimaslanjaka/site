@@ -30,6 +30,7 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-seo": "file:../../../hexo-seo",
     "hexo-server": "^2.0.0",
+    "hexo-theme-butterfly": "file:themes/butterfly",
     "hexo-theme-landscape": "^0.0.3"
   }
 }
