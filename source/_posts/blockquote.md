@@ -1,5 +1,10 @@
 ---
 title: Blockquote Shortcode
+tags:
+  - blockquote
+  - shortcode
+category:
+  - hexo
 ---
 
 # Blockquote shortcode hexo

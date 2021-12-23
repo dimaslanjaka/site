@@ -1,5 +1,10 @@
 ---
 title: PreText (Code Blocks)
+tags:
+  - codeblock
+  - shortcode
+category:
+  - hexo
 ---
 
 # Code Block Shortcode
