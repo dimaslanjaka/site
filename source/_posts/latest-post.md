@@ -1,0 +1,9 @@
+---
+title: Latest Post
+date: 2021-12-20 00:00:00
+updated: 2021-12-25 00:00:00
+tags:
+  - latest
+---
+
+Latest Post
