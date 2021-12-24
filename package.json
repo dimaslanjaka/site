@@ -8,8 +8,8 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "serve-static": "php -S localhost:4000 -t public/",
-    "install-git": "rm -rf node_modules && npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git",
-    "install-local": "rm -rf node_modules && npm i ../../../hexo-seo && npm i ../../../hexo-blogger-xml"
+    "install-git": "rm -rf node_modules && npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git && npm i git+https://github.com/dimaslanjaka/hexo-adsense.git",
+    "install-local": "rm -rf node_modules && npm i ../../../hexo-seo && npm i ../../../hexo-blogger-xml && npm i ../../../hexo-adsense"
   },
   "hexo": {
     "version": "5.4.0"
@@ -20,6 +20,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "hexo": "^5.0.0",
+    "hexo-adsense": "file:../../../hexo-adsense",
     "hexo-blogger-xml": "file:../../../hexo-blogger-xml",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "^1.0.0",
