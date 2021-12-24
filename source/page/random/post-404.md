@@ -1,6 +1,6 @@
 ---
 title: Post 404
-date: 2012-05-02T22:33:47+07:00
+date: 2018-06-01T17:53:06+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-02-03T10:07:27+07:00
+updated: 2015-03-06T22:39:18+07:00
 ---
-This is content of post 404
+
+      # Post Content
+      This is content of post 404
+
+      ## random image 200x300
+      ![random image 404](https://picsum.photos/200/300)
+      ![another random image 404](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 404](https://placeimg.com/640/480/any)
+      

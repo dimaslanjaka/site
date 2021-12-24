@@ -1,6 +1,6 @@
 ---
 title: Post 400
-date: 2013-10-22T11:58:54+07:00
+date: 2016-09-26T04:31:20+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2013-04-28T06:30:04+07:00
+updated: 2012-06-15T07:50:29+07:00
 ---
-This is content of post 400
+
+      # Post Content
+      This is content of post 400
+
+      ## random image 200x300
+      ![random image 400](https://picsum.photos/200/300)
+      ![another random image 400](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 400](https://placeimg.com/640/480/any)
+      

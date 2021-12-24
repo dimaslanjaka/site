@@ -1,6 +1,6 @@
 ---
 title: Post 150
-date: 2012-10-06T10:09:03+07:00
+date: 2021-05-03T17:04:09+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-09-04T16:19:58+07:00
+updated: 2015-06-28T01:02:02+07:00
 ---
-This is content of post 150
+
+      # Post Content
+      This is content of post 150
+
+      ## random image 200x300
+      ![random image 150](https://picsum.photos/200/300)
+      ![another random image 150](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 150](https://placeimg.com/640/480/any)
+      

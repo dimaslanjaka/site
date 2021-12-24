@@ -1,6 +1,6 @@
 ---
 title: Post 118
-date: 2019-06-05T15:19:45+07:00
+date: 2014-04-28T05:02:14+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-11-29T16:06:23+07:00
+updated: 2013-05-21T11:50:36+07:00
 ---
-This is content of post 118
+
+      # Post Content
+      This is content of post 118
+
+      ## random image 200x300
+      ![random image 118](https://picsum.photos/200/300)
+      ![another random image 118](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 118](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 41
-date: 2021-06-13T13:47:49+07:00
+date: 2021-04-15T03:31:47+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2018-10-24T19:42:14+07:00
+updated: 2012-01-04T18:09:57+07:00
 ---
-This is content of post 41
+
+      # Post Content
+      This is content of post 41
+
+      ## random image 200x300
+      ![random image 41](https://picsum.photos/200/300)
+      ![another random image 41](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 41](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 259
-date: 2012-07-12T04:31:47+07:00
+date: 2018-01-27T20:52:41+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-02-07T13:45:26+07:00
+updated: 2013-11-05T17:05:07+07:00
 ---
-This is content of post 259
+
+      # Post Content
+      This is content of post 259
+
+      ## random image 200x300
+      ![random image 259](https://picsum.photos/200/300)
+      ![another random image 259](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 259](https://placeimg.com/640/480/any)
+      

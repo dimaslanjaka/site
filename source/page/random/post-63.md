@@ -1,6 +1,6 @@
 ---
 title: Post 63
-date: 2014-08-17T15:47:34+07:00
+date: 2012-09-19T11:42:33+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-09-21T08:43:18+07:00
+updated: 2012-06-16T18:08:08+07:00
 ---
-This is content of post 63
+
+      # Post Content
+      This is content of post 63
+
+      ## random image 200x300
+      ![random image 63](https://picsum.photos/200/300)
+      ![another random image 63](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 63](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 55
-date: 2016-06-30T13:29:45+07:00
+date: 2020-06-30T12:59:11+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-11-29T20:49:26+07:00
+updated: 2020-06-11T09:50:00+07:00
 ---
-This is content of post 55
+
+      # Post Content
+      This is content of post 55
+
+      ## random image 200x300
+      ![random image 55](https://picsum.photos/200/300)
+      ![another random image 55](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 55](https://placeimg.com/640/480/any)
+      

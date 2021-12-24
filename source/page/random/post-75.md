@@ -1,6 +1,6 @@
 ---
 title: Post 75
-date: 2012-07-28T22:01:26+07:00
+date: 2015-08-04T14:37:49+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-06-16T23:29:28+07:00
+updated: 2014-10-05T11:54:17+07:00
 ---
-This is content of post 75
+
+      # Post Content
+      This is content of post 75
+
+      ## random image 200x300
+      ![random image 75](https://picsum.photos/200/300)
+      ![another random image 75](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 75](https://placeimg.com/640/480/any)
+      

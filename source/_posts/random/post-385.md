@@ -1,6 +1,6 @@
 ---
 title: Post 385
-date: 2012-08-17T19:37:40+07:00
+date: 2015-06-30T22:45:00+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-01-14T12:55:41+07:00
+updated: 2012-10-07T13:42:12+07:00
 ---
-This is content of post 385
+
+      # Post Content
+      This is content of post 385
+
+      ## random image 200x300
+      ![random image 385](https://picsum.photos/200/300)
+      ![another random image 385](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 385](https://placeimg.com/640/480/any)
+      

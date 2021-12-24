@@ -1,6 +1,6 @@
 ---
 title: Post 313
-date: 2015-11-17T12:24:20+07:00
+date: 2016-07-02T09:17:55+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-11-10T03:32:31+07:00
+updated: 2014-08-03T09:24:13+07:00
 ---
-This is content of post 313
+
+      # Post Content
+      This is content of post 313
+
+      ## random image 200x300
+      ![random image 313](https://picsum.photos/200/300)
+      ![another random image 313](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 313](https://placeimg.com/640/480/any)
+      

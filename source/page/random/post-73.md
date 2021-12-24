@@ -1,6 +1,6 @@
 ---
 title: Post 73
-date: 2016-02-07T12:27:16+07:00
+date: 2015-09-17T01:32:11+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-03-09T23:50:50+07:00
+updated: 2014-08-20T21:07:34+07:00
 ---
-This is content of post 73
+
+      # Post Content
+      This is content of post 73
+
+      ## random image 200x300
+      ![random image 73](https://picsum.photos/200/300)
+      ![another random image 73](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 73](https://placeimg.com/640/480/any)
+      

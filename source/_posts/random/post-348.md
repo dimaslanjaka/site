@@ -1,6 +1,6 @@
 ---
 title: Post 348
-date: 2016-09-29T06:55:15+07:00
+date: 2017-10-22T13:07:16+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-07-29T01:31:11+07:00
+updated: 2013-07-16T16:54:34+07:00
 ---
-This is content of post 348
+
+      # Post Content
+      This is content of post 348
+
+      ## random image 200x300
+      ![random image 348](https://picsum.photos/200/300)
+      ![another random image 348](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 348](https://placeimg.com/640/480/any)
+      

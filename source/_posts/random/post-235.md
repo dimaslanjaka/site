@@ -1,6 +1,6 @@
 ---
 title: Post 235
-date: 2012-02-12T01:04:51+07:00
+date: 2018-05-10T00:16:05+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-01-25T18:01:03+07:00
+updated: 2017-08-06T15:56:08+07:00
 ---
-This is content of post 235
+
+      # Post Content
+      This is content of post 235
+
+      ## random image 200x300
+      ![random image 235](https://picsum.photos/200/300)
+      ![another random image 235](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 235](https://placeimg.com/640/480/any)
+      

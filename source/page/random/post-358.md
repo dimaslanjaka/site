@@ -1,6 +1,6 @@
 ---
 title: Post 358
-date: 2015-06-19T05:41:34+07:00
+date: 2020-03-29T21:19:24+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-12-20T22:01:19+07:00
+updated: 2016-09-02T15:35:33+07:00
 ---
-This is content of post 358
+
+      # Post Content
+      This is content of post 358
+
+      ## random image 200x300
+      ![random image 358](https://picsum.photos/200/300)
+      ![another random image 358](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 358](https://placeimg.com/640/480/any)
+      

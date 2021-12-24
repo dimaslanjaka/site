@@ -1,6 +1,6 @@
 ---
 title: Post 366
-date: 2013-04-15T15:53:11+07:00
+date: 2019-01-04T10:31:45+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-01-24T19:14:49+07:00
+updated: 2016-11-14T05:32:01+07:00
 ---
-This is content of post 366
+
+      # Post Content
+      This is content of post 366
+
+      ## random image 200x300
+      ![random image 366](https://picsum.photos/200/300)
+      ![another random image 366](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 366](https://placeimg.com/640/480/any)
+      

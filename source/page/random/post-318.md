@@ -1,6 +1,6 @@
 ---
 title: Post 318
-date: 2017-12-15T02:41:54+07:00
+date: 2014-01-22T15:01:45+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-05-14T22:04:01+07:00
+updated: 2014-01-15T18:42:19+07:00
 ---
-This is content of post 318
+
+      # Post Content
+      This is content of post 318
+
+      ## random image 200x300
+      ![random image 318](https://picsum.photos/200/300)
+      ![another random image 318](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 318](https://placeimg.com/640/480/any)
+      

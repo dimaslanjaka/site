@@ -1,6 +1,6 @@
 ---
 title: Post 67
-date: 2019-03-21T03:11:34+07:00
+date: 2013-02-04T10:39:37+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-11-26T18:53:10+07:00
+updated: 2012-09-23T00:43:05+07:00
 ---
-This is content of post 67
+
+      # Post Content
+      This is content of post 67
+
+      ## random image 200x300
+      ![random image 67](https://picsum.photos/200/300)
+      ![another random image 67](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 67](https://placeimg.com/640/480/any)
+      

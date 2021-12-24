@@ -1,6 +1,6 @@
 ---
 title: Post 160
-date: 2020-05-04T13:42:26+07:00
+date: 2018-06-07T14:37:14+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2017-01-08T00:21:05+07:00
+updated: 2015-06-21T02:44:08+07:00
 ---
-This is content of post 160
+
+      # Post Content
+      This is content of post 160
+
+      ## random image 200x300
+      ![random image 160](https://picsum.photos/200/300)
+      ![another random image 160](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 160](https://placeimg.com/640/480/any)
+      

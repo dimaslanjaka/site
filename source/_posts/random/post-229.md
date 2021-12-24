@@ -1,6 +1,6 @@
 ---
 title: Post 229
-date: 2013-01-03T15:08:34+07:00
+date: 2014-10-08T06:15:50+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-08-21T04:06:53+07:00
+updated: 2013-11-30T23:48:39+07:00
 ---
-This is content of post 229
+
+      # Post Content
+      This is content of post 229
+
+      ## random image 200x300
+      ![random image 229](https://picsum.photos/200/300)
+      ![another random image 229](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 229](https://placeimg.com/640/480/any)
+      

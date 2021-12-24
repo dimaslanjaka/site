@@ -1,6 +1,6 @@
 ---
 title: Post 45
-date: 2021-07-30T11:49:26+07:00
+date: 2012-11-03T00:47:19+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-01-26T12:40:53+07:00
+updated: 2012-07-06T12:41:40+07:00
 ---
-This is content of post 45
+
+      # Post Content
+      This is content of post 45
+
+      ## random image 200x300
+      ![random image 45](https://picsum.photos/200/300)
+      ![another random image 45](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 45](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 37
-date: 2014-08-27T13:51:40+07:00
+date: 2016-01-24T09:41:10+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-06-16T22:22:59+07:00
+updated: 2015-09-10T14:26:18+07:00
 ---
-This is content of post 37
+
+      # Post Content
+      This is content of post 37
+
+      ## random image 200x300
+      ![random image 37](https://picsum.photos/200/300)
+      ![another random image 37](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 37](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 363
-date: 2012-04-26T17:48:44+07:00
+date: 2019-03-03T19:39:31+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-01-04T02:14:25+07:00
+updated: 2015-11-26T15:00:39+07:00
 ---
-This is content of post 363
+
+      # Post Content
+      This is content of post 363
+
+      ## random image 200x300
+      ![random image 363](https://picsum.photos/200/300)
+      ![another random image 363](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 363](https://placeimg.com/640/480/any)
+      

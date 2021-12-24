@@ -1,6 +1,6 @@
 ---
 title: Post 387
-date: 2021-08-14T11:17:00+07:00
+date: 2021-09-26T17:39:54+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-07-23T10:06:16+07:00
+updated: 2016-02-18T00:50:18+07:00
 ---
-This is content of post 387
+
+      # Post Content
+      This is content of post 387
+
+      ## random image 200x300
+      ![random image 387](https://picsum.photos/200/300)
+      ![another random image 387](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 387](https://placeimg.com/640/480/any)
+      

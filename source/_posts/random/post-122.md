@@ -1,6 +1,6 @@
 ---
 title: Post 122
-date: 2012-05-08T12:57:53+07:00
+date: 2020-10-22T23:27:54+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-04-05T05:15:42+07:00
+updated: 2012-08-06T01:26:49+07:00
 ---
-This is content of post 122
+
+      # Post Content
+      This is content of post 122
+
+      ## random image 200x300
+      ![random image 122](https://picsum.photos/200/300)
+      ![another random image 122](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 122](https://placeimg.com/640/480/any)
+      

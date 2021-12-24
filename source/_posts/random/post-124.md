@@ -1,6 +1,6 @@
 ---
 title: Post 124
-date: 2014-01-20T02:55:47+07:00
+date: 2018-09-01T11:41:21+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-02-07T23:47:55+07:00
+updated: 2013-11-15T20:09:52+07:00
 ---
-This is content of post 124
+
+      # Post Content
+      This is content of post 124
+
+      ## random image 200x300
+      ![random image 124](https://picsum.photos/200/300)
+      ![another random image 124](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 124](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 266
-date: 2017-12-14T11:59:52+07:00
+date: 2012-11-14T21:24:52+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-10-27T06:40:43+07:00
+updated: 2012-04-05T14:45:25+07:00
 ---
-This is content of post 266
+
+      # Post Content
+      This is content of post 266
+
+      ## random image 200x300
+      ![random image 266](https://picsum.photos/200/300)
+      ![another random image 266](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 266](https://placeimg.com/640/480/any)
+      

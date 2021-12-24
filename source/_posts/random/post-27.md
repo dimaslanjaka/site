@@ -1,6 +1,6 @@
 ---
 title: Post 27
-date: 2018-12-16T16:52:34+07:00
+date: 2015-01-13T12:41:53+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-02-14T10:43:34+07:00
+updated: 2012-11-26T20:04:44+07:00
 ---
-This is content of post 27
+
+      # Post Content
+      This is content of post 27
+
+      ## random image 200x300
+      ![random image 27](https://picsum.photos/200/300)
+      ![another random image 27](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 27](https://placeimg.com/640/480/any)
+      

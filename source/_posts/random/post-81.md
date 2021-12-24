@@ -1,6 +1,6 @@
 ---
 title: Post 81
-date: 2020-01-01T15:31:32+07:00
+date: 2017-12-01T06:01:42+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-08-13T16:44:26+07:00
+updated: 2013-04-19T10:03:26+07:00
 ---
-This is content of post 81
+
+      # Post Content
+      This is content of post 81
+
+      ## random image 200x300
+      ![random image 81](https://picsum.photos/200/300)
+      ![another random image 81](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 81](https://placeimg.com/640/480/any)
+      

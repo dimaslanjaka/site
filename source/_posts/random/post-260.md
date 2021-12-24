@@ -1,6 +1,6 @@
 ---
 title: Post 260
-date: 2020-11-15T19:31:39+07:00
+date: 2020-03-16T14:56:58+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2016-08-10T06:28:22+07:00
+updated: 2017-05-17T11:27:12+07:00
 ---
-This is content of post 260
+
+      # Post Content
+      This is content of post 260
+
+      ## random image 200x300
+      ![random image 260](https://picsum.photos/200/300)
+      ![another random image 260](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 260](https://placeimg.com/640/480/any)
+      

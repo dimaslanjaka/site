@@ -1,6 +1,6 @@
 ---
 title: Post 287
-date: 2021-03-15T21:46:43+07:00
+date: 2012-12-14T09:54:17+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-06-05T11:36:25+07:00
+updated: 2012-11-29T04:04:07+07:00
 ---
-This is content of post 287
+
+      # Post Content
+      This is content of post 287
+
+      ## random image 200x300
+      ![random image 287](https://picsum.photos/200/300)
+      ![another random image 287](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 287](https://placeimg.com/640/480/any)
+      

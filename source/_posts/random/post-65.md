@@ -1,6 +1,6 @@
 ---
 title: Post 65
-date: 2020-10-04T09:28:23+07:00
+date: 2014-08-09T04:23:04+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-02-08T14:36:33+07:00
+updated: 2012-03-08T08:09:54+07:00
 ---
-This is content of post 65
+
+      # Post Content
+      This is content of post 65
+
+      ## random image 200x300
+      ![random image 65](https://picsum.photos/200/300)
+      ![another random image 65](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 65](https://placeimg.com/640/480/any)
+      

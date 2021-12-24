@@ -1,6 +1,6 @@
 ---
 title: Post 279
-date: 2016-10-12T03:56:29+07:00
+date: 2014-02-03T18:42:31+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-11-14T10:16:55+07:00
+updated: 2013-02-05T23:16:46+07:00
 ---
-This is content of post 279
+
+      # Post Content
+      This is content of post 279
+
+      ## random image 200x300
+      ![random image 279](https://picsum.photos/200/300)
+      ![another random image 279](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 279](https://placeimg.com/640/480/any)
+      

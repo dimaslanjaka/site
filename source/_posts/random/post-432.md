@@ -1,6 +1,6 @@
 ---
 title: Post 432
-date: 2012-01-10T23:59:26+07:00
+date: 2014-03-06T19:26:24+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-01-09T14:59:48+07:00
+updated: 2013-11-21T18:16:35+07:00
 ---
-This is content of post 432
+
+      # Post Content
+      This is content of post 432
+
+      ## random image 200x300
+      ![random image 432](https://picsum.photos/200/300)
+      ![another random image 432](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 432](https://placeimg.com/640/480/any)
+      

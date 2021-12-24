@@ -1,6 +1,6 @@
 ---
 title: Post 296
-date: 2013-11-21T03:19:22+07:00
+date: 2016-02-16T18:07:34+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-09-11T02:47:53+07:00
+updated: 2012-11-12T18:59:43+07:00
 ---
-This is content of post 296
+
+      # Post Content
+      This is content of post 296
+
+      ## random image 200x300
+      ![random image 296](https://picsum.photos/200/300)
+      ![another random image 296](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 296](https://placeimg.com/640/480/any)
+      

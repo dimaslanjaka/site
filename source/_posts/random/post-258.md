@@ -1,6 +1,6 @@
 ---
 title: Post 258
-date: 2021-12-21T17:28:39+07:00
+date: 2012-12-14T09:57:21+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2019-07-17T21:30:41+07:00
+updated: 2012-07-21T06:19:46+07:00
 ---
-This is content of post 258
+
+      # Post Content
+      This is content of post 258
+
+      ## random image 200x300
+      ![random image 258](https://picsum.photos/200/300)
+      ![another random image 258](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 258](https://placeimg.com/640/480/any)
+      

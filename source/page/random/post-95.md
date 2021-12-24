@@ -1,6 +1,6 @@
 ---
 title: Post 95
-date: 2016-11-17T00:53:04+07:00
+date: 2018-01-05T04:02:15+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-01-25T20:38:41+07:00
+updated: 2014-06-17T01:45:27+07:00
 ---
-This is content of post 95
+
+      # Post Content
+      This is content of post 95
+
+      ## random image 200x300
+      ![random image 95](https://picsum.photos/200/300)
+      ![another random image 95](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 95](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 84
-date: 2012-09-03T06:33:32+07:00
+date: 2019-06-23T02:28:27+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-06-23T18:37:47+07:00
+updated: 2017-08-14T10:03:23+07:00
 ---
-This is content of post 84
+
+      # Post Content
+      This is content of post 84
+
+      ## random image 200x300
+      ![random image 84](https://picsum.photos/200/300)
+      ![another random image 84](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 84](https://placeimg.com/640/480/any)
+      

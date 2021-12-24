@@ -1,6 +1,6 @@
 ---
 title: Post 240
-date: 2012-06-17T15:13:30+07:00
+date: 2013-12-24T20:14:15+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-05-18T09:20:20+07:00
+updated: 2012-01-21T15:27:44+07:00
 ---
-This is content of post 240
+
+      # Post Content
+      This is content of post 240
+
+      ## random image 200x300
+      ![random image 240](https://picsum.photos/200/300)
+      ![another random image 240](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 240](https://placeimg.com/640/480/any)
+      

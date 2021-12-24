@@ -1,6 +1,6 @@
 ---
 title: Post 390
-date: 2020-07-17T03:13:01+07:00
+date: 2013-03-06T07:26:07+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2018-04-18T13:28:11+07:00
+updated: 2012-02-22T09:48:08+07:00
 ---
-This is content of post 390
+
+      # Post Content
+      This is content of post 390
+
+      ## random image 200x300
+      ![random image 390](https://picsum.photos/200/300)
+      ![another random image 390](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 390](https://placeimg.com/640/480/any)
+      

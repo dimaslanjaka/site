@@ -1,6 +1,6 @@
 ---
 title: Post 340
-date: 2015-10-12T11:44:46+07:00
+date: 2017-11-01T00:46:26+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2015-08-05T12:41:00+07:00
+updated: 2012-07-05T02:50:26+07:00
 ---
-This is content of post 340
+
+      # Post Content
+      This is content of post 340
+
+      ## random image 200x300
+      ![random image 340](https://picsum.photos/200/300)
+      ![another random image 340](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 340](https://placeimg.com/640/480/any)
+      

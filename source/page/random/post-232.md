@@ -1,6 +1,6 @@
 ---
 title: Post 232
-date: 2021-06-12T10:59:42+07:00
+date: 2014-04-09T18:22:07+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-09-10T04:16:54+07:00
+updated: 2013-11-09T21:50:08+07:00
 ---
-This is content of post 232
+
+      # Post Content
+      This is content of post 232
+
+      ## random image 200x300
+      ![random image 232](https://picsum.photos/200/300)
+      ![another random image 232](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 232](https://placeimg.com/640/480/any)
+      

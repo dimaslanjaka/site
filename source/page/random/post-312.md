@@ -1,6 +1,6 @@
 ---
 title: Post 312
-date: 2014-08-19T09:37:31+07:00
+date: 2012-12-20T08:50:48+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-12-03T18:43:58+07:00
+updated: 2012-05-18T08:43:46+07:00
 ---
-This is content of post 312
+
+      # Post Content
+      This is content of post 312
+
+      ## random image 200x300
+      ![random image 312](https://picsum.photos/200/300)
+      ![another random image 312](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 312](https://placeimg.com/640/480/any)
+      

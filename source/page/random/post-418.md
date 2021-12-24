@@ -1,6 +1,6 @@
 ---
 title: Post 418
-date: 2018-04-25T05:00:10+07:00
+date: 2021-10-12T22:54:47+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-06-19T06:30:29+07:00
+updated: 2016-10-23T01:48:53+07:00
 ---
-This is content of post 418
+
+      # Post Content
+      This is content of post 418
+
+      ## random image 200x300
+      ![random image 418](https://picsum.photos/200/300)
+      ![another random image 418](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 418](https://placeimg.com/640/480/any)
+      

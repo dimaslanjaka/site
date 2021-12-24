@@ -1,6 +1,6 @@
 ---
 title: Post 252
-date: 2018-07-01T03:00:24+07:00
+date: 2013-09-29T03:54:34+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-03-03T21:09:39+07:00
+updated: 2013-01-05T17:51:01+07:00
 ---
-This is content of post 252
+
+      # Post Content
+      This is content of post 252
+
+      ## random image 200x300
+      ![random image 252](https://picsum.photos/200/300)
+      ![another random image 252](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 252](https://placeimg.com/640/480/any)
+      

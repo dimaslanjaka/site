@@ -1,6 +1,6 @@
 ---
 title: Post 79
-date: 2018-07-24T05:27:15+07:00
+date: 2018-03-30T04:09:14+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-06-01T00:20:16+07:00
+updated: 2016-07-27T22:39:00+07:00
 ---
-This is content of post 79
+
+      # Post Content
+      This is content of post 79
+
+      ## random image 200x300
+      ![random image 79](https://picsum.photos/200/300)
+      ![another random image 79](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 79](https://placeimg.com/640/480/any)
+      

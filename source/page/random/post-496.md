@@ -1,6 +1,6 @@
 ---
 title: Post 496
-date: 2017-07-16T22:30:32+07:00
+date: 2012-03-21T23:05:35+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-10-09T16:03:28+07:00
+updated: 2012-01-24T14:51:34+07:00
 ---
-This is content of post 496
+
+      # Post Content
+      This is content of post 496
+
+      ## random image 200x300
+      ![random image 496](https://picsum.photos/200/300)
+      ![another random image 496](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 496](https://placeimg.com/640/480/any)
+      

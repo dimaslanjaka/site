@@ -1,6 +1,6 @@
 ---
 title: Post 68
-date: 2021-08-16T04:50:34+07:00
+date: 2015-03-08T01:38:40+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-10-25T11:24:22+07:00
+updated: 2013-11-10T07:35:16+07:00
 ---
-This is content of post 68
+
+      # Post Content
+      This is content of post 68
+
+      ## random image 200x300
+      ![random image 68](https://picsum.photos/200/300)
+      ![another random image 68](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 68](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 215
-date: 2020-11-24T19:45:49+07:00
+date: 2021-04-11T00:59:56+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-07-02T12:42:28+07:00
+updated: 2020-08-13T07:25:30+07:00
 ---
-This is content of post 215
+
+      # Post Content
+      This is content of post 215
+
+      ## random image 200x300
+      ![random image 215](https://picsum.photos/200/300)
+      ![another random image 215](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 215](https://placeimg.com/640/480/any)
+      

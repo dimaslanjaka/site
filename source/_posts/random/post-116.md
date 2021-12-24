@@ -1,6 +1,6 @@
 ---
 title: Post 116
-date: 2014-09-19T09:16:18+07:00
+date: 2015-04-19T16:34:03+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-11-20T06:00:03+07:00
+updated: 2014-11-29T05:19:29+07:00
 ---
-This is content of post 116
+
+      # Post Content
+      This is content of post 116
+
+      ## random image 200x300
+      ![random image 116](https://picsum.photos/200/300)
+      ![another random image 116](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 116](https://placeimg.com/640/480/any)
+      

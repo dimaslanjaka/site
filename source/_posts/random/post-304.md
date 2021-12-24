@@ -1,6 +1,6 @@
 ---
 title: Post 304
-date: 2020-02-28T12:53:16+07:00
+date: 2018-12-18T00:33:25+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2017-10-21T17:48:35+07:00
+updated: 2016-05-02T23:32:39+07:00
 ---
-This is content of post 304
+
+      # Post Content
+      This is content of post 304
+
+      ## random image 200x300
+      ![random image 304](https://picsum.photos/200/300)
+      ![another random image 304](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 304](https://placeimg.com/640/480/any)
+      

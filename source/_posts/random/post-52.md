@@ -1,6 +1,6 @@
 ---
 title: Post 52
-date: 2014-12-17T06:21:26+07:00
+date: 2014-09-02T16:01:07+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-02-12T20:13:48+07:00
+updated: 2013-07-07T09:05:05+07:00
 ---
-This is content of post 52
+
+      # Post Content
+      This is content of post 52
+
+      ## random image 200x300
+      ![random image 52](https://picsum.photos/200/300)
+      ![another random image 52](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 52](https://placeimg.com/640/480/any)
+      

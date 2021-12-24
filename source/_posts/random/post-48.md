@@ -1,6 +1,6 @@
 ---
 title: Post 48
-date: 2012-10-01T22:38:39+07:00
+date: 2021-09-11T03:41:12+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-04-07T08:08:06+07:00
+updated: 2019-09-17T04:42:59+07:00
 ---
-This is content of post 48
+
+      # Post Content
+      This is content of post 48
+
+      ## random image 200x300
+      ![random image 48](https://picsum.photos/200/300)
+      ![another random image 48](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 48](https://placeimg.com/640/480/any)
+      

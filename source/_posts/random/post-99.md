@@ -1,6 +1,6 @@
 ---
 title: Post 99
-date: 2018-04-08T23:22:05+07:00
+date: 2012-05-25T14:32:04+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-01-05T14:38:13+07:00
+updated: 2012-03-14T19:47:40+07:00
 ---
-This is content of post 99
+
+      # Post Content
+      This is content of post 99
+
+      ## random image 200x300
+      ![random image 99](https://picsum.photos/200/300)
+      ![another random image 99](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 99](https://placeimg.com/640/480/any)
+      

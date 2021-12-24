@@ -1,6 +1,6 @@
 ---
 title: Post 315
-date: 2018-05-19T04:46:06+07:00
+date: 2018-12-26T18:22:14+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-11-05T04:27:37+07:00
+updated: 2012-12-04T10:57:16+07:00
 ---
-This is content of post 315
+
+      # Post Content
+      This is content of post 315
+
+      ## random image 200x300
+      ![random image 315](https://picsum.photos/200/300)
+      ![another random image 315](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 315](https://placeimg.com/640/480/any)
+      

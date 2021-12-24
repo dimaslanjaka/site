@@ -1,6 +1,6 @@
 ---
 title: Post 196
-date: 2018-05-28T14:41:15+07:00
+date: 2019-04-09T05:26:29+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-08-15T04:39:11+07:00
+updated: 2014-09-20T12:20:07+07:00
 ---
-This is content of post 196
+
+      # Post Content
+      This is content of post 196
+
+      ## random image 200x300
+      ![random image 196](https://picsum.photos/200/300)
+      ![another random image 196](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 196](https://placeimg.com/640/480/any)
+      

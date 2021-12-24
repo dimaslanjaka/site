@@ -1,6 +1,6 @@
 ---
 title: Post 180
-date: 2019-06-02T17:48:21+07:00
+date: 2019-04-23T07:18:36+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2013-04-14T04:07:57+07:00
+updated: 2012-03-13T23:37:01+07:00
 ---
-This is content of post 180
+
+      # Post Content
+      This is content of post 180
+
+      ## random image 200x300
+      ![random image 180](https://picsum.photos/200/300)
+      ![another random image 180](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 180](https://placeimg.com/640/480/any)
+      

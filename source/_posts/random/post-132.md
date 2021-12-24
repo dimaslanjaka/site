@@ -1,6 +1,6 @@
 ---
 title: Post 132
-date: 2016-12-05T23:53:56+07:00
+date: 2012-06-04T03:52:58+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-07-01T23:37:16+07:00
+updated: 2012-02-06T09:22:00+07:00
 ---
-This is content of post 132
+
+      # Post Content
+      This is content of post 132
+
+      ## random image 200x300
+      ![random image 132](https://picsum.photos/200/300)
+      ![another random image 132](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 132](https://placeimg.com/640/480/any)
+      

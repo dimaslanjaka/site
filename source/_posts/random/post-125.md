@@ -1,6 +1,6 @@
 ---
 title: Post 125
-date: 2020-02-13T08:37:13+07:00
+date: 2020-12-14T23:15:25+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-09-26T19:41:27+07:00
+updated: 2012-12-21T10:21:23+07:00
 ---
-This is content of post 125
+
+      # Post Content
+      This is content of post 125
+
+      ## random image 200x300
+      ![random image 125](https://picsum.photos/200/300)
+      ![another random image 125](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 125](https://placeimg.com/640/480/any)
+      

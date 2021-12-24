@@ -1,6 +1,6 @@
 ---
 title: Post 85
-date: 2012-11-29T16:41:43+07:00
+date: 2018-01-27T22:34:13+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-03-02T19:16:28+07:00
+updated: 2015-01-19T13:44:21+07:00
 ---
-This is content of post 85
+
+      # Post Content
+      This is content of post 85
+
+      ## random image 200x300
+      ![random image 85](https://picsum.photos/200/300)
+      ![another random image 85](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 85](https://placeimg.com/640/480/any)
+      

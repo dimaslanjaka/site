@@ -1,6 +1,6 @@
 ---
 title: Post 267
-date: 2014-02-09T01:41:52+07:00
+date: 2015-06-10T20:21:25+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-09-01T19:38:47+07:00
+updated: 2014-10-02T01:05:09+07:00
 ---
-This is content of post 267
+
+      # Post Content
+      This is content of post 267
+
+      ## random image 200x300
+      ![random image 267](https://picsum.photos/200/300)
+      ![another random image 267](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 267](https://placeimg.com/640/480/any)
+      

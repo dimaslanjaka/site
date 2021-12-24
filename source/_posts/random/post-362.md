@@ -1,6 +1,6 @@
 ---
 title: Post 362
-date: 2013-01-21T05:13:48+07:00
+date: 2012-09-25T07:29:22+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-03-23T02:04:17+07:00
+updated: 2012-02-05T10:40:49+07:00
 ---
-This is content of post 362
+
+      # Post Content
+      This is content of post 362
+
+      ## random image 200x300
+      ![random image 362](https://picsum.photos/200/300)
+      ![another random image 362](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 362](https://placeimg.com/640/480/any)
+      

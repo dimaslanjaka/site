@@ -1,6 +1,6 @@
 ---
 title: Post 265
-date: 2018-12-19T12:23:25+07:00
+date: 2020-06-05T07:08:56+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-02-01T01:12:02+07:00
+updated: 2013-02-07T03:41:55+07:00
 ---
-This is content of post 265
+
+      # Post Content
+      This is content of post 265
+
+      ## random image 200x300
+      ![random image 265](https://picsum.photos/200/300)
+      ![another random image 265](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 265](https://placeimg.com/640/480/any)
+      

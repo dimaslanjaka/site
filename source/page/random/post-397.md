@@ -1,6 +1,6 @@
 ---
 title: Post 397
-date: 2017-10-31T23:20:55+07:00
+date: 2016-10-27T00:35:46+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-06-13T21:13:52+07:00
+updated: 2016-07-03T15:09:42+07:00
 ---
-This is content of post 397
+
+      # Post Content
+      This is content of post 397
+
+      ## random image 200x300
+      ![random image 397](https://picsum.photos/200/300)
+      ![another random image 397](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 397](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 242
-date: 2018-07-01T03:39:38+07:00
+date: 2021-01-06T10:53:09+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-01-26T15:50:17+07:00
+updated: 2020-09-02T17:02:33+07:00
 ---
-This is content of post 242
+
+      # Post Content
+      This is content of post 242
+
+      ## random image 200x300
+      ![random image 242](https://picsum.photos/200/300)
+      ![another random image 242](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 242](https://placeimg.com/640/480/any)
+      

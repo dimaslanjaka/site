@@ -1,6 +1,6 @@
 ---
 title: Post 288
-date: 2015-03-25T09:35:19+07:00
+date: 2021-09-23T18:04:31+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-08-03T17:07:54+07:00
+updated: 2013-11-10T10:42:50+07:00
 ---
-This is content of post 288
+
+      # Post Content
+      This is content of post 288
+
+      ## random image 200x300
+      ![random image 288](https://picsum.photos/200/300)
+      ![another random image 288](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 288](https://placeimg.com/640/480/any)
+      

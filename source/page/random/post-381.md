@@ -1,6 +1,6 @@
 ---
 title: Post 381
-date: 2019-09-28T04:42:48+07:00
+date: 2015-06-22T20:59:22+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-10-05T11:07:35+07:00
+updated: 2013-06-01T08:37:25+07:00
 ---
-This is content of post 381
+
+      # Post Content
+      This is content of post 381
+
+      ## random image 200x300
+      ![random image 381](https://picsum.photos/200/300)
+      ![another random image 381](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 381](https://placeimg.com/640/480/any)
+      

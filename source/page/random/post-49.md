@@ -1,6 +1,6 @@
 ---
 title: Post 49
-date: 2018-12-31T03:08:28+07:00
+date: 2016-04-13T18:09:15+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-11-20T14:12:28+07:00
+updated: 2012-03-13T10:30:53+07:00
 ---
-This is content of post 49
+
+      # Post Content
+      This is content of post 49
+
+      ## random image 200x300
+      ![random image 49](https://picsum.photos/200/300)
+      ![another random image 49](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 49](https://placeimg.com/640/480/any)
+      

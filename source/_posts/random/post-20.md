@@ -1,6 +1,6 @@
 ---
 title: Post 20
-date: 2019-10-11T22:42:42+07:00
+date: 2019-05-14T07:50:28+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2016-02-13T03:54:33+07:00
+updated: 2016-01-31T03:44:30+07:00
 ---
-This is content of post 20
+
+      # Post Content
+      This is content of post 20
+
+      ## random image 200x300
+      ![random image 20](https://picsum.photos/200/300)
+      ![another random image 20](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 20](https://placeimg.com/640/480/any)
+      

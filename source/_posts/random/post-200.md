@@ -1,6 +1,6 @@
 ---
 title: Post 200
-date: 2014-10-19T00:26:56+07:00
+date: 2021-01-01T04:29:40+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-07-15T20:54:20+07:00
+updated: 2020-12-20T15:32:15+07:00
 ---
-This is content of post 200
+
+      # Post Content
+      This is content of post 200
+
+      ## random image 200x300
+      ![random image 200](https://picsum.photos/200/300)
+      ![another random image 200](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 200](https://placeimg.com/640/480/any)
+      

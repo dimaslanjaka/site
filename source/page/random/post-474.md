@@ -1,6 +1,6 @@
 ---
 title: Post 474
-date: 2017-11-01T00:58:08+07:00
+date: 2017-03-23T19:32:35+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-09-29T06:27:57+07:00
+updated: 2016-06-28T03:29:52+07:00
 ---
-This is content of post 474
+
+      # Post Content
+      This is content of post 474
+
+      ## random image 200x300
+      ![random image 474](https://picsum.photos/200/300)
+      ![another random image 474](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 474](https://placeimg.com/640/480/any)
+      

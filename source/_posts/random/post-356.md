@@ -1,6 +1,6 @@
 ---
 title: Post 356
-date: 2015-07-06T17:38:11+07:00
+date: 2013-08-10T15:08:51+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-02-21T04:26:04+07:00
+updated: 2012-08-02T18:11:30+07:00
 ---
-This is content of post 356
+
+      # Post Content
+      This is content of post 356
+
+      ## random image 200x300
+      ![random image 356](https://picsum.photos/200/300)
+      ![another random image 356](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 356](https://placeimg.com/640/480/any)
+      

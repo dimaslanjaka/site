@@ -1,6 +1,6 @@
 ---
 title: Post 374
-date: 2016-01-29T02:24:07+07:00
+date: 2012-04-14T19:52:35+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-08-16T10:55:03+07:00
+updated: 2012-01-20T08:07:04+07:00
 ---
-This is content of post 374
+
+      # Post Content
+      This is content of post 374
+
+      ## random image 200x300
+      ![random image 374](https://picsum.photos/200/300)
+      ![another random image 374](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 374](https://placeimg.com/640/480/any)
+      

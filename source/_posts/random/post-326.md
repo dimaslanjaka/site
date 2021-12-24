@@ -1,6 +1,6 @@
 ---
 title: Post 326
-date: 2012-09-05T03:30:51+07:00
+date: 2012-10-29T04:03:28+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-03-07T23:20:52+07:00
+updated: 2012-02-15T08:04:16+07:00
 ---
-This is content of post 326
+
+      # Post Content
+      This is content of post 326
+
+      ## random image 200x300
+      ![random image 326](https://picsum.photos/200/300)
+      ![another random image 326](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 326](https://placeimg.com/640/480/any)
+      

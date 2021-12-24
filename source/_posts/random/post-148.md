@@ -1,6 +1,6 @@
 ---
 title: Post 148
-date: 2014-01-01T15:46:53+07:00
+date: 2014-01-28T16:14:39+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-02-05T06:58:16+07:00
+updated: 2013-09-10T01:58:35+07:00
 ---
-This is content of post 148
+
+      # Post Content
+      This is content of post 148
+
+      ## random image 200x300
+      ![random image 148](https://picsum.photos/200/300)
+      ![another random image 148](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 148](https://placeimg.com/640/480/any)
+      

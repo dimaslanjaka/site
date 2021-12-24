@@ -1,6 +1,6 @@
 ---
 title: Post 8
-date: 2021-11-12T16:53:13+07:00
+date: 2021-04-29T02:09:55+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-06-09T03:38:08+07:00
+updated: 2019-12-14T11:21:11+07:00
 ---
-This is content of post 8
+
+      # Post Content
+      This is content of post 8
+
+      ## random image 200x300
+      ![random image 8](https://picsum.photos/200/300)
+      ![another random image 8](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 8](https://placeimg.com/640/480/any)
+      

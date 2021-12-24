@@ -1,6 +1,6 @@
 ---
 title: Post 7
-date: 2021-10-09T06:25:39+07:00
+date: 2013-02-05T08:26:56+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2019-06-02T13:29:44+07:00
+updated: 2012-04-30T05:21:45+07:00
 ---
-This is content of post 7
+
+      # Post Content
+      This is content of post 7
+
+      ## random image 200x300
+      ![random image 7](https://picsum.photos/200/300)
+      ![another random image 7](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 7](https://placeimg.com/640/480/any)
+      

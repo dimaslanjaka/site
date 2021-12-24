@@ -1,6 +1,6 @@
 ---
 title: Post 2
-date: 2012-03-11T16:08:49+07:00
+date: 2013-12-23T20:39:59+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-02-19T23:11:20+07:00
+updated: 2013-07-30T19:21:05+07:00
 ---
-This is content of post 2
+
+      # Post Content
+      This is content of post 2
+
+      ## random image 200x300
+      ![random image 2](https://picsum.photos/200/300)
+      ![another random image 2](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 2](https://placeimg.com/640/480/any)
+      

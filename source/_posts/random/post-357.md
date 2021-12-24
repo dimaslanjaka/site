@@ -1,6 +1,6 @@
 ---
 title: Post 357
-date: 2020-05-20T10:40:53+07:00
+date: 2013-09-16T16:57:48+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-03-26T02:51:05+07:00
+updated: 2012-06-14T06:57:37+07:00
 ---
-This is content of post 357
+
+      # Post Content
+      This is content of post 357
+
+      ## random image 200x300
+      ![random image 357](https://picsum.photos/200/300)
+      ![another random image 357](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 357](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 470
-date: 2018-03-30T06:04:00+07:00
+date: 2014-06-28T11:56:56+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-08-20T11:22:08+07:00
+updated: 2012-02-15T08:47:45+07:00
 ---
-This is content of post 470
+
+      # Post Content
+      This is content of post 470
+
+      ## random image 200x300
+      ![random image 470](https://picsum.photos/200/300)
+      ![another random image 470](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 470](https://placeimg.com/640/480/any)
+      

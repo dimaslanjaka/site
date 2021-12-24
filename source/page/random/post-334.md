@@ -1,6 +1,6 @@
 ---
 title: Post 334
-date: 2014-11-08T16:26:15+07:00
+date: 2014-07-10T11:03:17+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-07-01T05:01:36+07:00
+updated: 2012-04-15T11:28:31+07:00
 ---
-This is content of post 334
+
+      # Post Content
+      This is content of post 334
+
+      ## random image 200x300
+      ![random image 334](https://picsum.photos/200/300)
+      ![another random image 334](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 334](https://placeimg.com/640/480/any)
+      

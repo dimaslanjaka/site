@@ -1,6 +1,6 @@
 ---
 title: Post 56
-date: 2013-05-17T12:55:00+07:00
+date: 2016-05-01T09:35:24+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-03-03T10:54:34+07:00
+updated: 2012-01-28T07:48:31+07:00
 ---
-This is content of post 56
+
+      # Post Content
+      This is content of post 56
+
+      ## random image 200x300
+      ![random image 56](https://picsum.photos/200/300)
+      ![another random image 56](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 56](https://placeimg.com/640/480/any)
+      

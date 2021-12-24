@@ -1,6 +1,6 @@
 ---
 title: Post 274
-date: 2020-12-02T05:04:50+07:00
+date: 2018-09-29T05:50:27+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2019-04-22T04:24:50+07:00
+updated: 2013-08-18T11:55:33+07:00
 ---
-This is content of post 274
+
+      # Post Content
+      This is content of post 274
+
+      ## random image 200x300
+      ![random image 274](https://picsum.photos/200/300)
+      ![another random image 274](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 274](https://placeimg.com/640/480/any)
+      

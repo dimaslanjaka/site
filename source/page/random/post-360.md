@@ -1,6 +1,6 @@
 ---
 title: Post 360
-date: 2020-08-25T07:45:57+07:00
+date: 2019-09-24T21:25:10+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2013-09-27T22:34:21+07:00
+updated: 2017-02-07T06:38:15+07:00
 ---
-This is content of post 360
+
+      # Post Content
+      This is content of post 360
+
+      ## random image 200x300
+      ![random image 360](https://picsum.photos/200/300)
+      ![another random image 360](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 360](https://placeimg.com/640/480/any)
+      

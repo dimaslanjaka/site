@@ -1,6 +1,6 @@
 ---
 title: Post 478
-date: 2019-02-17T18:00:07+07:00
+date: 2017-06-09T05:32:27+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-02-16T05:52:58+07:00
+updated: 2016-01-05T03:08:08+07:00
 ---
-This is content of post 478
+
+      # Post Content
+      This is content of post 478
+
+      ## random image 200x300
+      ![random image 478](https://picsum.photos/200/300)
+      ![another random image 478](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 478](https://placeimg.com/640/480/any)
+      

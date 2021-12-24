@@ -1,6 +1,6 @@
 ---
 title: Post 396
-date: 2016-09-09T19:06:17+07:00
+date: 2012-08-12T01:02:58+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-02-19T20:59:43+07:00
+updated: 2012-03-02T12:02:32+07:00
 ---
-This is content of post 396
+
+      # Post Content
+      This is content of post 396
+
+      ## random image 200x300
+      ![random image 396](https://picsum.photos/200/300)
+      ![another random image 396](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 396](https://placeimg.com/640/480/any)
+      

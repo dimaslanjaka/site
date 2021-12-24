@@ -1,6 +1,6 @@
 ---
 title: Post 342
-date: 2014-04-08T12:34:51+07:00
+date: 2017-04-29T17:35:32+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-10-24T09:06:14+07:00
+updated: 2012-12-24T11:07:14+07:00
 ---
-This is content of post 342
+
+      # Post Content
+      This is content of post 342
+
+      ## random image 200x300
+      ![random image 342](https://picsum.photos/200/300)
+      ![another random image 342](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 342](https://placeimg.com/640/480/any)
+      

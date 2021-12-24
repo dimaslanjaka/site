@@ -1,6 +1,6 @@
 ---
 title: Post 61
-date: 2019-05-22T05:38:27+07:00
+date: 2012-10-03T14:19:14+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-01-19T05:28:35+07:00
+updated: 2012-05-27T19:24:07+07:00
 ---
-This is content of post 61
+
+      # Post Content
+      This is content of post 61
+
+      ## random image 200x300
+      ![random image 61](https://picsum.photos/200/300)
+      ![another random image 61](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 61](https://placeimg.com/640/480/any)
+      

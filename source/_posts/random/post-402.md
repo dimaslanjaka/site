@@ -1,6 +1,6 @@
 ---
 title: Post 402
-date: 2019-04-21T23:43:34+07:00
+date: 2020-09-22T15:40:28+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-10-06T21:51:39+07:00
+updated: 2016-12-28T19:01:41+07:00
 ---
-This is content of post 402
+
+      # Post Content
+      This is content of post 402
+
+      ## random image 200x300
+      ![random image 402](https://picsum.photos/200/300)
+      ![another random image 402](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 402](https://placeimg.com/640/480/any)
+      

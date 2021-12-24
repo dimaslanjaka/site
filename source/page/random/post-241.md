@@ -1,6 +1,6 @@
 ---
 title: Post 241
-date: 2013-01-15T12:12:08+07:00
+date: 2016-01-26T05:55:32+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-08-24T06:06:36+07:00
+updated: 2015-07-18T07:57:05+07:00
 ---
-This is content of post 241
+
+      # Post Content
+      This is content of post 241
+
+      ## random image 200x300
+      ![random image 241](https://picsum.photos/200/300)
+      ![another random image 241](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 241](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 72
-date: 2017-07-27T09:40:08+07:00
+date: 2012-04-18T23:41:49+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2016-01-23T11:18:58+07:00
+updated: 2012-01-03T07:04:56+07:00
 ---
-This is content of post 72
+
+      # Post Content
+      This is content of post 72
+
+      ## random image 200x300
+      ![random image 72](https://picsum.photos/200/300)
+      ![another random image 72](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 72](https://placeimg.com/640/480/any)
+      

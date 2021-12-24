@@ -1,6 +1,6 @@
 ---
 title: Post 249
-date: 2021-01-14T19:17:23+07:00
+date: 2012-03-28T16:48:06+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-06-09T22:53:20+07:00
+updated: 2012-01-04T07:12:25+07:00
 ---
-This is content of post 249
+
+      # Post Content
+      This is content of post 249
+
+      ## random image 200x300
+      ![random image 249](https://picsum.photos/200/300)
+      ![another random image 249](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 249](https://placeimg.com/640/480/any)
+      

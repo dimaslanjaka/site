@@ -1,6 +1,6 @@
 ---
 title: Post 244
-date: 2018-10-01T06:04:54+07:00
+date: 2020-10-11T13:23:17+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-09-19T16:46:23+07:00
+updated: 2019-08-25T23:59:59+07:00
 ---
-This is content of post 244
+
+      # Post Content
+      This is content of post 244
+
+      ## random image 200x300
+      ![random image 244](https://picsum.photos/200/300)
+      ![another random image 244](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 244](https://placeimg.com/640/480/any)
+      

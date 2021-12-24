@@ -1,6 +1,6 @@
 ---
 title: Post 32
-date: 2014-10-22T03:04:18+07:00
+date: 2013-01-11T16:44:11+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-07-14T22:49:47+07:00
+updated: 2012-02-21T03:43:45+07:00
 ---
-This is content of post 32
+
+      # Post Content
+      This is content of post 32
+
+      ## random image 200x300
+      ![random image 32](https://picsum.photos/200/300)
+      ![another random image 32](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 32](https://placeimg.com/640/480/any)
+      

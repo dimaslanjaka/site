@@ -1,6 +1,6 @@
 ---
 title: Post 54
-date: 2020-09-24T11:58:44+07:00
+date: 2015-12-15T22:49:34+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-07-05T09:35:26+07:00
+updated: 2012-12-03T01:13:18+07:00
 ---
-This is content of post 54
+
+      # Post Content
+      This is content of post 54
+
+      ## random image 200x300
+      ![random image 54](https://picsum.photos/200/300)
+      ![another random image 54](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 54](https://placeimg.com/640/480/any)
+      

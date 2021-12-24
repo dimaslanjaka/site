@@ -1,6 +1,6 @@
 ---
 title: Post 234
-date: 2015-09-12T22:16:21+07:00
+date: 2017-08-09T06:48:50+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-08-27T12:13:19+07:00
+updated: 2014-03-22T14:39:16+07:00
 ---
-This is content of post 234
+
+      # Post Content
+      This is content of post 234
+
+      ## random image 200x300
+      ![random image 234](https://picsum.photos/200/300)
+      ![another random image 234](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 234](https://placeimg.com/640/480/any)
+      

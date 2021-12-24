@@ -1,6 +1,6 @@
 ---
 title: Post 12
-date: 2021-11-14T05:11:31+07:00
+date: 2015-03-07T22:13:02+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2020-10-02T08:57:13+07:00
+updated: 2015-01-05T20:10:23+07:00
 ---
-This is content of post 12
+
+      # Post Content
+      This is content of post 12
+
+      ## random image 200x300
+      ![random image 12](https://picsum.photos/200/300)
+      ![another random image 12](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 12](https://placeimg.com/640/480/any)
+      

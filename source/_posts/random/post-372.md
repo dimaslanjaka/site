@@ -1,6 +1,6 @@
 ---
 title: Post 372
-date: 2018-06-25T03:06:25+07:00
+date: 2012-06-18T16:33:04+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2017-11-25T16:06:16+07:00
+updated: 2012-04-06T04:27:31+07:00
 ---
-This is content of post 372
+
+      # Post Content
+      This is content of post 372
+
+      ## random image 200x300
+      ![random image 372](https://picsum.photos/200/300)
+      ![another random image 372](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 372](https://placeimg.com/640/480/any)
+      

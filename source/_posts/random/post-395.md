@@ -1,6 +1,6 @@
 ---
 title: Post 395
-date: 2018-10-04T11:55:40+07:00
+date: 2021-05-13T16:23:57+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-02-18T12:47:21+07:00
+updated: 2021-01-03T23:31:22+07:00
 ---
-This is content of post 395
+
+      # Post Content
+      This is content of post 395
+
+      ## random image 200x300
+      ![random image 395](https://picsum.photos/200/300)
+      ![another random image 395](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 395](https://placeimg.com/640/480/any)
+      

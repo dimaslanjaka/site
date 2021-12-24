@@ -1,6 +1,6 @@
 ---
 title: Post 230
-date: 2012-07-28T22:28:20+07:00
+date: 2017-09-27T17:49:19+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - post has 0
-updated: 2012-06-19T16:26:50+07:00
+updated: 2017-02-01T02:51:28+07:00
 ---
-This is content of post 230
+
+      # Post Content
+      This is content of post 230
+
+      ## random image 200x300
+      ![random image 230](https://picsum.photos/200/300)
+      ![another random image 230](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 230](https://placeimg.com/640/480/any)
+      

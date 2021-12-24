@@ -1,6 +1,6 @@
 ---
 title: Post 264
-date: 2017-08-13T02:01:19+07:00
+date: 2013-05-21T03:23:28+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2014-04-11T06:00:29+07:00
+updated: 2013-02-12T12:40:36+07:00
 ---
-This is content of post 264
+
+      # Post Content
+      This is content of post 264
+
+      ## random image 200x300
+      ![random image 264](https://picsum.photos/200/300)
+      ![another random image 264](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 264](https://placeimg.com/640/480/any)
+      

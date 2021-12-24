@@ -1,6 +1,6 @@
 ---
 title: Post 492
-date: 2020-01-29T19:43:28+07:00
+date: 2015-12-15T13:25:02+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2018-12-13T02:26:36+07:00
+updated: 2014-10-09T11:03:46+07:00
 ---
-This is content of post 492
+
+      # Post Content
+      This is content of post 492
+
+      ## random image 200x300
+      ![random image 492](https://picsum.photos/200/300)
+      ![another random image 492](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 492](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 94
-date: 2014-12-22T09:00:17+07:00
+date: 2014-09-28T05:51:59+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-02-13T16:46:13+07:00
+updated: 2014-02-21T04:59:26+07:00
 ---
-This is content of post 94
+
+      # Post Content
+      This is content of post 94
+
+      ## random image 200x300
+      ![random image 94](https://picsum.photos/200/300)
+      ![another random image 94](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 94](https://placeimg.com/640/480/any)
+      

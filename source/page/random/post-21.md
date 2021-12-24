@@ -1,6 +1,6 @@
 ---
 title: Post 21
-date: 2016-04-24T21:32:48+07:00
+date: 2017-07-28T22:47:35+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-11-24T18:24:07+07:00
+updated: 2017-07-07T00:57:04+07:00
 ---
-This is content of post 21
+
+      # Post Content
+      This is content of post 21
+
+      ## random image 200x300
+      ![random image 21](https://picsum.photos/200/300)
+      ![another random image 21](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 21](https://placeimg.com/640/480/any)
+      

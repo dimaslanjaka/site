@@ -1,6 +1,6 @@
 ---
 title: Post 367
-date: 2020-09-12T17:49:17+07:00
+date: 2016-04-03T04:37:33+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-06-07T17:49:21+07:00
+updated: 2015-07-22T14:45:29+07:00
 ---
-This is content of post 367
+
+      # Post Content
+      This is content of post 367
+
+      ## random image 200x300
+      ![random image 367](https://picsum.photos/200/300)
+      ![another random image 367](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 367](https://placeimg.com/640/480/any)
+      

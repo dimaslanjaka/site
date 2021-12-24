@@ -1,6 +1,6 @@
 ---
 title: Post 77
-date: 2021-11-26T02:20:49+07:00
+date: 2019-11-19T22:52:23+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-04-06T01:55:45+07:00
+updated: 2012-07-24T06:17:37+07:00
 ---
-This is content of post 77
+
+      # Post Content
+      This is content of post 77
+
+      ## random image 200x300
+      ![random image 77](https://picsum.photos/200/300)
+      ![another random image 77](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 77](https://placeimg.com/640/480/any)
+      

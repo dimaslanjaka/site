@@ -1,6 +1,6 @@
 ---
 title: Post 142
-date: 2016-06-29T05:58:06+07:00
+date: 2012-01-13T20:25:12+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-05-16T16:25:07+07:00
+updated: 2012-01-07T03:24:04+07:00
 ---
-This is content of post 142
+
+      # Post Content
+      This is content of post 142
+
+      ## random image 200x300
+      ![random image 142](https://picsum.photos/200/300)
+      ![another random image 142](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 142](https://placeimg.com/640/480/any)
+      

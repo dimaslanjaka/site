@@ -1,6 +1,6 @@
 ---
 title: Post 164
-date: 2015-02-21T03:36:37+07:00
+date: 2012-08-29T17:37:30+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2013-03-19T14:59:10+07:00
+updated: 2012-03-18T12:33:56+07:00
 ---
-This is content of post 164
+
+      # Post Content
+      This is content of post 164
+
+      ## random image 200x300
+      ![random image 164](https://picsum.photos/200/300)
+      ![another random image 164](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 164](https://placeimg.com/640/480/any)
+      

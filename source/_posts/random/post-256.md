@@ -1,6 +1,6 @@
 ---
 title: Post 256
-date: 2014-03-17T11:46:46+07:00
+date: 2013-01-23T14:19:41+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2012-10-17T21:50:13+07:00
+updated: 2012-02-27T13:40:04+07:00
 ---
-This is content of post 256
+
+      # Post Content
+      This is content of post 256
+
+      ## random image 200x300
+      ![random image 256](https://picsum.photos/200/300)
+      ![another random image 256](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 256](https://placeimg.com/640/480/any)
+      

@@ -1,6 +1,6 @@
 ---
 title: Post 34
-date: 2017-12-03T12:31:15+07:00
+date: 2018-12-06T10:17:03+07:00
 keywords:
   - random
   - post
@@ -12,6 +12,16 @@ tags:
 category:
   - random post
   - uncategorized
-updated: 2015-04-12T20:21:30+07:00
+updated: 2012-09-27T19:50:16+07:00
 ---
-This is content of post 34
+
+      # Post Content
+      This is content of post 34
+
+      ## random image 200x300
+      ![random image 34](https://picsum.photos/200/300)
+      ![another random image 34](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 34](https://placeimg.com/640/480/any)
+      
