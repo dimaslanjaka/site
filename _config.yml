@@ -184,7 +184,7 @@ seo:
     # broken images methods
     # serverside : process broken images from server side (caused javascript heap out of memory, if your post large and your device has insufficient memory)
     # clientside : process broken image from client side browser with webjs
-    onerror: serverside
+    onerror: clientside
   # external links fix
   links:
     # enable or false
