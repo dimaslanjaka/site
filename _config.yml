@@ -191,7 +191,6 @@ seo:
     exclude:
       - webmanajemen.com
       - web-manajemen.blogspot.com
-      - dimaslanjaka.github.io
   # auto generate seo friendly sitemap on http://yoursite.com/sitemap.xml
   # forked from yoast seo
   sitemap: true
