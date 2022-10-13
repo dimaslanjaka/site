@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hexo SEO Auto
 subtitle: ""
-description: ""
+description: "Automated SEO HexoJS plugin"
 keywords:
-author: John Doe
+author: Dimas Lanjaka
 language: en
-timezone: ""
+timezone: "Asia/Jakarta"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -38,7 +38,8 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: ""
+  exclude:
+    - webmanajemen.com
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
