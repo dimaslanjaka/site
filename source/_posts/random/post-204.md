@@ -1,0 +1,27 @@
+---
+title: Post 204
+date: 2015-03-20T18:03:35+07:00
+keywords:
+  - random
+  - post
+  - pages
+author: Dimas Lanjaka
+tags:
+  - random post
+  - untagged
+category:
+  - random post
+  - post has 0
+updated: 2014-12-15T13:43:59+07:00
+---
+
+      # Post Content
+      This is content of post 204
+
+      ## random image 200x300
+      ![random image 204](https://picsum.photos/200/300)
+      ![another random image 204](https://picsum.photos/200/300?random=1)
+
+      ## random image 640x480
+      ![random image 204](https://placeimg.com/640/480/any)
+      
