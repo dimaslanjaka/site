@@ -21,6 +21,10 @@ if (toUninstall.length > 0) {
 }
 
 function reinstall() {
-  console.log("reinstalling file:../../");
-  spawn("npm", ["i", "file:../../"], { cwd: __dirname, stdio: "inherit" });
+  console.log("installing demo");
+  child = spawn("npm", ["install"], { cwd: __dirname, stdio: "inherit" });
+  child.on("close", function () {
+    console.log("reinstalling file:./../../");
+    spawn("npm", ["i", "file:./../../"], { cwd: __dirname, stdio: "inherit" });
+  });
 }
