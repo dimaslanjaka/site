@@ -4,12 +4,15 @@
   "private": true,
   "scripts": {
     "start": "npm run server",
+    "prebuild": "npm run clean",
     "build": "hexo generate",
+    "preclean": "node clean.js",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
-    "install-git": "npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git && npm i git+https://github.com/dimaslanjaka/hexo-adsense.git"
+    "install-git": "npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git && npm i git+https://github.com/dimaslanjaka/hexo-adsense.git",
+    "update": "npx npm-check-updates -u -x chalk && npm install"
   },
   "hexo": {
     "version": "5.4.2"
@@ -19,7 +22,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.2",
-    "hexo": "^5.4.2",
+    "hexo": "^6.3.0",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "github:hexojs/hexo-generator-archive",
     "hexo-generator-category": "github:hexojs/hexo-generator-category",
@@ -31,13 +34,15 @@
     "hexo-renderer-pug": "github:hexojs/hexo-renderer-pug",
     "hexo-renderer-stylus": "github:hexojs/hexo-renderer-stylus",
     "hexo-seo": "file:../../",
-    "hexo-server": "^2.0.0",
+    "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "file:themes/butterfly"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "moment": "^2.29.1",
-    "prompt": "^1.2.0",
-    "yaml": "^1.10.2"
+    "cross-spawn": "^7.0.3",
+    "js-yaml": "^4.1.0",
+    "moment": "^2.29.4",
+    "prompt": "^1.3.0",
+    "yaml": "^2.1.3"
   }
 }
