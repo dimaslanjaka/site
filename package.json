@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "start": "npm run server",
-    "prebuild": "npm run clean",
     "build": "hexo generate",
     "preclean": "node clean.js",
     "clean": "hexo clean",
@@ -33,7 +32,6 @@
     "hexo-renderer-marked": "github:hexojs/hexo-renderer-marked",
     "hexo-renderer-pug": "github:hexojs/hexo-renderer-pug",
     "hexo-renderer-stylus": "github:hexojs/hexo-renderer-stylus",
-    "hexo-seo": "file:../../",
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "file:themes/butterfly"
   },

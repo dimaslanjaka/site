@@ -12,6 +12,7 @@ packages.forEach(function (pkg) {
 if (toUninstall.length > 0) {
   const child = spawn("npm", ["un", ...toUninstall], { cwd: __dirname, stdio: "inherit" });
   child.on("close", function () {
+    console.log('reinstalling file:../../')
     spawn("npm", ["i", "file:../../"], { cwd: __dirname, stdio: "inherit" });
   });
 }
