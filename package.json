@@ -19,7 +19,6 @@
     "node": ">=8"
   },
   "dependencies": {
-    "chalk": "^4.1.2",
     "hexo": "^6.3.0",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "github:hexojs/hexo-generator-archive",
