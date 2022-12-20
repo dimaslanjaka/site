@@ -1,15 +1,12 @@
-## To test [hexo-blogger-xml](https://github.com/dimaslanjaka/hexo-blogger-xml/tree/compiler)
-```shell
-npm install
-npm run server
+# test
+
+site test
+```bash
+git clone https://github.com/dimaslanjaka/site.git demo
+cd demo && npm install
 ```
 
-## Structure
-> xml  [xml/test.xml](https://github.com/dimaslanjaka/site/tree/test-demo/xml/)
->
-> Output [source/_posts](https://github.com/dimaslanjaka/site/tree/test-demo/source/_posts)
-
-## install
-```shell
-npm run install-git
+theme test
+```bash
+git clone https://github.com/hexojs/hexo-theme-unit-test
 ```
