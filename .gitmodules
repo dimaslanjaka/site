@@ -1,0 +1,4 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/dimaslanjaka/hexo-admin
+	branch = improve
