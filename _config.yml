@@ -4,7 +4,6 @@
 
 # Site
 title: Hexo SEO Auto
-subtitle: ""
 description: "Automated SEO HexoJS plugin"
 keywords:
 author: Dimas Lanjaka
@@ -13,8 +12,8 @@ timezone: "Asia/Jakarta"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.webmanajemen.com/hexo-seo
-root: /hexo-seo
+url: http://www.webmanajemen.com/hexo-admin
+root: /hexo-admin
 permalink: :title.html #--hexo-blogger-xml
 permalink_defaults:
 pretty_urls:
@@ -134,65 +133,13 @@ browsersync:
     scroll: true
   instanceName: "uniqueString"
 
-# https://github.com/dimaslanjaka/hexo-seo
-seo:
-  html:
-    enable: true
-    # fix invalid html
-    fix: true
-    # exclude from minify
-    exclude:
-      - "*.min.{htm,html}"
-  # minify css
-  css:
-    enable: true
-    # If you want to customize the css minifier settings, you can put below
-    # exclude css from minifying, multiple supported
-    exclude:
-      - "**/*.min.css"
-  # minify js
-  js:
-    enable: true
-    # If you want to customize the js minifier settings, you can put below
-    # exclude css from minifying, multiple supported
-    exclude:
-      - "**/*.min.js"
-    # this is terser options, you can customize minifier with terser options https://github.com/terser/terser
-    # below is config example
-    options:
-      compress:
-        dead_code: true
-      mangle:
-        toplevel: true
-        safari10: true
-  # add rich snippets on every posts and pages
-  schema:
-    article:
-      enable: true
-    breadcrumb:
-      enable: true
-    sitelink:
-      enable: true
-      searchUrl: https://www.webmanajemen.com/hexo-seo/search?q=
-  # this function still under development because JAVASCRIPT HEAP MEMORY and my device is 8GB RAM
-  img:
-    enable: true
-    # fix broken images
-    broken: false
-    # default broken images
-    default: https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg
-    # broken images methods
-    # serverside : process broken images from server side (caused javascript heap out of memory, if your post large and your device has insufficient memory)
-    # clientside : process broken image from client side browser with webjs
-    onerror: clientside
-  # external links fix
-  links:
-    # enable or false
-    enable: true
-    # allowed following links, otherwise nofollow others
-    exclude:
-      - webmanajemen.com
-      - web-manajemen.blogspot.com
-  # auto generate seo friendly sitemap on http://yoursite.com/sitemap.xml
-  # forked from yoast seo
-  sitemap: true
+# hexo-admin
+admin:
+  # enable password
+  lock: false
+  username: myfavoritename
+  password_hash: be121740bf988b2225a313fa1f107ca1
+  secret: a secret something
+metadata:
+  author_id: defaultAuthorId
+  language:
