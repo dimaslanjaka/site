@@ -1,4 +1,4 @@
-[submodule "admin"]
-	path = admin
+[submodule "packages/hexo-admin"]
+	path = packages/hexo-admin
 	url = https://github.com/dimaslanjaka/hexo-admin
 	branch = improve
