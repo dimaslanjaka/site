@@ -122,11 +122,6 @@ markdown:
     case: 0
     separator: "-"
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ""
-
 # https://github.com/hexojs/hexo-browsersync
 browsersync:
   logLevel: "warn"
@@ -134,65 +129,44 @@ browsersync:
     scroll: true
   instanceName: "uniqueString"
 
-# https://github.com/dimaslanjaka/hexo-seo
-seo:
-  html:
-    enable: true
-    # fix invalid html
-    fix: true
-    # exclude from minify
-    exclude:
-      - "*.min.{htm,html}"
-  # minify css
-  css:
-    enable: true
-    # If you want to customize the css minifier settings, you can put below
-    # exclude css from minifying, multiple supported
-    exclude:
-      - "**/*.min.css"
-  # minify js
-  js:
-    enable: true
-    # If you want to customize the js minifier settings, you can put below
-    # exclude css from minifying, multiple supported
-    exclude:
-      - "**/*.min.js"
-    # this is terser options, you can customize minifier with terser options https://github.com/terser/terser
-    # below is config example
-    options:
-      compress:
-        dead_code: true
-      mangle:
-        toplevel: true
-        safari10: true
-  # add rich snippets on every posts and pages
-  schema:
-    article:
-      enable: true
-    breadcrumb:
-      enable: true
-    sitelink:
-      enable: true
-      searchUrl: https://www.webmanajemen.com/hexo-seo/search?q=
-  # this function still under development because JAVASCRIPT HEAP MEMORY and my device is 8GB RAM
-  img:
-    enable: true
-    # fix broken images
-    broken: false
-    # default broken images
-    default: https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg
-    # broken images methods
-    # serverside : process broken images from server side (caused javascript heap out of memory, if your post large and your device has insufficient memory)
-    # clientside : process broken image from client side browser with webjs
-    onerror: clientside
-  # external links fix
-  links:
-    # enable or false
-    enable: true
-    # allowed following links, otherwise nofollow others
-    exclude:
-      - webmanajemen.com
-      - web-manajemen.blogspot.com
-  # auto generate seo friendly sitemap on http://yoursite.com/sitemap.xml
-  # forked from yoast seo
-  sitemap: true
+# static-blog-generator-start
+# default config static-blog-generator
+# Generator options
+generator:
+  ## Enable caching (gulp cache, post cache)
+  cache: true
+
+# Deployment options
+deploy:
+  type: "git"
+  repo: ""
+  branch: "gh-pages"
+  user: ""
+  email: ""
+  message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+## Categories and Tags
+tags:
+  lowercase: true # turn all terms to be lowercase
+  ## Assign existing tag to new tag
+  assign:
+  ### Replace Tag to New Tag
+  mapper:
+    JS: Javascript
+    TS: Typescript
+
+categories:
+  lowercase: true # turn all terms to be lowercase
+  ## Assign existing category to new category
+  ### Auto add category on existing category
+  assign:
+    TS: Programming
+    JS: Programming
+    Typescript: Programming
+    Javascript: Programming
+    GitHub: Programming
+  ### Replace Category to New Category
+  mapper:
+    JS: Javascript
+    TS: Typescript
+# static-blog-generator-end
