@@ -1,15 +1,5 @@
 process.cwd = () => __dirname;
 
-import { spawnAsync } from 'git-command-helper/dist/spawn';
-import { copyAllPosts, hexoGenerateSitemap } from '../src';
-import { chain } from '../src/utils/chain';
+import { hexoGenerateSitemap } from '../src';
 
-chain([
-  { callback: copyAllPosts },
-  {
-    callback: function () {
-      return spawnAsync('hexo', ['generate'], { cwd: __dirname, stdio: 'inherit' });
-    }
-  },
-  { callback: hexoGenerateSitemap }
-]);
+hexoGenerateSitemap();

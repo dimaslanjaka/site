@@ -1,5 +1,3 @@
-require('ts-node/register');
-
 const _use = (flavor) => {
   if (flavor === 'dist') {
     console.log('from dist');
@@ -7,6 +5,7 @@ const _use = (flavor) => {
     require('../dist');
   } else {
     console.log('from src');
+    require('ts-node/register');
     require('../src/gulpfile');
     require('../src');
   }
