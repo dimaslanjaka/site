@@ -145,9 +145,14 @@ deploy:
   email: ""
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
 
+# https://github.com/hexojs/hexo-generator-sitemap
 sitemap:
   tags: true
   categories: true
+  rel: true
+  path:
+    - sitemap.xml
+    - sitemap.txt
 
 ## Categories and Tags
 tags:
