@@ -13,8 +13,8 @@ timezone: "Asia/Jakarta"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.webmanajemen.com/hexo-seo
-root: /hexo-seo
+url: http://www.webmanajemen.com/static-blog-generator
+root: /static-blog-generator/
 permalink: :title.html #--hexo-blogger-xml
 permalink_defaults:
 pretty_urls:
