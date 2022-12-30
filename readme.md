@@ -1,12 +1,8 @@
-# test
+# static-blog-generator test unit
 
-site test
-```bash
-git clone https://github.com/dimaslanjaka/site.git demo
-cd demo && npm install
-```
+test orders
 
-theme test
-```bash
-git clone https://github.com/hexojs/hexo-theme-unit-test
-```
+1. clean all auto generated files
+2. run all standalone script from source posts
+3. copy and parse shortcodes etc all source posts to source/_posts
+4. hexo generate
