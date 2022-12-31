@@ -2,7 +2,7 @@ process.cwd = () => __dirname;
 
 const hexoLib = require('hexo');
 const { join } = require('path');
-const { copyAllPosts } = require('..');
+const { copyAllPosts } = require('../dist');
 const { writefile } = require('../dist/utils/fm');
 
 copyAllPosts().once('end', function () {

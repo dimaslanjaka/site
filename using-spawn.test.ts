@@ -7,9 +7,8 @@ import { spawn } from 'hexo-util';
 import { join, toUnix } from 'upath';
 import { getConfig, noop } from '../src';
 
-jest.setTimeout(10000);
-
-describe('API', function () {
+describe('Test CLI', function () {
+  jest.setTimeout(10000);
   jest.spyOn(process, 'cwd');
 
   test('cwd is test folder', function () {
@@ -17,7 +16,7 @@ describe('API', function () {
   });
 
   test('Clean auto generated files', function (done) {
-    spawn('ts-node', [join(__dirname, 'clean.test.ts')], { cwd: __dirname })
+    spawn('ts-node', [join(__dirname, '_1_clean.ts')], { cwd: __dirname })
       .then(() => {
         expect(existsSync(join(__dirname, 'tmp'))).toBe(false);
         expect(existsSync(join(__dirname, 'source/_posts'))).toBe(false);
@@ -28,7 +27,10 @@ describe('API', function () {
   });
 
   test('Copy source posts', function (done) {
-    spawn('ts-node', [join(__dirname, 'copy.test.ts')], { cwd: __dirname })
+    Promise.all([
+      spawn('ts-node', [join(__dirname, '_2_standalone.ts')], { cwd: __dirname }),
+      spawn('ts-node', [join(__dirname, '_3_copy.ts')], { cwd: __dirname })
+    ])
       .then(function () {
         [join(__dirname, 'results/Application-Copy.json'), join(__dirname, 'results/copyAllPosts.json')].forEach(
           function (path) {
@@ -42,6 +44,4 @@ describe('API', function () {
       .catch(noop)
       .finally(done);
   }, 60000);
-
-  //await app.generate();
 });
