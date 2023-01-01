@@ -23,14 +23,14 @@ chain([
     callback: copyAllPosts,
     opt: {
       before: () => console.log('='.repeat(16) + '[ DIRECT ]' + '='.repeat(16)),
-      after: after('copyAllPosts')
+      after: after('direct-copy')
     }
   },
   {
     callback: new Application(__dirname).copy,
     opt: {
       before: () => console.log('='.repeat(20) + '[ API ]' + '='.repeat(20)),
-      after: after('Application-Copy')
+      after: after('api-copy')
     }
   }
 ]);

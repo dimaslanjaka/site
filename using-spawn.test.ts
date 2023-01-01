@@ -31,7 +31,7 @@ describe('Test CLI', function () {
       spawn('ts-node', [join(__dirname, '_3_copy.ts')], { cwd: __dirname })
     ])
       .then(function () {
-        const fver = [join(__dirname, 'results/Application-Copy.json'), join(__dirname, 'results/copyAllPosts.json')];
+        const fver = [join(__dirname, 'results/api-copy.json'), join(__dirname, 'results/direct-copy.json')];
         for (let i = 0; i < fver.length; i++) {
           const path = fver[i];
           const obj = JSON.parse(readFileSync(path, 'utf-8'));
