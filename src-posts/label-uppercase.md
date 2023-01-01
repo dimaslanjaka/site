@@ -4,3 +4,4 @@ tags: ['TAGS']
 category: ['LABEL']
 ---
 
+this post label should be lowercased

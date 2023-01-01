@@ -4,8 +4,6 @@ tags: ['JS', 'TS']
 category: ['JS', 'TS']
 ---
 
-Label mapper
+replace label `JS` to `javascript`
 
-JS to javascript
-
-TS to typescript
+replace label `TS` to `typescript`

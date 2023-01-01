@@ -4,4 +4,4 @@ tags: ['code']
 categories: ['programming']
 ---
 
-this post should have `javascript` labels
+this post should have `javascript` and `snippet` labels
