@@ -15,7 +15,7 @@ const results = join(__dirname, 'results');
       assign: { programming: 'javascript' }
     }
   });
-  // await api.clean();
+  await api.clean();
   writefile(join(results, 'copy-mapper.json'), JSON.stringify(api.getConfig(), null, 2));
   api.copy();
 })();
