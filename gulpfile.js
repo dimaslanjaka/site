@@ -1,3 +1,5 @@
+'use strict';
+
 process.cwd = () => __dirname;
 process.env.NODE_ENV = 'dev';
 

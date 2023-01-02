@@ -40,7 +40,6 @@
     "hpagent": "^1.2.0",
     "js-yaml": "^4.1.0",
     "moment": "^2.29.4",
-    "persistent-cache": "git+https://github.com/dimaslanjaka/persistent-cache#improve2",
     "prompt": "^1.3.0",
     "yaml": "^2.2.1"
   }
