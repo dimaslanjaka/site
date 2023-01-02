@@ -5,11 +5,11 @@ node_modules/
 db.json
 public/
 .deploy*/
-package-lock.json
-yarn.lock
 /.vscode
 build/
 data.WordPress.2022-06-09.xml
 tmp/
 source/_posts/
 /results
+#package-lock.json
+#yarn.lock
