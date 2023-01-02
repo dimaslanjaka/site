@@ -1,14 +1,9 @@
-const _use = (flavor) => {
-  if (flavor === 'dist') {
-    console.log('from dist');
-    require('../dist/gulpfile');
-    require('../dist');
-  } else {
-    console.log('from src');
-    require('ts-node/register');
-    require('../src/gulpfile');
-    require('../src');
-  }
-};
+const path = require('path');
+const { gulpDebug, gulp } = require('static-blog-generator');
 
-_use('dist');
+gulp.task('test', function () {
+  return gulp
+    .src('**/*.*', { cwd: path.join(__dirname, 'src-posts') })
+    .pipe(gulpDebug())
+    .pipe(gulp.dest(path.join(__dirname, 'tmp/test')));
+});

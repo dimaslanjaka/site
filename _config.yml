@@ -148,15 +148,15 @@ deploy:
 tags:
   lowercase: false # turn all terms to be lowercase
   ## Assign existing tag to new tag
-  assign:
+  assign: {}
   ### Replace Tag to New Tag
-  mapper:
+  mapper: {}
 
 categories:
   lowercase: false # turn all terms to be lowercase
   ## Assign existing category to new category
   ### Auto add category on existing category
-  assign:
+  assign: {}
   ### Replace Category to New Category
-  mapper:
+  mapper: {}
 # static-blog-generator-end
