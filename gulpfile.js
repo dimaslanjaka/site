@@ -3,7 +3,9 @@ process.env.NODE_ENV = 'dev';
 
 const path = require('path');
 const gulp = require('gulp');
-const { gulpCached, gulpDebug } = require('../dist');
+const { gulpCached, gulpDebug, copyAllPosts } = require('../dist');
+const { cleanOldArchives, cleanDb } = require('../dist/gulp.clean');
+const { chain } = require('../dist/utils/chain');
 
 gulp.task('test', function () {
   return gulp
@@ -20,3 +22,9 @@ gulp.task('test:cache', () => {
     .pipe(gulpCached({ name: 'test-gulp-cache' }))
     .pipe(gulp.dest(dest));
 });
+
+gulp.task('test:clean-archive', function () {
+  return chain([{ callback: cleanDb }, { callback: copyAllPosts }, { callback: cleanOldArchives }]);
+});
+
+gulp.task('tca', gulp.series(['test:clean-archive']));
