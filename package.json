@@ -30,7 +30,7 @@
     "hexo-renderer-stylus": "git+https://github.com/hexojs/hexo-renderer-stylus",
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "file:themes/butterfly",
-    "static-blog-generator": "file:../release/static-blog-generator.tgz"
+    "static-blog-generator": "file:.."
   },
   "devDependencies": {
     "axios": "^1.2.2",
