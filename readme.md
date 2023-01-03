@@ -1,4 +1,4 @@
-## To test [hexo-blogger-xml](https://github.com/dimaslanjaka/hexo-blogger-xml/tree/compiler)
+## To test [hexo-seo](https://github.com/dimaslanjaka/hexo-seo)
 ```shell
 npm install
 npm run server
