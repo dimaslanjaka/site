@@ -1,8 +1,8 @@
 process.cwd = () => __dirname;
 
 // stay here - VSCode auto organize import
-import '../src/gulp.post';
 import '../src/gulp.seo';
+import '../src/post/copy';
 // stay here - VSCode auto organize import
 
 import gulp from 'gulp';

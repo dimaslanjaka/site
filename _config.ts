@@ -11,3 +11,5 @@ const subst = `$1\n${def}\n$3`;
 const result = currentYaml.replace(regex, subst);
 
 writeFileSync(join(__dirname, '_config.yml'), result);
+
+export const result_dir = join(__dirname, 'results');

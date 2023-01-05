@@ -7,8 +7,8 @@ import { join, toUnix } from 'upath';
 process.cwd = () => toUnix(__dirname);
 
 // stay here
-import '../src/gulp.post';
 import '../src/gulp.safelink';
+import '../src/post/copy';
 // stay here
 
 const publicDIR = join(__dirname, 'public');
