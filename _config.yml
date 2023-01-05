@@ -129,6 +129,10 @@ browsersync:
 generator:
   ## Enable caching (gulp cache, post cache)
   cache: true
+  ## verbose
+  verbose: false
+
+post_dir: src-posts
 
 # Deployment options
 deploy:

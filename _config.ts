@@ -13,3 +13,4 @@ const result = currentYaml.replace(regex, subst);
 writeFileSync(join(__dirname, '_config.yml'), result);
 
 export const result_dir = join(__dirname, 'results');
+export const cwd_dir = __dirname;
