@@ -9,7 +9,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
-    "update": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js && npx npm-check-updates -u -x chalk,hexo && npm install --cache tmp/npm",
+    "update": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js && npx npm-check-updates -u -x chalk,hexo && npm install",
     "postinstall": "node postinstall.js"
   },
   "hexo": {
