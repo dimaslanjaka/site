@@ -6,12 +6,13 @@ import { writefile } from '../src/utils/fm';
 import { result_dir } from './_config';
 
 (async function () {
-  const api = new Application(process.cwd());
-  api.setConfig({
+  const api = new Application(__dirname, {
     generator: {
       cache: false,
-      verbose: true
+      verbose: true,
+      test: true
     },
+    exclude: [],
     permalink: '/:month/:title/',
     tags: { lowercase: true, mapper: { TS: 'typescript', JS: 'javascript' }, assign: { code: 'snippet' } },
     categories: {
@@ -20,7 +21,9 @@ import { result_dir } from './_config';
       assign: { programming: 'javascript' }
     }
   });
-  // await api.clean();
-  writefile(join(result_dir, 'config-mapper.json'), JSON.stringify(api.getConfig(), null, 2));
+  await api.clean();
+  await writefile(join(result_dir, 'config-mapper.json'), JSON.stringify(api.getConfig(), null, 2), {
+    async: true
+  }).then((o) => console.log('generated config', o.file));
   await api.copy();
 })();
