@@ -1,8 +1,8 @@
+import { test } from '@jest/globals';
 import { Application } from '../src';
 
-export default async function validateCopy(api: Application, callback?: (...args: any[]) => any) {
-  await api.copy();
-  if (typeof callback === 'function') {
-    callback();
-  }
+export default function validateCopy(api: Application) {
+  test('run copy', (done) => {
+    api.copy().then(() => done());
+  }, 60000);
 }
