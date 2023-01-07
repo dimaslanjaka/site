@@ -31,7 +31,7 @@ describe('test copy post with label mapper', function () {
       validateClean(api, done);
     }, 60000);
   }
-  test('label:assign', async () => {
+  test('label assign (add label based on config.tags|categories.assign key)', async () => {
     const postAssign = join(__dirname, 'source/_posts/label-assigner.md');
     const parsePostAssign = await parsePost(postAssign, {
       config: api.getConfig()
@@ -44,7 +44,7 @@ describe('test copy post with label mapper', function () {
       expect(metadata).toHaveProperty('categories', ['programming', 'javascript']);
     }
   });
-  test('label:mapper', async () => {
+  test('label mapper (label replacer)', async () => {
     const postAssign = join(__dirname, 'source/_posts/label-mapper.md');
     const parsePostAssign = await parsePost(postAssign, {
       config: api.getConfig()
