@@ -1,11 +1,10 @@
 /* eslint-disable no-mixed-operators */
 'use strict';
 
-const { existsSync, mkdirSync, writeFileSync, rmSync } = require('fs');
+const { existsSync, mkdirSync, writeFileSync, rmSync, emptyDirSync } = require('fs-extra');
 const { join } = require('path');
 const yaml = require('yaml');
 const moment = require('moment');
-require('js-prototypes');
 const prompt = require('prompt');
 
 const properties = [
@@ -23,16 +22,18 @@ prompt.get(properties, (err, result) => {
     return onErr(err);
   }
 
-  let countArticle = parseInt(result.count ? result.count : 10, 10) / 2;
+  let countArticle = parseInt(result.count ? result.count : 10, 10); // / 2;
   if (!countArticle) countArticle = 2;
   console.log('creating', countArticle, 'posts');
   const posts = generate(countArticle);
   const sourcePostsDir = join(__dirname, 'source/_posts/random');
+  emptyDirSync(sourcePostsDir);
   create(posts, sourcePostsDir);
 
   console.log('creating', countArticle, 'pages');
   const pages = generate(countArticle);
   const sourcePageDir = join(__dirname, 'source/page/random');
+  emptyDirSync(sourcePageDir);
   create(pages, sourcePageDir);
 });
 
@@ -50,8 +51,12 @@ function generate(countArticle) {
       date: created,
       keywords: ['random', 'post', 'pages'],
       author: 'Dimas Lanjaka',
-      tags: ['random post', current.toString().includes('5') ? 'post has 5' : 'untagged'].removeEmpties(),
-      category: ['random post', current.toString().includes('0') ? 'post has 0' : 'uncategorized'].removeEmpties(),
+      tags: ['random post', current.toString().includes('5') ? 'post has 5' : 'untagged'].filter(
+        (str) => typeof str === 'string' && str.trim().length > 0
+      ),
+      category: ['random post', current.toString().includes('0') ? 'post has 0' : 'uncategorized'].filter(
+        (str) => typeof str === 'string' && str.trim().length > 0
+      ),
       updated: updated,
       content: `
       # Post Content
