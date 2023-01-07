@@ -5,8 +5,8 @@ import { existsSync } from 'fs';
 import { join } from 'upath';
 import { Application } from '../src';
 
-export default async function validateClean(api: Application) {
-  await api.clean('all');
+export default async function validateClean(api: Application, callback?: (...args: any[]) => any) {
+  await api.clean();
   expect(existsSync(join(__dirname, 'tmp'))).toBeFalsy();
   expect(existsSync(join(__dirname, api.getConfig().source_dir, '_posts'))).toBeFalsy();
   expect(existsSync(join(__dirname, api.getConfig().source_dir, api.getConfig().public_dir))).toBeFalsy();
@@ -16,4 +16,5 @@ export default async function validateClean(api: Application) {
       existsSync(join(__dirname, '.deploy_' + api.getConfig().deploy.type, api.getConfig().category_dir))
     ).toBeFalsy();
   }
+  if (typeof callback == 'function') callback();
 }

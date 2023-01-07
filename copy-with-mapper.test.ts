@@ -1,6 +1,7 @@
 process.cwd = () => __dirname;
 
 import { beforeEach, describe, expect, test } from '@jest/globals';
+import { existsSync } from 'fs';
 import { parsePost } from 'hexo-post-parser';
 import { join } from 'upath';
 import { Application } from '../src';
@@ -25,8 +26,12 @@ describe('test copy post with label mapper', function () {
       }
     });
   });
-  test('clean', () => validateClean(api), 60000);
-  test('label assign test', async () => {
+  if (existsSync(join(__dirname, 'tmp'))) {
+    test('clean', (done) => {
+      validateClean(api, done);
+    }, 60000);
+  }
+  test('label:assign', async () => {
     const postAssign = join(__dirname, 'source/_posts/label-assigner.md');
     const parsePostAssign = await parsePost(postAssign, {
       config: api.getConfig()
@@ -38,5 +43,18 @@ describe('test copy post with label mapper', function () {
       expect(metadata).toHaveProperty('tags', ['code', 'snippet']);
       expect(metadata).toHaveProperty('categories', ['programming', 'javascript']);
     }
-  }, 60000);
+  });
+  test('label:mapper', async () => {
+    const postAssign = join(__dirname, 'source/_posts/label-mapper.md');
+    const parsePostAssign = await parsePost(postAssign, {
+      config: api.getConfig()
+    });
+    expect(parsePostAssign).not.toBeUndefined();
+    if (parsePostAssign) {
+      const { metadata } = parsePostAssign;
+      expect(metadata).not.toBeUndefined();
+      expect(metadata).toHaveProperty('tags', ['typescript', 'javascript']);
+      expect(metadata).toHaveProperty('categories', ['typescript', 'javascript']);
+    }
+  });
 });
