@@ -26,10 +26,10 @@ describe('test copy post without label mapper', function () {
   });
 
   test('clean', (done) => {
-    validateClean(api, done);
+    validateClean(api, () => done());
   }, 60000);
 
   test('copying', (done) => {
-    validateCopy(api, done);
+    validateCopy(api, () => done());
   }, 60000);
 });
