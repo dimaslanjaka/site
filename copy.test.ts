@@ -23,6 +23,7 @@ describe('test copy post without label mapper', function () {
       }
     });
   });
+
   test('clean', (done) => {
     api.clean().then(() => validateClean(api, done));
   }, 60000);

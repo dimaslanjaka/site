@@ -1,12 +1,12 @@
 process.cwd = () => __dirname;
-process.env.DEBUG = 'post:label-assign*,test*';
-process.env.DEBUG_HIDE_DATE = 'true';
+if (!process.env.DEBUG) process.env.DEBUG = 'post:label-assign*,test*';
+if (!process.env.DEBUG_HIDE_DATE) process.env.DEBUG_HIDE_DATE = 'true';
 import { Application } from '../src';
 
 const api = new Application(__dirname, {
   generator: {
     cache: false,
-    verbose: true,
+    verbose: false,
     test: true
   },
   exclude: [],
