@@ -29,30 +29,32 @@ describe('test copy post with label mapper', function () {
   describe('copy', () => {
     return validateCopy(api);
   });
-  test('label assign (add label based on config.tags|categories.assign key)', async () => {
-    const postAssign = join(__dirname, 'source/_posts/label-assigner.md');
-    const parsePostAssign = await parsePost(postAssign, {
-      config: api.getConfig()
+  describe('validate mapped', function () {
+    test('label assign (add label based on config.tags|categories.assign key)', async () => {
+      const postAssign = join(__dirname, 'source/_posts/label-assigner.md');
+      const parsePostAssign = await parsePost(postAssign, {
+        config: api.getConfig()
+      });
+      expect(parsePostAssign).not.toBeUndefined();
+      if (parsePostAssign) {
+        const { metadata } = parsePostAssign;
+        expect(metadata).not.toBeUndefined();
+        expect(metadata).toHaveProperty('tags', ['code', 'snippet']);
+        expect(metadata).toHaveProperty('categories', ['programming', 'javascript']);
+      }
     });
-    expect(parsePostAssign).not.toBeUndefined();
-    if (parsePostAssign) {
-      const { metadata } = parsePostAssign;
-      expect(metadata).not.toBeUndefined();
-      expect(metadata).toHaveProperty('tags', ['code', 'snippet']);
-      expect(metadata).toHaveProperty('categories', ['programming', 'javascript']);
-    }
-  });
-  test('label mapper (label replacer)', async () => {
-    const postAssign = join(__dirname, 'source/_posts/label-mapper.md');
-    const parsePostAssign = await parsePost(postAssign, {
-      config: api.getConfig()
+    test('label mapper (label replacer)', async () => {
+      const postAssign = join(__dirname, 'source/_posts/label-mapper.md');
+      const parsePostAssign = await parsePost(postAssign, {
+        config: api.getConfig()
+      });
+      expect(parsePostAssign).not.toBeUndefined();
+      if (parsePostAssign) {
+        const { metadata } = parsePostAssign;
+        expect(metadata).not.toBeUndefined();
+        expect(metadata).toHaveProperty('tags', ['javascript', 'typescript']);
+        expect(metadata).toHaveProperty('categories', ['javascript', 'typescript']);
+      }
     });
-    expect(parsePostAssign).not.toBeUndefined();
-    if (parsePostAssign) {
-      const { metadata } = parsePostAssign;
-      expect(metadata).not.toBeUndefined();
-      expect(metadata).toHaveProperty('tags', ['typescript', 'javascript']);
-      expect(metadata).toHaveProperty('categories', ['typescript', 'javascript']);
-    }
   });
 });
