@@ -13,3 +13,5 @@ source/_posts/
 /results
 #package-lock.json
 #yarn.lock
+src-posts/cloned
+original-posts
