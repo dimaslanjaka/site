@@ -5,7 +5,7 @@ import { existsSync } from 'fs';
 import { join } from 'upath';
 import { Application } from '../src';
 
-export default function validateClean(api: Required<Application>) {
+export default function validateClean(api: Application) {
   test('run clean', (done) => {
     api.clean().then(() => done());
   }, 60000);
