@@ -28,9 +28,12 @@ describe('test copy post with label mapper', function () {
   });
   if (existsSync(join(__dirname, 'tmp'))) {
     test('clean', (done) => {
-      validateClean(api, done);
+      api.clean().then(() => validateClean(api, done));
     }, 60000);
   }
+  test('copying', async () => {
+    await api.copy();
+  }, 60000);
   test('label assign (add label based on config.tags|categories.assign key)', async () => {
     const postAssign = join(__dirname, 'source/_posts/label-assigner.md');
     const parsePostAssign = await parsePost(postAssign, {

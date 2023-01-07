@@ -1,14 +1,12 @@
 process.cwd = () => __dirname;
 
-import { beforeEach, describe, test } from '@jest/globals';
-import { existsSync } from 'fs';
-import { join } from 'upath';
+import { beforeAll, describe, test } from '@jest/globals';
 import { Application } from '../src';
 import validateClean from './validate-clean';
 
 describe('test copy post without label mapper', function () {
   let api: Application;
-  beforeEach(function () {
+  beforeAll(function () {
     api = new Application(__dirname, {
       generator: {
         cache: false,
@@ -25,13 +23,9 @@ describe('test copy post without label mapper', function () {
       }
     });
   });
-  if (existsSync(join(__dirname, 'tmp'))) {
-    test('clean', (done) => {
-      validateClean(api, done);
-    }, 60000);
-  }
+  test('clean', (done) => {
+    api.clean().then(() => validateClean(api, done));
+  }, 60000);
 
-  test('copying', async function () {
-    await api.copy();
-  });
+  test('copying', () => api.copy(), 60000);
 });
