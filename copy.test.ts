@@ -3,6 +3,7 @@ process.cwd = () => __dirname;
 import { beforeAll, describe, test } from '@jest/globals';
 import { Application } from '../src';
 import validateClean from './validate-clean';
+import validateCopy from './validate-copy';
 
 describe('test copy post without label mapper', function () {
   let api: Application;
@@ -25,8 +26,10 @@ describe('test copy post without label mapper', function () {
   });
 
   test('clean', (done) => {
-    api.clean().then(() => validateClean(api, done));
+    validateClean(api, done);
   }, 60000);
 
-  test('copying', () => api.copy(), 60000);
+  test('copying', (done) => {
+    validateCopy(api, done);
+  }, 60000);
 });

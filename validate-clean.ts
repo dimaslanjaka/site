@@ -6,6 +6,7 @@ import { join } from 'upath';
 import { Application } from '../src';
 
 export default async function validateClean(api: Application, callback?: (...args: any[]) => any) {
+  await api.clean();
   expect(existsSync(join(__dirname, 'tmp'))).toBeFalsy();
   expect(existsSync(join(__dirname, api.getConfig().source_dir, '_posts'))).toBeFalsy();
   expect(existsSync(join(__dirname, api.getConfig().source_dir, api.getConfig().public_dir))).toBeFalsy();
