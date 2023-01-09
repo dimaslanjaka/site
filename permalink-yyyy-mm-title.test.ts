@@ -38,13 +38,13 @@ describe('permalink', function () {
       test('post with custom permalink', () =>
         validatePermalink(
           join(__dirname, '/source/_posts/with-permalink.md'),
-          moment().format('/YYYY/MM/') + 'with-permalink.html'
+          moment().format('YYYY/MM/') + 'with-permalink.html'
         ));
 
       test('post without permalink', () =>
         validatePermalink(
           join(__dirname, '/source/_posts/without-permalink.md'),
-          moment().format('/YYYY/MM/') + 'without-permalink/'
+          moment().format('YYYY/MM/') + 'without-permalink/'
         ));
     });
   });
