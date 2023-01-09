@@ -1,9 +1,16 @@
 process.cwd = () => __dirname;
 process.env.DEBUG = 'post:permalink';
 
-const { Application } = require('../dist');
+const promiseSpawn = require('hexo-util/dist/spawn');
+const sbg = require('../dist');
 
-const api = new Application(__dirname, {
+sbg.util.chain.chain([
+  {
+    callback: () => promiseSpawn('npm', ['run', 'build:nopack'], { cwd: __dirname + '/../' })
+  }
+]);
+
+const api = new sbg.Application(__dirname, {
   post_dir: 'original-posts',
   public_dir: 'public',
   exclude: [],
