@@ -1,6 +1,6 @@
 ---
 title: post label uppercase
-tags: ['TAGS']
+tags: ['LABEL']
 category: ['LABEL']
 ---
 

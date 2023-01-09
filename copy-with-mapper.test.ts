@@ -30,10 +30,23 @@ describe('test copy post with label mapper', function () {
     return validateCopy(api);
   });
   describe('validate mapped', function () {
+    test('label lowercase', async () => {
+      const postAssign = join(__dirname, 'source/_posts/label-uppercase.md');
+      const parsePostAssign = await parsePost(postAssign, {
+        config: <any>api.getConfig()
+      });
+      expect(parsePostAssign).not.toBeUndefined();
+      if (parsePostAssign) {
+        const { metadata } = parsePostAssign;
+        expect(metadata).not.toBeUndefined();
+        expect(metadata).toHaveProperty('tags', ['label']);
+        expect(metadata).toHaveProperty('categories', ['label']);
+      }
+    });
     test('label assign (add label based on config.tags|categories.assign key)', async () => {
       const postAssign = join(__dirname, 'source/_posts/label-assigner.md');
       const parsePostAssign = await parsePost(postAssign, {
-        config: api.getConfig()
+        config: <any>api.getConfig()
       });
       expect(parsePostAssign).not.toBeUndefined();
       if (parsePostAssign) {
@@ -46,7 +59,7 @@ describe('test copy post with label mapper', function () {
     test('label mapper (label replacer)', async () => {
       const postAssign = join(__dirname, 'source/_posts/label-mapper.md');
       const parsePostAssign = await parsePost(postAssign, {
-        config: api.getConfig()
+        config: <any>api.getConfig()
       });
       expect(parsePostAssign).not.toBeUndefined();
       if (parsePostAssign) {

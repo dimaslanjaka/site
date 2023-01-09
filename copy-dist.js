@@ -1,9 +1,7 @@
 process.cwd = () => __dirname;
 
-const { Application } = require('../dist');
+const { Application } = require('..');
+const { chain } = require('../dist/utils/chain');
 
 const api = new Application(__dirname);
-api
-  .clean()
-  .then(api.copy)
-  .then(() => console.log('done occurs'));
+chain([{ callback: api.clean }, { callback: api.copy }]);
