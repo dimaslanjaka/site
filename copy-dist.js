@@ -15,5 +15,11 @@ chain([
       api.setConfig({ permalink: ':name/' });
       return chain([{ callback: api.clean }, { callback: api.copy }]);
     }
+  },
+  {
+    callback: function () {
+      api.setConfig({ permalink: ':title/' });
+      return chain([{ callback: api.clean }, { callback: api.copy }]);
+    }
   }
 ]);
