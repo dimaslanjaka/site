@@ -1,3 +1,11 @@
 {
-  "include": ["..", "./**/*.{ts,js}"]
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "module": "CommonJS"
+  },
+  "include": [
+    "..",
+    "./**/*.{ts,js}"
+  ]
 }

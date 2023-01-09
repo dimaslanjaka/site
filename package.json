@@ -30,6 +30,7 @@
     "hexo-renderer-stylus": "git+https://github.com/hexojs/hexo-renderer-stylus",
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "file:themes/butterfly",
+    "hexo-util": "^3.0.1",
     "static-blog-generator": "file:.."
   },
   "devDependencies": {
