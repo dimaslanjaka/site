@@ -1,5 +1,5 @@
 process.cwd = () => __dirname;
-process.env.DEBUG = 'post:label,clean';
+process.env.DEBUG = 'post:permalink';
 
 const { Application } = require('../dist');
 
@@ -7,7 +7,7 @@ const api = new Application(__dirname, {
   post_dir: 'original-posts',
   public_dir: 'public',
   exclude: [],
-  permalink: ':title.html',
+  permalink: ':name.html',
   tags: {
     lowercase: true
   },
