@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./tmp/tsc",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "module": "CommonJS"
   },
-  "include": [
-    "..",
-    "./**/*.{ts,js}"
-  ]
+  "include": ["../packages/sbg-api/src", "./**/*.{ts,js}"],
+  "exclude": ["**/bin","**/node_modules", "**/docs", "**/tmp" ]
 }
