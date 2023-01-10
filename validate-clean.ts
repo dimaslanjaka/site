@@ -2,8 +2,8 @@ process.cwd = () => __dirname;
 
 import { expect, test } from '@jest/globals';
 import { existsSync } from 'fs';
+import { Application } from 'sbg-api';
 import { join } from 'upath';
-import { Application } from '../src';
 
 export default function validateClean(api: Application) {
   test('run clean', (done) => {

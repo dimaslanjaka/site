@@ -4,7 +4,7 @@ import { describe, expect, test } from '@jest/globals';
 import { parsePost } from 'hexo-post-parser';
 import moment from 'moment';
 import { join } from 'path';
-import { Application } from '../src';
+import { Application } from 'sbg-api';
 import validateClean from './validate-clean';
 import validateCopy from './validate-copy';
 

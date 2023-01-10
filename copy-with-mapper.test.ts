@@ -2,8 +2,8 @@ process.cwd = () => __dirname;
 
 import { describe, expect, test } from '@jest/globals';
 import { parsePost } from 'hexo-post-parser';
+import { Application } from 'sbg-api';
 import { join } from 'upath';
-import { Application } from '../src';
 import validateClean from './validate-clean';
 import validateCopy from './validate-copy';
 

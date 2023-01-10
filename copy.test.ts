@@ -1,7 +1,7 @@
 process.cwd = () => __dirname;
 
 import { describe } from '@jest/globals';
-import { Application } from '../src';
+import { Application } from 'sbg-api';
 import validateClean from './validate-clean';
 import validateCopy from './validate-copy';
 
