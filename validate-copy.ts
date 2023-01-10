@@ -1,7 +1,7 @@
 import { expect, test } from '@jest/globals';
 import { readdirSync } from 'fs-extra';
 import { join } from 'path';
-import { Application } from '../src';
+import { Application } from 'sbg-api';
 
 export default function validateCopy(api: Application) {
   test('run copy', function (done) {
