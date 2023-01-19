@@ -34,6 +34,7 @@
     "hexo-util": "^3.0.1"
   },
   "devDependencies": {
+    "static-blog-generator": "file:../release/static-blog-generator.tgz",
     "axios": "^1.2.3",
     "axios-cache-interceptor": "^1.0.0",
     "cross-env": "^7.0.3",
