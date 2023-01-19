@@ -8,7 +8,7 @@ const gulp = require('gulp');
 const { gulpCached, gulpDebug, copyAllPosts } = require('../dist');
 const { cleanOldArchives, cleanDb } = require('../dist/gulp.clean');
 const { chain } = require('../dist/utils/chain');
-require('static-blog-generator/dist/gulpfile');
+require('sbg-main');
 
 gulp.task('test:debug', function () {
   return gulp
