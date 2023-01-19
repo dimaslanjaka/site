@@ -16,3 +16,4 @@ source/_posts/
 src-posts/cloned
 original-posts
 /coverage
+**/*-old*
