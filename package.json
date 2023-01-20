@@ -9,7 +9,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
-    "update": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js && npx npm-check-updates -u -x chalk,hexo && npm install",
+    "update": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js && npx npm-check-updates -u -x chalk,hexo,codemirror && npm install",
     "postinstall": "node postinstall.js",
     "test": "cd .. && npm test"
   },
@@ -42,7 +42,7 @@
     "js-yaml": "^4.1.0",
     "moment": "^2.29.4",
     "prompt": "^1.3.0",
-    "static-blog-generator": "file:..",
+    "static-blog-generator": "file:../static-blog-generator-3.0.0.tgz",
     "yaml": "^2.2.1"
   }
 }
