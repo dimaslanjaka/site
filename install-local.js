@@ -1,7 +1,7 @@
 const { spawnAsync } = require('git-command-helper/dist/spawn');
 const path = require('path');
-const pkg = require('../package.json')
-const dist = path.join(__dirname, '../');
+const pkg = require('../package.json');
+const dist = path.join(__dirname, '../dist');
 
 (async function () {
   await spawnAsync('npm', ['install'], { cwd: dist, stdio: 'inherit' });
