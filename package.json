@@ -42,7 +42,7 @@
     "js-yaml": "^4.1.0",
     "moment": "^2.29.4",
     "prompt": "^1.3.0",
-    "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/tarball/release",
+    "static-blog-generator": "file:../release/static-blog-generator.tgz",
     "yaml": "^2.2.1"
   }
 }
