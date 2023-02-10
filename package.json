@@ -53,5 +53,7 @@
     "sbg-utility": "workspace:^",
     "static-blog-generator": "workspace:^",
     "yaml": "^2.2.1"
-  }
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {}
 }
