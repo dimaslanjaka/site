@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "hexo": "^6.3.0",
-    "hexo-browsersync": "git+https://github.com/hexojs/hexo-browsersync",
+    "hexo-browsersync": "https://github.com/hexojs/hexo-browsersync/tarball/master",
     "hexo-generator-archive": "git+https://github.com/hexojs/hexo-generator-archive",
     "hexo-generator-category": "git+https://github.com/hexojs/hexo-generator-category",
     "hexo-generator-index": "git+https://github.com/hexojs/hexo-generator-index",
