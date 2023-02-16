@@ -47,11 +47,11 @@
     "moment": "^2.29.4",
     "nodejs-package-types": "https://github.com/dimaslanjaka/nodejs-package-types/raw/main/release/nodejs-package-types.tgz",
     "prompt": "^1.3.0",
-    "sbg-api": "workspace:^",
-    "sbg-cli": "workspace:^",
-    "sbg-server": "workspace:^",
-    "sbg-utility": "workspace:^",
-    "static-blog-generator": "workspace:^",
+    "sbg-api": "*",
+    "sbg-cli": "*",
+    "sbg-server": "*",
+    "sbg-utility": "*",
+    "static-blog-generator": "*",
     "yaml": "^2.2.1"
   }
 }
