@@ -8,7 +8,7 @@ description: Static Blog Generator Demo
 keywords:
 author: Dimas Lanjaka
 language: en
-timezone: "Asia/Jakarta"
+timezone: 'Asia/Jakarta'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -43,7 +43,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: "  "
+  tab_replace: '  '
   wrap: false
   hljs: false
 prismjs:
@@ -54,7 +54,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ""
+  path: ''
   per_page: 10
   order_by: -date
 
@@ -72,7 +72,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: "mtime"
+updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -92,34 +92,46 @@ theme: butterfly
 
 # https://github.com/hexojs/hexo-renderer-markdown-it
 markdown:
-  preset: "default"
+  preset: 'default'
   render:
     html: true
     xhtmlOut: false
-    langPrefix: "language-"
+    langPrefix: 'language-'
     breaks: true
     linkify: true
     typographer: true
-    quotes: "“”‘’"
+    quotes: '“”‘’'
   enable_rules:
   disable_rules:
   plugins:
   anchors:
     level: 2
-    collisionSuffix: ""
+    collisionSuffix: ''
     permalink: false
-    permalinkClass: "header-anchor"
-    permalinkSide: "left"
-    permalinkSymbol: "¶"
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
     case: 0
-    separator: "-"
+    separator: '-'
 
 # https://github.com/hexojs/hexo-browsersync
 browsersync:
-  logLevel: "warn"
+  logLevel: 'warn'
   ghostMode:
     scroll: true
-  instanceName: "uniqueString"
+  instanceName: 'uniqueString'
+
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  # https://github.com/hexojs/hexo-generator-sitemap/blob/master/sitemap.xml
+  # template: ./sitemap_template.xml
+  # https://github.com/hexojs/hexo-generator-sitemap/blob/master/sitemap.txt
+  # template_txt: ./_config_template_sitemap.txt
+  rel: true
+  tags: true
+  categories: true
 
 # static-blog-generator-start
 # default config static-blog-generator
@@ -134,11 +146,11 @@ post_dir: src-posts
 
 # Deployment options
 deploy:
-  type: "git"
-  repo: ""
-  branch: "gh-pages"
-  username: ""
-  email: ""
+  type: 'git'
+  repo: ''
+  branch: 'gh-pages'
+  username: ''
+  email: ''
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 ## Categories and Tags
