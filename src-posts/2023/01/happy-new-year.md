@@ -1,3 +1,0 @@
----
-title: Happy New Year
----
