@@ -18,3 +18,4 @@ original-posts
 /coverage
 **/*-old*
 .env
+sessions/
