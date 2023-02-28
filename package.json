@@ -5,13 +5,14 @@
   "scripts": {
     "start": "npm run server",
     "build": "hexo generate",
-    "clean": "hexo clean",
+    "clean": "hexo clean && sbg clean post && sbg clean cache",
     "deploy": "hexo deploy",
     "server": "hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
     "update": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js && npx npm-check-updates -u -x chalk,hexo,codemirror && npm install",
     "post-install": "node postinstall.js",
-    "test": "cd .. && npm test"
+    "test": "cd .. && npm test",
+    "post:copy": "sbg post copy"
   },
   "hexo": {
     "version": "6.3.0"
@@ -27,8 +28,7 @@
     "hexo-generator-index": "git+https://github.com/hexojs/hexo-generator-index",
     "hexo-generator-tag": "git+https://github.com/hexojs/hexo-generator-tag",
     "hexo-renderer-markdown-it": "git+https://github.com/hexojs/hexo-renderer-markdown-it",
-    "hexo-renderer-pug": "git+https://github.com/hexojs/hexo-renderer-pug",
-    "hexo-renderer-stylus": "git+https://github.com/hexojs/hexo-renderer-stylus",
+    "hexo-renderers": "^1.0.2",
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "file:themes/butterfly",
     "hexo-util": "^3.0.1"
