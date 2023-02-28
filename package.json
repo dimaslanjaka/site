@@ -12,7 +12,9 @@
     "update": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js && npx npm-check-updates -u -x chalk,hexo,codemirror && npm install",
     "post-install": "node postinstall.js",
     "test": "cd .. && npm test",
-    "post:copy": "sbg post copy"
+    "post:standalone": "sbg post standalone",
+    "post:copy": "sbg post copy",
+    "manager": "sbg server"
   },
   "hexo": {
     "version": "6.3.0"
