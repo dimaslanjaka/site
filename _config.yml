@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo SEO Auto
-subtitle: ""
-description: "Automated SEO HexoJS plugin"
-keywords:
+title: hexo-shortcodes documentation
+subtitle: "All in one shortcodes for hexo"
+description: "All in one collection shortcodes for hexo"
 author: Dimas Lanjaka
+keywords:
 language: en
 timezone: "Asia/Jakarta"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.webmanajemen.com/hexo-seo
-root: /hexo-seo
-permalink: :title.html #--hexo-blogger-xml
+url: https://www.webmanajemen.com/docs/hexo-shortcodes
+root: /docs/hexo-shortcodes/
+permalink: :title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set false to remove trailing 'index.html' from permalinks
