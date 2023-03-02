@@ -1,5 +1,5 @@
 {
-  "name": "hexo-site",
+  "name": "hexo-shortcodes-test",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -25,14 +25,11 @@
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "github:hexojs/hexo-generator-archive",
     "hexo-generator-category": "github:hexojs/hexo-generator-category",
-    "hexo-generator-index": "github:hexojs/hexo-generator-index",
     "hexo-generator-tag": "github:hexojs/hexo-generator-tag",
     "hexo-renderer-markdown-it": "github:hexojs/hexo-renderer-markdown-it",
-    "hexo-renderer-pug": "github:hexojs/hexo-renderer-pug",
-    "hexo-renderer-stylus": "github:hexojs/hexo-renderer-stylus",
-    "hexo-seo": "file:../..",
+    "hexo-renderers": "workspace:^",
     "hexo-server": "^3.0.0",
-    "hexo-theme-butterfly": "file:themes/butterfly"
+    "hexo-shortcodes": "workspace:^"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
