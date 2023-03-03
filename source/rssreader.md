@@ -9,7 +9,7 @@ display any rss to your hexo site.
 
 ```nunjucks
 {% rssreader [url] [limit:n] [debug:[true|false]] [randomize:[true|false]] %}
-<!-- html result format each item -->
+<!-- html result formats each item -->
 {% endrssreader %}
 ```
 
