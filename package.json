@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "prestart": "cd packages/hexo-admin && npm install && npm run build",
     "start": "npm run server",
     "build": "hexo generate",
     "clean": "hexo clean",
