@@ -12,3 +12,6 @@ build/
 data.WordPress.2022-06-09.xml
 tmp/
 themes/hexo-theme-*
+.yarn/cache
+.yarn/version*
+.yarn/*.gz
