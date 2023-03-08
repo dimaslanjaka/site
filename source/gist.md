@@ -5,6 +5,7 @@ updated: 2023-02-25T00:48:02+07:00
 ---
 
 ### Gist
+Embed gist codes to your website. Source idea from `jekyll-gist`.
 
 ```nunjucks
 {% gist meredrica/088f5a593a2a7184202850c58bcb48d1 %}

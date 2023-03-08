@@ -10,3 +10,4 @@ Various hexo shortcode tags. [GitHub](https://github.com/dimaslanjaka/static-blo
 - [hexo **gist** shortcode](gist)
 - [hexo **jsfiddle** shortcode](jsfiddle)
 - [hexo **github card** shortcode](githubCard)
+- [hexo **rss reader** shortcode](rssreader)
