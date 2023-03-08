@@ -24,7 +24,7 @@
     "hexo": "^6.3.0",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-renderer-markdown-it": "github:hexojs/hexo-renderer-markdown-it",
-    "hexo-renderers": "^1.0.6",
+    "hexo-renderers": "^1.0.7",
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "workspace:^"
   },
