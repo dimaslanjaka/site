@@ -9,12 +9,12 @@
     "scripts"
   ],
   "scripts": {
-    "build": "npm-run-all --series css js",
+    "build": "npm-run-all -s js css",
     "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 src/css -o source/bootstrap/css/",
     "css-lint": "stylelint src/css/",
     "css-prefix": "postcss --replace source/bootstrap/css/bootstrap.css --use autoprefixer --map",
-    "css-purge": "purgecss --keyframes --css source/bootstrap/css/bootstrap.css --content layout/**/*.ejs \"node_modules/bootstrap/js/dist/{util,modal}.js\" --output source/bootstrap/css/",
-    "css": "npm-run-all css-compile css-prefix",
+    "css-purge": "purgecss --keyframes --css source/bootstrap/css/bootstrap.css --content {layout,source}/**/*.{ejs,js} \"node_modules/bootstrap/js/dist/{util,modal}.js\" --output source/bootstrap/css/",
+    "css": "npm-run-all -s css-compile css-prefix css-purge",
     "js": "rollup -c"
   },
   "keywords": [],
