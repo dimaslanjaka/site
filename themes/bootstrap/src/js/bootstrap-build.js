@@ -8,6 +8,7 @@ import Dropdown from '../../node_modules/bootstrap/js/src/dropdown';
 import Tooltip from '../../node_modules/bootstrap/js/src/tooltip';
 
 export default {
+  Popper,
   // Alert,
   // Button,
   // Carousel,
