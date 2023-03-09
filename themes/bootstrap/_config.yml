@@ -9,3 +9,7 @@ menu:
 # Read More text
 
 excerpt_link: Read More
+
+disqus:
+  enable: true
+  shortname: dimaslanjaka
