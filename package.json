@@ -35,5 +35,10 @@
     "moment": "^2.29.4",
     "prompt": "^1.3.0",
     "yaml": "^2.2.1"
-  }
+  },
+  "description": "page builder for `hexo-shortcodes`",
+  "main": "postinstall.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
