@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "files": [
+    "layout",
+    "source",
+    "scripts"
+  ],
   "scripts": {
     "build": "npm-run-all --series css js",
     "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 src/css -o source/bootstrap/css/",
