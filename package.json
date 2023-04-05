@@ -30,7 +30,7 @@
     "hexo-renderer-markdown-it": "github:hexojs/hexo-renderer-markdown-it",
     "hexo-renderer-pug": "github:hexojs/hexo-renderer-pug",
     "hexo-renderer-stylus": "github:hexojs/hexo-renderer-stylus",
-    "hexo-seo": "workspace:^",
+    "hexo-seo": "*",
     "hexo-server": "^3.0.0"
   },
   "devDependencies": {
