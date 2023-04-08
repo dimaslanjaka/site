@@ -1,5 +1,5 @@
 {
-  "name": "hexo-shortcodes-test",
+  "name": "site",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -20,11 +20,10 @@
     "node": ">=8"
   },
   "dependencies": {
-    "chalk": "^4.1.2",
-    "hexo": "^6.3.0",
+    "hexo": "github:hexojs/hexo",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-renderer-markdown-it": "github:hexojs/hexo-renderer-markdown-it",
-    "hexo-renderers": "workspace:^",
+    "hexo-renderers": "*",
     "hexo-server": "^3.0.0"
   },
   "devDependencies": {
