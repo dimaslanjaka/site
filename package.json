@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "npm run server",
@@ -40,7 +40,7 @@
     "axios": "^1.2.6",
     "axios-cache-interceptor": "^1.0.0",
     "cross-env": "^7.0.3",
-    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/private",
+    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/private/release/cross-spawn.tgz",
     "git-command-helper": "workspace:^",
     "hexo-post-parser": "workspace:^",
     "hpagent": "^1.2.0",
