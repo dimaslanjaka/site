@@ -11,7 +11,7 @@
     "serve-static": "php -S localhost:4000 -t public/",
     "install-git": "npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git && npm i git+https://github.com/dimaslanjaka/hexo-adsense.git",
     "update": "npx npm-check-updates -u -x chalk && curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js",
-    "postinstall": "node postinstall.js"
+    "post-install": "node postinstall.js"
   },
   "hexo": {
     "version": "6.3.0"
