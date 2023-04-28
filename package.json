@@ -29,9 +29,11 @@
     "hexo-renderer-markdown-it": "github:hexojs/hexo-renderer-markdown-it",
     "hexo-renderers": "^1.0.8",
     "hexo-server": "^3.0.0",
-    "hexo-shortcodes": "workspace:^"
+    "hexo-shortcodes": "workspace:^",
+    "stylus": "^0.59.0"
   },
   "devDependencies": {
+    "@types/stylus": "^0",
     "cross-env": "^7.0.3",
     "cross-spawn": "^7.0.3",
     "js-yaml": "^4.1.0",
