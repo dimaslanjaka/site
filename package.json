@@ -30,8 +30,9 @@
     "hexo-generator-index": "git+https://github.com/hexojs/hexo-generator-index",
     "hexo-generator-tag": "git+https://github.com/hexojs/hexo-generator-tag",
     "hexo-renderer-markdown-it": "git+https://github.com/hexojs/hexo-renderer-markdown-it",
-    "hexo-renderers": "^1.0.2",
+    "hexo-renderers": "^1.0.8",
     "hexo-server": "^3.0.0",
+    "hexo-shortcodes": "^1.0.3",
     "hexo-util": "^3.0.1"
   },
   "devDependencies": {
