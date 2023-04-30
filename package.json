@@ -21,10 +21,10 @@
     "node": ">=8"
   },
   "dependencies": {
-    "hexo": "workspace:^",
-    "hexo-asset-link": "workspace:^",
+    "hexo": "^7.0.0-rc1",
+    "hexo-asset-link": "^2.2.1",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
-    "hexo-front-matter": "workspace:^",
+    "hexo-front-matter": "^4.1.0",
     "hexo-renderer-markdown-it": "github:hexojs/hexo-renderer-markdown-it",
     "hexo-renderers": "^1.0.8",
     "hexo-server": "^3.0.0",
