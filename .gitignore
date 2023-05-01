@@ -15,3 +15,4 @@ themes/hexo-theme-*
 .yarn/cache
 .yarn/version*
 .yarn/*.gz
+.deploy_git
