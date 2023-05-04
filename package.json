@@ -10,7 +10,17 @@
     "server": "hexo server -p 4000",
     "serve": "hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
-    "update:ncu": "npm-check-updates -u -x chalk"
+    "update:ncu": "npm-check-updates -u -x chalk",
+    "namescript:xx": "echo xx",
+    "namescript:xxx": "echo xxx",
+    "namescript:xxxx": "echo xxxx",
+    "namescript:xxxxx": "echo xxxxx",
+    "namescript": "nrs --yarn=true --verbose=true 'namescript:**'",
+    "nrs:xx": "echo xx",
+    "nrs:xxx": "echo xxx",
+    "nrs:xxxx": "echo xxxx",
+    "nrs:xxxxx": "echo xxxxx",
+    "nrs": "nrs --yarn=true --verbose=true 'nrs:*'"
   },
   "hexo": {
     "version": "7.0.0-rc1"
@@ -31,6 +41,7 @@
   },
   "devDependencies": {
     "@types/stylus": "^0",
+    "binary-collections": "workspace:^",
     "cross-env": "^7.0.3",
     "cross-spawn": "^7.0.3",
     "js-yaml": "^4.1.0",
