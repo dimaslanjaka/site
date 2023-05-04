@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@types/stylus": "^0",
-    "binary-collections": "workspace:^",
+    "binary-collections": "^1.0.3",
     "cross-env": "^7.0.3",
     "cross-spawn": "^7.0.3",
     "js-yaml": "^4.1.0",
