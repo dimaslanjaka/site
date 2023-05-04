@@ -1,0 +1,19 @@
+menu:
+  Home: /
+  Archives: /archives
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+
+facebook:
+twitter:
+github:
+
+fancybox: true
+google_analytics:
+rss:
+# Display a "Read More" link under each post's excerpt in /archives page
+#excerpt_link: 'Read More'
