@@ -45,7 +45,7 @@
     "axios-cache-interceptor": "^1.0.0",
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/private/release/cross-spawn.tgz",
-    "git-command-helper": "workspace:^",
+    "git-command-helper": "^1.2.2",
     "hexo-post-parser": "workspace:^",
     "hpagent": "^1.2.0",
     "js-yaml": "^4.1.0",
