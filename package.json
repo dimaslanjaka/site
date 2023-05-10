@@ -43,7 +43,7 @@
     "@types/stylus": "^0",
     "binary-collections": "^1.0.3",
     "cross-env": "^7.0.3",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/5560156be9745d682c7a5e727cffeee0b0179ab1",
     "js-yaml": "^4.1.0",
     "moment": "^2.29.4",
     "prompt": "^1.3.0",
