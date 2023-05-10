@@ -17,7 +17,7 @@ const deployDIR = join(__dirname, '.deploy_git');
 
 export function renderHtmlToSource() {
   return gulp
-    .src('**/*.md', { cwd: postDIR })
+    .src('**/*.md', { cwd: postDIR } as any)
     .pipe(
       through2.obj(function (file, _enc, next) {
         if (file.isNull()) return next();
@@ -36,4 +36,5 @@ export function renderHtmlToSource() {
     .pipe(gulp.dest(publicDIR));
 }
 
-export const copyToDeployDir = () => gulp.src(['*.html', '**/*.html'], { cwd: publicDIR }).pipe(gulp.dest(deployDIR));
+export const copyToDeployDir = () =>
+  gulp.src(['*.html', '**/*.html'], { cwd: publicDIR } as any).pipe(gulp.dest(deployDIR));
