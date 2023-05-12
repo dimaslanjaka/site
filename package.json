@@ -45,7 +45,7 @@
     "axios-cache-interceptor": "^1.0.0",
     "binary-collections": "^1.0.3",
     "cross-env": "^7.0.3",
-    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz",
+    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/5560156be9745d682c7a5e727cffeee0b0179ab1",
     "git-command-helper": "^1.2.2",
     "hexo-post-parser": "^1.2.8",
     "hpagent": "^1.2.0",
