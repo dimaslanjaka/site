@@ -18,3 +18,10 @@ Embed gist codes to your website. Source idea from `jekyll-gist`.
 ```
 
 {% gist dimaslanjaka/a6aa24a8fa7a13999ee3dac077fa21fe anonymize-ip.php %}
+
+## get specific lines
+```nunjucks
+{% gist dimaslanjaka/a6aa24a8fa7a13999ee3dac077fa21fe anonymize-ip.php 1-7 %}
+```
+
+{% gist dimaslanjaka/a6aa24a8fa7a13999ee3dac077fa21fe anonymize-ip.php 1-7 %}
