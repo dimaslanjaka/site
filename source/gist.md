@@ -25,3 +25,17 @@ Embed gist codes to your website. Source idea from `jekyll-gist`.
 ```
 
 {% gist dimaslanjaka/a6aa24a8fa7a13999ee3dac077fa21fe anonymize-ip.php 1-7 %}
+
+## old hexo gist
+
+```nunjucks
+{% gist 996818 %}
+```
+
+{% gist 996818 %}
+
+```nunjucks
+{% gist imathis/996818 %}
+```
+
+{% gist imathis/996818 %}
