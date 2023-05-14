@@ -12,7 +12,7 @@
     "update:ncu": "npm-check-updates -u -x chalk"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0-rc1"
   },
   "engines": {
     "node": ">=8"
