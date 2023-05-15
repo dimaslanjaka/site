@@ -12,16 +12,22 @@
     "update:ncu": "npm-check-updates -u -x chalk"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0-rc1"
   },
   "engines": {
     "node": ">=8"
   },
   "dependencies": {
-    "hexo": "github:hexojs/hexo",
+    "hexo": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo.tgz",
+    "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-asset-link.tgz",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
+    "hexo-cli": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-cli.tgz",
+    "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-front-matter.tgz",
+    "hexo-log": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-log.tgz",
     "hexo-renderers": "^1.0.9",
-    "hexo-server": "^3.0.0"
+    "hexo-server": "^3.0.0",
+    "hexo-util": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-util.tgz",
+    "warehouse": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/warehouse.tgz"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
