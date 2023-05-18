@@ -14,6 +14,7 @@ Various hexo shortcode tags. [GitHub](https://github.com/dimaslanjaka/static-blo
 | [hexo **github card** shortcode](githubCard) | embed github card |
 | [hexo **rss reader** shortcode](rssreader) | embed rss feed |
 | [hexo **github** shortcode](github) | embed any source files from [github.com](https://github.com) |
+| [hexo **npmrunkit** shortcode](npmrunkit) | embed any javascript codes to website |
 | [videos](videos) | default hexo embedding videos |
 
 ## Language Test
