@@ -6,6 +6,18 @@ updated: 2023-02-25T00:48:02+07:00
 
 Various hexo shortcode tags. [GitHub](https://github.com/dimaslanjaka/hexo-shortcodes)
 
+## Installation
+production
+```bash
+npm i hexo-shortcodes
+```
+latest changes, replace `COMMIT_HASH` with latest commit hash. see [pre-release commit history](https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release)
+```bash
+npm i hexo-shortcodes@https://github.com/dimaslanjaka/hexo-shortcodes/tarball/COMMIT_HASH
+```
+for yarn just replace `npm i` with `yarn add`
+
+## shortcodes list
 | shortcode | description |
 | :--- | :--- |
 | [hexo **codepen** shortcode](codepen) | embed codepen |
