@@ -20,3 +20,16 @@ Various hexo shortcode tags. [GitHub](https://github.com/dimaslanjaka/hexo-short
 ## Language Test
 
 - [php](lang/php)
+
+## Changelog
+read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release `chore` sections
+### 1.2.0
+- `gist`: change parameters and usages
+- `gist`: validate id is URL or not
+### 1.1.3
+- `rssreader`: hotfix get thumbnail from rss item
+- `rssreader`: fix: validate item['media:group'] is Array
+### 1.1.2
+- `gist`: fix undefined username
+### 1.1.1
+- fix: invalid `git-embed` location
