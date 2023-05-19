@@ -27,7 +27,7 @@ for yarn just replace `npm i` with `yarn add`
 | [hexo **rssreader** shortcode](rssreader) | embed rss feed |
 | [hexo **github** shortcode](github) | embed any source files from [github.com](https://github.com) |
 | [hexo **npmrunkit** shortcode](npmrunkit) | embed any javascript codes to website |
-| [hexo **include_file** shortcode](include_file) | include any files inside `source` (config_yml.source_dir) directory |
+| [hexo **include_file** shortcode](include_file) | include any files relative to `hexo.config.source_dir`, `hexo.config.code_dir`, or reference file it self |
 | [videos](videos) | default hexo embedding videos |
 
 ## Language Test
