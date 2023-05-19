@@ -23,10 +23,11 @@ for yarn just replace `npm i` with `yarn add`
 | [hexo **codepen** shortcode](codepen) | embed codepen |
 | [hexo **gist** shortcode](gist) | embed gist |
 | [hexo **jsfiddle** shortcode](jsfiddle) | embed jsfiddle |
-| [hexo **github card** shortcode](githubCard) | embed github card |
-| [hexo **rss reader** shortcode](rssreader) | embed rss feed |
+| [hexo **githubCard** shortcode](githubCard) | embed github card |
+| [hexo **rssreader** shortcode](rssreader) | embed rss feed |
 | [hexo **github** shortcode](github) | embed any source files from [github.com](https://github.com) |
 | [hexo **npmrunkit** shortcode](npmrunkit) | embed any javascript codes to website |
+| [hexo **include_file** shortcode](include_file) | include any files inside `source` (config_yml.source_dir) directory |
 | [videos](videos) | default hexo embedding videos |
 
 ## Language Test
@@ -34,13 +35,15 @@ for yarn just replace `npm i` with `yarn add`
 - [php](lang/php)
 
 ## Changelog
-read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release `chore` sections
+read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release (`chore`,`feat`,`fix` sections)
+### 1.2.1
+- `include_file`: add include file shortcode tag
 ### 1.2.0
 - `gist`: change parameters and usages
 - `gist`: validate id is URL or not
 ### 1.1.3
 - `rssreader`: hotfix get thumbnail from rss item
-- `rssreader`: fix: validate item['media:group'] is Array
+- `rssreader`: fix: validate `item['media:group']` is Array
 ### 1.1.2
 - `gist`: fix undefined username
 ### 1.1.1
