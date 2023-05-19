@@ -20,19 +20,19 @@ for yarn just replace `npm i` with `yarn add`
 ## shortcodes list
 | shortcode | description |
 | :--- | :--- |
-| [hexo **codepen** shortcode](codepen) | embed codepen |
-| [hexo **gist** shortcode](gist) | embed gist |
-| [hexo **jsfiddle** shortcode](jsfiddle) | embed jsfiddle |
-| [hexo **githubCard** shortcode](githubCard) | embed github card |
-| [hexo **rssreader** shortcode](rssreader) | embed rss feed |
-| [hexo **github** shortcode](github) | embed any source files from [github.com](https://github.com) |
-| [hexo **npmrunkit** shortcode](npmrunkit) | embed any javascript codes to website |
-| [hexo **include_file** shortcode](include_file) | include any files relative to `hexo.config.source_dir`, `hexo.config.code_dir`, or reference file it self |
-| [videos](videos) | default hexo embedding videos |
+| [hexo **codepen** shortcode](/docs/hexo-shortcodes/codepen) | embed codepen |
+| [hexo **gist** shortcode](/docs/hexo-shortcodes/gist) | embed gist |
+| [hexo **jsfiddle** shortcode](/docs/hexo-shortcodes/jsfiddle) | embed jsfiddle |
+| [hexo **githubCard** shortcode](/docs/hexo-shortcodes/githubCard) | embed github card |
+| [hexo **rssreader** shortcode](/docs/hexo-shortcodes/rssreader) | embed rss feed |
+| [hexo **github** shortcode](/docs/hexo-shortcodes/github) | embed any source files from [github.com](https://github.com) |
+| [hexo **npmrunkit** shortcode](/docs/hexo-shortcodes/npmrunkit) | embed any javascript codes to website |
+| [hexo **include_file** shortcode](/docs/hexo-shortcodes/include_file) | include any files relative to `hexo.config.source_dir`, `hexo.config.code_dir`, or reference file it self |
+| [videos](/docs/hexo-shortcodes/videos) | default hexo embedding videos |
 
 ## Language Test
 
-- [php](lang/php)
+- [php](/docs/hexo-shortcodes/lang/php)
 
 ## Changelog
 read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release (`chore`,`feat`,`fix` sections)
