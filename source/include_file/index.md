@@ -4,6 +4,11 @@ date: 2023-05-19T20:08:11+07:00
 updated: 2023-05-19T20:08:11+07:00
 ---
 
+include any local files with syntax highlighter
+```
+{% include_file [title:'scoped title'] [lang:language] [from:line] [to:line] path/to/file %}
+```
+
 ## path relative to source directory
 
 ```
@@ -22,10 +27,6 @@ updated: 2023-05-19T20:08:11+07:00
 
 ## include_code alias
 Inserts code snippets in `source/downloads/code` folder. The folder location can be specified through the `code_dir` option in the config.
-
-```
-{% include_code [title] [lang:language] [from:line] [to:line] path/to/file %}
-```
 
 ### Embed the whole content of test.js
 
