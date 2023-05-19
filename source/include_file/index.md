@@ -39,26 +39,26 @@ Inserts code snippets relative to `source` folder. `code_dir` option in the conf
 ### Embed line 13 only
 
 ```
-{% include_file lang:javascript from:13 to:13 'fixtures/test.ts' %}
+{% include_file lang:typescript from:13 to:13 'fixtures/test.ts' %}
 ```
 
-{% include_file lang:javascript from:13 to:13 'fixtures/test.ts' %}
+{% include_file lang:typescript from:13 to:13 'fixtures/test.ts' %}
 
 ### Embed line 5 to 8
 
 ```
-{% include_file lang:javascript from:5 to:8 'fixtures/test.ts' %}
+{% include_file lang:typescript from:5 to:8 'fixtures/test.ts' %}
 ```
 
-{% include_file lang:javascript from:5 to:8 'fixtures/test.ts' %}
+{% include_file lang:typescript from:5 to:8 'fixtures/test.ts' %}
 
 ### Embed line 5 to the end of file
 
 ```
-{% include_file lang:javascript from:5 'fixtures/test.ts' %}
+{% include_file lang:typescript from:5 'fixtures/test.ts' %}
 ```
 
-{% include_file lang:javascript from:5 'fixtures/test.ts' %}
+{% include_file lang:typescript from:5 'fixtures/test.ts' %}
 
 ### Embed line 1 to 8
 
