@@ -26,24 +26,44 @@ include any local files with syntax highlighter
 {% include_file '../fixtures/include two.txt' %}
 
 ## include_code alias
-Inserts code snippets in `source/downloads/code` folder. The folder location can be specified through the `code_dir` option in the config.
+Inserts code snippets relative to `source` folder. `code_dir` option in the config also be used for reference finder.
 
 ### Embed the whole content of test.js
 
-{% include_file lang:javascript 'fixtures/test.js' %}
+```
+{% include_file lang:javascript 'test.js' %}
+```
 
-### Embed line 3 only
+{% include_file lang:javascript 'test.js' %}
 
-{% include_file lang:javascript from:3 to:3 'fixtures/test.js' %}
+### Embed line 13 only
+
+```
+{% include_file lang:javascript from:13 to:13 'fixtures/test.ts' %}
+```
+
+{% include_file lang:javascript from:13 to:13 'fixtures/test.ts' %}
 
 ### Embed line 5 to 8
 
-{% include_file lang:javascript from:5 to:8 'fixtures/test.js' %}
+```
+{% include_file lang:javascript from:5 to:8 'test.ts' %}
+```
+
+{% include_file lang:javascript from:5 to:8 'test.ts' %}
 
 ### Embed line 5 to the end of file
 
-{% include_file lang:javascript from:5 'fixtures/test.js' %}
+```
+{% include_file lang:javascript from:5 'fixtures/test.ts' %}
+```
+
+{% include_file lang:javascript from:5 'fixtures/test.ts' %}
 
 ### Embed line 1 to 8
 
-{% include_file lang:javascript to:8 'fixtures/test.js' %}
+```
+{% include_file lang:javascript to:8 'test.js' %}
+```
+
+{% include_file lang:javascript to:8 'test.js' %}
