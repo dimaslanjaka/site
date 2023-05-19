@@ -47,10 +47,10 @@ Inserts code snippets relative to `source` folder. `code_dir` option in the conf
 ### Embed line 5 to 8
 
 ```
-{% include_file lang:javascript from:5 to:8 'test.ts' %}
+{% include_file lang:javascript from:5 to:8 'fixtures/test.ts' %}
 ```
 
-{% include_file lang:javascript from:5 to:8 'test.ts' %}
+{% include_file lang:javascript from:5 to:8 'fixtures/test.ts' %}
 
 ### Embed line 5 to the end of file
 
