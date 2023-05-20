@@ -38,6 +38,7 @@ for yarn just replace `npm i` with `yarn add`
 read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release (`chore`,`feat`,`fix` sections)
 ### 1.2.1
 - `include_file`: add include file shortcode tag
+- `gist`: fix failed embed spesific lines
 ### 1.2.0
 - `gist`: change parameters and usages
 - `gist`: validate id is URL or not
