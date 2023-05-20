@@ -17,6 +17,10 @@ include any local files with syntax highlighter
 | from | embed start line | `0` |
 | to | embed ends line | `Number.MAX_VALUE` |
 
+## More Samples
+- [`include_file` with custom template](/docs/hexo-shortcodes/include_file/custom-template)
+- [`include_file` with custom lines](/docs/hexo-shortcodes/include_file/custom-lines)
+
 ## path relative to source directory
 
 ```
@@ -54,67 +58,5 @@ references:
 
 {% include_file lang:javascript 'downloads/code/test.js' %}{% endinclude_file %}
 
-### Embed line 13 only
 
-```
-{% include_file lang:typescript from:13 to:13 'fixtures/test.ts' %}{% endinclude_file %}
-```
 
-{% include_file lang:typescript from:13 to:13 'fixtures/test.ts' %}{% endinclude_file %}
-
-### Embed line 5 to 8
-
-```
-{% include_file lang:typescript from:5 to:8 'fixtures/test.ts' %}{% endinclude_file %}
-```
-
-{% include_file lang:typescript from:5 to:8 'fixtures/test.ts' %}{% endinclude_file %}
-
-### Embed line 5 to the end of file
-
-```
-{% include_file lang:typescript from:5 'fixtures/test.ts' %}{% endinclude_file %}
-```
-
-{% include_file lang:typescript from:5 'fixtures/test.ts' %}{% endinclude_file %}
-
-### Embed line 1 to 8
-
-```
-{% include_file lang:javascript to:8 'test.js' %}{% endinclude_file %}
-```
-
-{% include_file lang:javascript to:8 'test.js' %}{% endinclude_file %}
-
-### Custom Template
-
-> `$line` is current line of code
-> `$index` is current line index of code
-
-```
-<table>
-  <thead>
-    <tr>
-      <th>index</th><th>contents line</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% include_file lang:javascript 'test.js' pretext:false %}
-    <tr><td>$index</td><td>$line</td></tr>
-    {% endinclude_file %}
-  </tbody>
-</table>
-```
-
-<table>
-  <thead>
-    <tr>
-      <th>index</th><th>contents line</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% include_file lang:javascript 'test.js' pretext:false %}
-    <tr><td>$index</td><td>$line</td></tr>
-    {% endinclude_file %}
-  </tbody>
-</table>
