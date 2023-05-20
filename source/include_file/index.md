@@ -6,8 +6,16 @@ updated: 2023-05-19T20:08:11+07:00
 
 include any local files with syntax highlighter
 ```
-{% include_file [title:'scoped title'] [lang:language] [from:line] [to:line] path/to/file %}
+{% include_file [title:'scoped title'] [lang:language] [from:line] [to:line] [pretext:[true|false]] path/to/file %}
 ```
+
+| option key | description | default |
+| :--- | :--- | :--- |
+| title | caption title | `path.extname(pathToFile)` |
+| pretext | wrap codes with `<pre/><code/>` and syntax highlight enable indicator | `true` |
+| lang | syntax highlighter for spesific language, _needs `pretext` to `true`_ | `empty string` by default treat as text plain |
+| from | embed start line | `0` |
+| to | embed ends line | `Number.MAX_VALUE` |
 
 ## path relative to source directory
 
@@ -17,13 +25,13 @@ include any local files with syntax highlighter
 
 {% include_file 'fixtures/include-one.txt' %}
 
-## path relative to current file (with space)
+## path relative to current file (with space and without preText)
 
 ```
-{% include_file '../fixtures/include two.txt' %}
+{% include_file '../fixtures/include two.txt' pretext:false %}
 ```
 
-{% include_file '../fixtures/include two.txt' %}
+{% include_file '../fixtures/include two.txt' pretext:false %}
 
 ## include_code alias
 Inserts code snippets relative to `source` folder. `code_dir` option in the config also be used for reference finder.
