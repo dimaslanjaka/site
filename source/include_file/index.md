@@ -9,13 +9,7 @@ include any local files with syntax highlighter
 {% include_file [title:'scoped title'] [lang:language] [from:line] [to:line] [pretext:[true|false]] path/to/file %}{% endinclude_file %}
 ```
 
-| option key | description | default |
-| :--- | :--- | :--- |
-| title | caption title | `path.extname(pathToFile)` |
-| pretext | wrap codes with `<pre/><code/>` and syntax highlight enable indicator | `true` |
-| lang | syntax highlighter for spesific language, _needs `pretext` to `true`_ | `empty string` by default treat as text plain |
-| from | embed start line | `0` |
-| to | embed ends line | `Number.MAX_VALUE` |
+{% include_file 'include_file_options.md' pretext:false lang:md %}{% endinclude_file %}
 
 ## More Samples
 - [`include_file` with custom template](/docs/hexo-shortcodes/include_file/custom-template)
