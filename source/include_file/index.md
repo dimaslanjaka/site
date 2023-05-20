@@ -28,13 +28,23 @@ include any local files with syntax highlighter
 ## include_code alias
 Inserts code snippets relative to `source` folder. `code_dir` option in the config also be used for reference finder.
 
+references:
+- [hexojs/hexo#3211](https://github.com/hexojs/hexo/issues/3211)
+
 ### Embed the whole content of test.js
+`test.js` inside `source/downloads/code` (`hexo.code_dir`)
 
 ```
 {% include_file lang:javascript 'test.js' %}
 ```
 
 {% include_file lang:javascript 'test.js' %}
+
+```
+{% include_file lang:javascript 'downloads/code/test.js' %}
+```
+
+{% include_file lang:javascript 'downloads/code/test.js' %}
 
 ### Embed line 13 only
 
