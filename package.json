@@ -31,6 +31,7 @@
     "hexo-shortcodes": "^1.2.2",
     "hexo-util": "^3.0.1",
     "markdown-it-attrs": "^4.1.6",
+    "markdown-it-bracketed-spans": "^1.0.1",
     "markdown-it-emoji": "^2.0.2",
     "upath": "^2.0.1",
     "warehouse": "^5.0.0"

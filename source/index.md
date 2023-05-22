@@ -12,3 +12,4 @@ updated: 2023-03-27T18:54:06+07:00
 
 ## [markdown-it](/docs/hexo-renderers/markdown-it)
 - [markdown-it-attrs](/docs/hexo-renderers/markdown-it/attrs)
+- [markdown-it-bracketed-spans](/docs/hexo-renderers/markdown-it/bracketed-spans)

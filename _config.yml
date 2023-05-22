@@ -84,6 +84,7 @@ markdown:
   plugins:
     - markdown-it-abbr
     - markdown-it-attrs
+    - markdown-it-bracketed-spans
     - name: markdown-it-emoji
       options:
         shortcuts:

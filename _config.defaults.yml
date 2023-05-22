@@ -125,6 +125,7 @@ markdown:
   plugins:
     - markdown-it-abbr
     - markdown-it-attrs
+    - markdown-it-bracketed-spans
     #- markdown-it-table-of-contents
     - name: 'markdown-it-emoji'
       options:
