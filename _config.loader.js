@@ -19,7 +19,7 @@ function reloadHexoConfigYml(base = undefined, overriden = {}) {
   const layouts = readdirSync(join(__dirname, 'views')).map((str) => {
     return {
       src: join(join(__dirname, 'views'), str),
-      dest: join(join(__dirname, 'themes', options.theme), str)
+      dest: join(join(__dirname, 'themes', options.theme, 'layout'), str)
     };
   });
   layouts.forEach(({ src, dest }) => {
