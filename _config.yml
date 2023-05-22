@@ -1,12 +1,12 @@
-title: hexo-shortcodes documentation
+title: hexo-renderers documentation
 subtitle: All in one shortcodes for hexo
 description: All in one collection shortcodes for hexo
 author: Dimas Lanjaka
 keywords: null
 language: en
 timezone: Asia/Jakarta
-url: https://www.webmanajemen.com/docs/hexo-shortcodes
-root: /docs/hexo-shortcodes/
+url: https://www.webmanajemen.com/docs/hexo-renderers
+root: /docs/hexo-renderers/
 permalink: :title.html
 permalink_defaults: null
 pretty_urls:
