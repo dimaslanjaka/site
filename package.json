@@ -18,16 +18,16 @@
     "node": ">=8"
   },
   "dependencies": {
-    "hexo": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo.tgz",
-    "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-asset-link.tgz",
+    "hexo": "^7.0.0-rc1",
+    "hexo-asset-link": "^2.2.1",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
-    "hexo-cli": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-cli.tgz",
-    "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-front-matter.tgz",
-    "hexo-log": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-log.tgz",
+    "hexo-cli": "^4.3.1",
+    "hexo-front-matter": "^4.1.0",
+    "hexo-log": "^4.0.1",
     "hexo-renderers": "*",
     "hexo-server": "^3.0.0",
-    "hexo-util": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-util.tgz",
-    "warehouse": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/warehouse.tgz"
+    "hexo-util": "^3.0.1",
+    "warehouse": "^5.0.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
