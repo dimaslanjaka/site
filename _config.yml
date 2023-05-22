@@ -78,7 +78,13 @@ markdown:
     quotes: “”‘’
   enable_rules: null
   disable_rules: null
-  plugins: null
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-attrs
+    - name: markdown-it-emoji
+      options:
+        shortcuts:
+          laughing: :D
   anchors:
     level: 2
     collisionSuffix: ""

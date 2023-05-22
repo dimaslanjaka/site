@@ -118,6 +118,13 @@ markdown:
   enable_rules:
   disable_rules:
   plugins:
+    - markdown-it-abbr
+    - markdown-it-attrs
+    #- markdown-it-table-of-contents
+    - name: 'markdown-it-emoji'
+      options:
+        shortcuts:
+          laughing: ':D'
   anchors:
     level: 2
     collisionSuffix: ''
