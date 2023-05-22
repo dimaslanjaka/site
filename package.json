@@ -24,7 +24,7 @@
     "hexo-cli": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-cli.tgz",
     "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-front-matter.tgz",
     "hexo-log": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-log.tgz",
-    "hexo-renderers": "^1.0.9",
+    "hexo-renderers": "*",
     "hexo-server": "^3.0.0",
     "hexo-util": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/hexo-util.tgz",
     "warehouse": "https://github.com/dimaslanjaka/hexo/raw/bad3309/releases/warehouse.tgz"
