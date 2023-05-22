@@ -10,6 +10,25 @@ html
       //script(type='text/javascript', src='/js/app.js')
   body
     // block body
-    p test
+    - var byVar = "<em>PUG</em>";
+    p Using layout !{byVar}
+    h2 Tag Interpolation
+    p.
+      This is a very long and boring paragraph that spans multiple lines.
+      Suddenly there is a #[strong strongly worded phrase] that cannot be
+      #[em ignored].
+    p.
+      And here's an example of an interpolated tag with an attribute:
+      #[q(lang="es") ¡Hola Mundo!]
+    h2 using mixins
     +helloWorld
     +helloWorld('Ava')
+    h2 Whitespace Control
+    p
+      | If I don't write the paragraph with tag interpolation, tags like
+      strong strong
+      | and
+      em em
+      | might produce unexpected results.
+    p.
+      If I do, whitespace is #[strong respected] and #[em everybody] is happy.
