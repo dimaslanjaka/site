@@ -126,6 +126,13 @@ markdown:
     - markdown-it-abbr
     - markdown-it-attrs
     - markdown-it-bracketed-spans
+    - markdown-it-sup
+    - markdown-it-cjk-breaks
+    - markdown-it-sub
+    - markdown-it-deflist
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-mark
     #- markdown-it-table-of-contents
     - name: 'markdown-it-emoji'
       options:
