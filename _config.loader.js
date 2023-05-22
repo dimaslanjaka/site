@@ -60,6 +60,7 @@ module.exports = reloadHexoConfigYml;
 if (require.main === module) {
   reloadHexoConfigYml(__dirname, { theme: 'butterfly' });
 
+  /*
   // source/assemble-boilerplate-markdown/src/content
   walk(path.join(__dirname, 'source/assemble-boilerplate-markdown/src/content'), function (err, results) {
     if (err) throw err;
@@ -80,5 +81,5 @@ if (require.main === module) {
       return _index0.trim() + '\n\n' + pathsABM + '\n\n' + _index2.trim();
     });
     fs.writeFileSync(indexReadme, replacement);
-  });
+  });*/
 }

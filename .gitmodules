@@ -6,6 +6,3 @@
 	path = themes/next
 	url = https://github.com/dimaslanjaka/hexo-theme-next.git
 	branch = private
-[submodule "source/assemble-boilerplate-markdown"]
-	path = source/assemble-boilerplate-markdown
-	url = https://github.com/assemble/assemble-boilerplate-markdown.git

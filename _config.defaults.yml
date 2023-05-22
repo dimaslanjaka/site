@@ -29,7 +29,6 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -95,8 +94,11 @@ pagination_dir: page
 ## include:/exclude: options only apply to the 'source/' folder
 include:
 exclude:
+  - "**/assemble-boilerplate-markdown/dest/**/*"
 ignore:
-
+  - "**/assemble-boilerplate-markdown/dest/**/*"
+skip_render:
+  - "**/assemble-boilerplate-markdown/dest/**/*"
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
