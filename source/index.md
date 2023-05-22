@@ -1,16 +1,24 @@
 ---
 title: hexo-shortcodes demo
-date: 2013-12-25 00:14:39
-updated: 2023-02-25T00:48:02+07:00
+date: 2023-03-03T00:48:02+07:00
+updated: 2023-05-25T00:48:02+07:00
 ---
 
-Various hexo shortcode tags. [GitHub](https://github.com/dimaslanjaka/hexo-shortcodes)
+# hexo-shortcodes
+Hexo shortcodes helper. Various shortcodes for hexo, adapted from jekyll. Various hexo shortcode tags. [GitHub](https://github.com/dimaslanjaka/hexo-shortcodes).
 
 ## Installation
+Firsly, remove old original tag renderer. Because this plugin already have all default tag (`vimeo`, `youtube`, `gist`, `codeblock`)
+
+```bash
+npm un hexo-tag-embed
+```
+
 production
 ```bash
 npm i hexo-shortcodes
 ```
+
 latest changes, replace `COMMIT_HASH` with latest commit hash. see [pre-release commit history](https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release)
 ```bash
 npm i hexo-shortcodes@https://github.com/dimaslanjaka/hexo-shortcodes/tarball/COMMIT_HASH
@@ -36,6 +44,8 @@ for yarn just replace `npm i` with `yarn add`
 
 ## Changelog
 read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release (`chore`,`feat`,`fix` sections)
+### 1.2.2
+- `include_file`: fix typeof `hexo` undefined
 ### 1.2.1
 - `include_file`: add include file shortcode tag
 - `gist`: fix failed embed spesific lines
@@ -49,3 +59,11 @@ read more at https://github.com/dimaslanjaka/hexo-shortcodes/commits/pre-release
 - `gist`: fix undefined username
 ### 1.1.1
 - fix: invalid `git-embed` location
+
+## Documentations
+- [FULL DEMO, FEATURES, CHANGELOG, and USAGES](https://www.webmanajemen.com/docs/hexo-shortcodes)
+
+License
+=======
+
+[MIT](https://github.com/dimaslanjaka/hexo-shortcodes/blob/master/LICENSE)
