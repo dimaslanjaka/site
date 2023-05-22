@@ -1,3 +1,3 @@
-# hexo-shortcodes demo and usages
+# hexo-rendereres demo and usages
 
-page builder for `hexo-shortcodes`
+page builder for `hexo-rendereres`
