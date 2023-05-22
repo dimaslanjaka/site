@@ -1,7 +1,34 @@
-const { copySync } = require('fs-extra');
-const { readFileSync, writeFileSync, readdirSync } = require('fs-extra');
-const { join } = require('path');
+const fs = require('fs-extra');
+const path = require('upath');
 const { parse, stringify } = require('yaml');
+/**
+ * read directory recursive
+ * @param {string} dir
+ * @param {(err: Error, list: string[]) => any} done
+ */
+var walk = function (dir, done) {
+  var results = [];
+  fs.readdir(dir, function (err, list) {
+    if (err) return done(err);
+    var i = 0;
+    (function next() {
+      var file = list[i++];
+      if (!file) return done(null, results);
+      file = path.resolve(dir, file);
+      fs.stat(file, function (err, stat) {
+        if (stat && stat.isDirectory()) {
+          walk(file, function (err, res) {
+            results = results.concat(res);
+            next();
+          });
+        } else {
+          results.push(file);
+          next();
+        }
+      });
+    })();
+  });
+};
 
 /**
  * reload `_config.yml` from `_config.defaults.yml`
@@ -12,18 +39,18 @@ const { parse, stringify } = require('yaml');
 function reloadHexoConfigYml(base = undefined, overriden = {}) {
   if (!base) base = __dirname;
   if (!overriden) overriden = {};
-  const defaults = parse(readFileSync(join(base, '_config.defaults.yml'), 'utf-8'));
+  const defaults = parse(fs.readFileSync(path.join(base, '_config.defaults.yml'), 'utf-8'));
   /** @type {import('hexo')['config']} */
   const options = Object.assign(defaults, overriden);
-  writeFileSync(join(base, '_config.yml'), stringify(options));
-  const layouts = readdirSync(join(__dirname, 'views')).map((str) => {
+  fs.writeFileSync(path.join(base, '_config.yml'), stringify(options));
+  const layouts = fs.readdirSync(path.join(__dirname, 'views')).map((str) => {
     return {
-      src: join(join(__dirname, 'views'), str),
-      dest: join(join(__dirname, 'themes', options.theme, 'layout'), str)
+      src: path.join(path.join(__dirname, 'views'), str),
+      dest: path.join(path.join(__dirname, 'themes', options.theme, 'layout'), str)
     };
   });
   layouts.forEach(({ src, dest }) => {
-    copySync(src, dest);
+    fs.copySync(src, dest);
   });
   return options;
 }
@@ -32,4 +59,26 @@ module.exports = reloadHexoConfigYml;
 
 if (require.main === module) {
   reloadHexoConfigYml(__dirname, { theme: 'butterfly' });
+
+  // source/assemble-boilerplate-markdown/src/content
+  walk(path.join(__dirname, 'source/assemble-boilerplate-markdown/src/content'), function (err, results) {
+    if (err) throw err;
+    const pathsABM = results
+      .map((str) => {
+        const ignored = [str.endsWith('TOC.md'), !str.endsWith('md')];
+        if (ignored.some(Boolean)) return '';
+        const link = str.replace(path.join(__dirname, 'source'), '/docs/hexo-renderers').replace(/.md$/, '');
+        return `[${link}](${link})`;
+      })
+      .filter((str) => str.length > 0)
+      .join('\n');
+    const indexReadme = path.join(__dirname, 'source/index.md');
+    const readIndex = fs.readFileSync(indexReadme, 'utf-8');
+    const regex =
+      /(^## assemble\/assemble-boilerplate-markdown starts)([\s\S]*?)(^## assemble\/assemble-boilerplate-markdown ends)/gim;
+    const replacement = readIndex.replace(regex, function (_whole, _index0, _index1, _index2) {
+      return _index0.trim() + '\n\n' + pathsABM + '\n\n' + _index2.trim();
+    });
+    fs.writeFileSync(indexReadme, replacement);
+  });
 }

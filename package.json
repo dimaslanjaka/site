@@ -18,6 +18,7 @@
     "node": ">=8"
   },
   "dependencies": {
+    "fs-extra": "^11.1.1",
     "hexo": "^7.0.0-rc1",
     "hexo-asset-link": "^2.2.1",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
@@ -26,10 +27,13 @@
     "hexo-log": "^4.0.1",
     "hexo-renderers": "*",
     "hexo-server": "^3.0.0",
+    "hexo-shortcodes": "^1.2.2",
     "hexo-util": "^3.0.1",
+    "upath": "^2.0.1",
     "warehouse": "^5.0.0"
   },
   "devDependencies": {
+    "@types/fs-extra": "^11.0.1",
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz",
     "js-yaml": "^4.1.0",
