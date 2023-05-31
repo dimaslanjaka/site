@@ -1,8 +1,0 @@
-[submodule "themes/claudia"]
-	path = themes/claudia
-	url = https://github.com/dimaslanjaka/hexo-theme-claudia.git
-	branch = private
-[submodule "themes/next"]
-	path = themes/next
-	url = https://github.com/dimaslanjaka/hexo-theme-next.git
-	branch = private
