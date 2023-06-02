@@ -23,13 +23,13 @@
     "nrs": "nrs --yarn=true --verbose=true 'nrs:*'"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0-rc1"
   },
   "engines": {
     "node": ">=8"
   },
   "dependencies": {
-    "hexo": "6",
+    "hexo": "^7.0.0-rc1",
     "hexo-asset-link": "^2.2.1",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-front-matter": "^4.1.0",
