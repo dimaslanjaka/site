@@ -2,6 +2,8 @@
 title: markdown-it-bracketed-spans
 date: 2023-05-23T03:13:17+07:00
 updated: 2023-05-23T03:13:17+07:00
+category: [engine]
+tags: [markdown]
 ---
 
 # Article
