@@ -1,12 +1,14 @@
 const fs = require('fs-extra');
 const path = require('upath');
 const { parse, stringify } = require('yaml');
+const Hexo = require('hexo');
+
 /**
  * read directory recursive
  * @param {string} dir
  * @param {(err: Error, list: string[]) => any} done
  */
-var _walk = function (dir, done) {
+const _walk = function (dir, done) {
   var results = [];
   fs.readdir(dir, function (err, list) {
     if (err) return done(err);
@@ -36,17 +38,22 @@ var _walk = function (dir, done) {
  * @param {import('hexo')['config']&Record<string,any>} overriden new config object to be merged
  * @returns {import('hexo')['config']&Record<string,any>}
  */
-function reloadHexoConfigYml(base = undefined, overriden = {}) {
+async function reloadHexoConfigYml(base = undefined, overriden = {}) {
   if (!base) base = __dirname;
   if (!overriden) overriden = {};
   const defaults = parse(fs.readFileSync(path.join(base, '_config.defaults.yml'), 'utf-8'));
   /** @type {import('hexo')['config']} */
   const options = Object.assign(defaults, overriden);
+  // save new _config.yml
   fs.writeFileSync(path.join(base, '_config.yml'), stringify(options));
+
+  process.cwd = () => base;
+  const hexo = new Hexo(base, options);
+  await hexo.init();
   const layouts = fs.readdirSync(path.join(__dirname, 'views')).map((str) => {
     return {
       src: path.join(path.join(__dirname, 'views'), str),
-      dest: path.join(path.join(__dirname, 'themes', options.theme, 'layout'), str)
+      dest: path.join(path.join(hexo.theme_dir, 'layout'), str)
     };
   });
   layouts.forEach(({ src, dest }) => {
