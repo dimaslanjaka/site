@@ -1,6 +1,6 @@
 ---
 title: another post with nunjucks layout
-layout: ejs
+layout: layout-njk
 tags:
   - post
   - nunjucks
