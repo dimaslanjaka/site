@@ -15,10 +15,9 @@
     <div>
       {{ page.content }}
 
-      <h2>Related posts helper</h2>
       {% set related_post =  list_related_posts(post, {maxCount: 10, orderBy: 'date'}) %}
       {% if related_post.length > 0 %}
-        <h3 class="article-title" style="font-size: 20px;">相关文章</h3>
+        <h3 class="article-title" style="font-size: 20px;">Related posts helper</h3>
         <ul class="related-posts">
         {% for rl_post in related_post %}
             <li class="related-posts-item"><a href="{{ url_for(rl_post.path) }}">{{ rl_post.title }}</a></li>
