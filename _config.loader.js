@@ -6,7 +6,7 @@ const { parse, stringify } = require('yaml');
  * @param {string} dir
  * @param {(err: Error, list: string[]) => any} done
  */
-var walk = function (dir, done) {
+var _walk = function (dir, done) {
   var results = [];
   fs.readdir(dir, function (err, list) {
     if (err) return done(err);
@@ -15,9 +15,9 @@ var walk = function (dir, done) {
       var file = list[i++];
       if (!file) return done(null, results);
       file = path.resolve(dir, file);
-      fs.stat(file, function (err, stat) {
+      fs.stat(file, function (_err, stat) {
         if (stat && stat.isDirectory()) {
-          walk(file, function (err, res) {
+          _walk(file, function (_err, res) {
             results = results.concat(res);
             next();
           });
