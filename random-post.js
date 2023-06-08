@@ -1,13 +1,10 @@
 /* eslint-disable no-mixed-operators */
-/* eslint-disable node/no-extraneous-require */
-/* eslint-disable node/no-unpublished-require */
 'use strict';
 
 const { existsSync, mkdirSync, writeFileSync, rmSync } = require('fs');
 const { join } = require('path');
 const yaml = require('yaml');
 const moment = require('moment');
-require('js-prototypes');
 const prompt = require('prompt');
 
 const properties = [
@@ -39,21 +36,29 @@ prompt.get(properties, (err, result) => {
 });
 
 function generate(countArticle) {
-  return Array.from(Array(countArticle).keys()).map(n => {
-    // make random post latest to 2021-11-25
+  return Array.from(Array(countArticle).keys()).map((n) => {
+    // make post latest to 2021-11-25
     // prevent indicator post overriden
     const created = randomDate(new Date(2012, 0, 1), moment('2021-11-25').toDate());
     // latest updated based on created date
     const updated = randomDate(new Date(2012, 0, 1), created);
+    // custom layout and tag
+    const mapLayout = [
+      { layout: 'layout-njk', tags: ['njk'], category: ['njk'] },
+      { layout: 'layout-ejs', tags: ['ejs'], category: ['ejs'] },
+      { layout: 'layout-pug', tags: ['pug'], category: ['pug'] }
+    ].sort(function () {
+      return 0.5 - Math.random();
+    })[0];
     // index count, dismiss 0/zero
     const current = n + 1;
-    return {
+    const post = {
       title: 'Post ' + current,
       date: created,
       keywords: ['random', 'post', 'pages'],
       author: 'Dimas Lanjaka',
-      tags: ['random post', current.toString().includes('5') ? 'post has 5' : 'untagged'].removeEmpties(),
-      category: ['random post', current.toString().includes('0') ? 'post has 0' : 'uncategorized'].removeEmpties(),
+      tags: ['post', current.toString().includes('5') ? 'post has 5' : 'untagged'],
+      category: ['random', current.toString().includes('0') ? 'post has 0' : 'uncategorized'],
       updated: updated,
       content: `
       # Post Content
@@ -68,13 +73,16 @@ function generate(countArticle) {
       `,
       filename: 'post-' + current + '.md'
     };
+    post.tags = post.tags.concat(mapLayout.tags).filter((str) => str.trim().length > 0);
+    post.category = post.category.concat(mapLayout.category).filter((str) => str.trim().length > 0);
+    return post;
   });
 }
 
 function create(posts, sourceDir) {
   if (existsSync(sourceDir)) rmSync(sourceDir, { recursive: true, force: true });
   if (!existsSync(sourceDir)) mkdirSync(sourceDir, { recursive: true });
-  posts.forEach(post => {
+  posts.forEach((post) => {
     post.date = moment(post.date).format('YYYY-MM-DDTHH:mm:ssZ');
     post.updated = moment(post.updated).format('YYYY-MM-DDTHH:mm:ssZ');
     const content = post.content;
