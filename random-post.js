@@ -68,8 +68,8 @@ This is content of post ${current}
 ![random image ${current}](https://picsum.photos/200/300)
 ![another random image ${current}](https://picsum.photos/200/300?random=1)
 
-## random image 640x480
-![random image ${current}](https://placeimg.com/640/480/any)
+## placeholder image 640x480
+![placeholder image ${current}](https://dummyimage.com/640x480/000/fff&text=Post+${current})
       `,
       filename: 'post-' + current + '.md'
     };
