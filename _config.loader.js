@@ -53,7 +53,7 @@ async function reloadHexoConfigYml(base = undefined, overriden = {}) {
   const layouts = fs.readdirSync(path.join(__dirname, 'views')).map((str) => {
     return {
       src: path.join(path.join(__dirname, 'views'), str),
-      dest: path.join(path.join(hexo.theme_dir, 'layout'), str)
+      dest: path.join(hexo.theme_dir, str)
     };
   });
   layouts.forEach(({ src, dest }) => {

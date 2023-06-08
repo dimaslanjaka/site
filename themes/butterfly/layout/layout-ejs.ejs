@@ -23,7 +23,7 @@
     <ul class="related-posts">
       <% for (var i = 0; i < related_post.length; i++) { %>
         <li class="related-posts-item">
-          <a href="<%= url_for(related_post[i].path) %>"><%= related_post[i].title %></a>
+          <a href="<%= url_for(related_post[i].path) %>"><%= related_post[i].title %> <%= related_post[i].date %></a>
         </li>
       <% } %>
     </ul>
