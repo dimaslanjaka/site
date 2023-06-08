@@ -75,6 +75,7 @@ This is content of post ${current}
     };
     post.tags = post.tags.concat(mapLayout.tags).filter((str) => str.trim().length > 0);
     post.category = post.category.concat(mapLayout.category).filter((str) => str.trim().length > 0);
+    post.layout = mapLayout.layout;
     return post;
   });
 }
