@@ -24,6 +24,8 @@
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-cli": "^4.3.1",
     "hexo-front-matter": "^4.1.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-tag": "^2.0.0",
     "hexo-log": "^4.0.1",
     "hexo-renderers": "*",
     "hexo-seo": "^1.2.3",
