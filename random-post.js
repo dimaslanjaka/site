@@ -61,15 +61,15 @@ function generate(countArticle) {
       category: ['random', current.toString().includes('0') ? 'post has 0' : 'uncategorized'],
       updated: updated,
       content: `
-      # Post Content
-      This is content of post ${current}
+# Post Content
+This is content of post ${current}
 
-      ## random image 200x300
-      ![random image ${current}](https://picsum.photos/200/300)
-      ![another random image ${current}](https://picsum.photos/200/300?random=1)
+## random image 200x300
+![random image ${current}](https://picsum.photos/200/300)
+![another random image ${current}](https://picsum.photos/200/300?random=1)
 
-      ## random image 640x480
-      ![random image ${current}](https://placeimg.com/640/480/any)
+## random image 640x480
+![random image ${current}](https://placeimg.com/640/480/any)
       `,
       filename: 'post-' + current + '.md'
     };
