@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "fs-extra": "^11.1.1",
-    "hexo": "^7.0.0-rc1",
+    "hexo": "latest",
     "hexo-asset-link": "^2.2.1",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-cli": "^4.3.1",
