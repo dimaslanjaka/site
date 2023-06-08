@@ -19,6 +19,7 @@
 
     <hr>
     <% var related_post =  list_related_posts(typeof post !== 'undefined' ? post : page, {maxCount: 10, orderBy: 'date'}); %>
+    <h3 class="article-title" style="font-size: 20px;">Related posts helper</h3>
     <ul class="related-posts">
       <% for (var i = 0; i < related_post.length; i++) { %>
         <li class="related-posts-item">
