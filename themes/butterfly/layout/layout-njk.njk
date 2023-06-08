@@ -15,7 +15,7 @@
       {{ page.content }}
 
       <hr>
-      {% set related_post =  list_related_posts(post, {maxCount: 10, orderBy: 'date'}) %}
+      {% set related_post =  list_related_posts(post if post else page, {maxCount: 10, orderBy: 'date'}) %}
       {% if related_post.length > 0 %}
         <h3 class="article-title" style="font-size: 20px;">Related posts helper</h3>
         <ul class="related-posts">
