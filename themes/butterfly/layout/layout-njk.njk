@@ -8,33 +8,55 @@
     <link rel="stylesheet" href="{{ url_for('css/bootstrap.css') }}">
   </head>
   <body>
-    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-          <a href="{{ url_for('/') }}">Home</a>
-        </li>
-        <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-      </ol>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Top navbar</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarCollapse"
+          aria-controls="navbarCollapse"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <div style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="navbar navbar-expand-md mb-4">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                <a href="{{ url_for('/') }}">Home</a>
+              </li>
+              <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+            </ol>
+          </div>
+        </div>
+      </div>
     </nav>
-    <div class="mt-4 p-5 bg-primary text-white rounded">
-      template engine
-      <kbd>nunjucks</kbd>
-    </div>
-    <div>
-      {{ page.content }}
-    </div>
-    <div>
-      {% set related_post =  list_related_posts(post if post else page, {maxCount: 10, orderBy: 'date'}) %}
-      {% if related_post.length > 0 %}
-        <h3 class="article-title" style="font-size: 20px;">Related posts helper</h3>
-        <ul class="related-posts">
-          {% for rl_post in related_post %}
-            <li class="related-posts-item">
-              <a href="{{ url_for(rl_post.path) }}">{{ rl_post.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </div>
+    <main class="container">
+      <div class="h-100 p-5 bg-light border rounded-3">
+        template engine
+        <kbd>nunjucks</kbd>
+      </div>
+      <div>
+        {{ page.content }}
+      </div>
+      <section>
+        {% set related_post =  list_related_posts(post if post else page, {maxCount: 10, orderBy: 'date'}) %}
+        {% if related_post.length > 0 %}
+          <div>
+            <h3 class="article-title" style="font-size: 20px;">Related posts helper</h3>
+            <ul class="related-posts">
+              {% for rl_post in related_post %}
+                <li class="related-posts-item">
+                  <a href="{{ url_for(rl_post.path) }}">{{ rl_post.title }} - {{ full_date(rl_post.date) }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      </section>
+    </main>
   </body>
 </html>
