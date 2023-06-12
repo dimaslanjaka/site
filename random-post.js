@@ -44,7 +44,7 @@ function generate(countArticle) {
     const updated = randomDate(new Date(2012, 0, 1), created);
     // custom layout and tag
     const mapLayout = [
-      { layout: 'layout-njk', tags: ['njk'], category: ['njk'] },
+      { layout: 'layout-njk', tags: ['nunjucks'], category: ['nunjucks'] },
       { layout: 'layout-ejs', tags: ['ejs'], category: ['ejs'] },
       { layout: 'layout-pug', tags: ['pug'], category: ['pug'] }
     ].sort(function () {
