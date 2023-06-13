@@ -50,7 +50,7 @@
     "yaml": "^2.2.2"
   },
   "description": "page builder for `hexo-renderers`",
-  "main": "postinstall.js",
+  "main": "random-post.js",
   "keywords": [],
   "author": "",
   "license": "ISC"
