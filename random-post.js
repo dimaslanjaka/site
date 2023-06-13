@@ -57,7 +57,7 @@ function generate(countArticle) {
       date: created,
       keywords: ['random', 'post', 'pages'],
       author: 'Dimas Lanjaka',
-      tags: ['post', current.toString().includes('5') ? 'post has 5' : 'untagged'],
+      tags: [current.toString().includes('5') && 'post has 5'],
       category: ['random', current.toString().includes('0') ? 'post has 0' : 'uncategorized'],
       updated: updated,
       content: `
@@ -73,7 +73,7 @@ This is content of post ${current}
       `,
       filename: 'post-' + current + '.md'
     };
-    post.tags = post.tags.concat(mapLayout.tags).filter((str) => str.trim().length > 0);
+    post.tags = post.tags.concat(mapLayout.tags).filter((str) => typeof str === 'string' && str.trim().length > 0);
     post.category = post.category.concat(mapLayout.category).filter((str) => str.trim().length > 0);
     post.layout = mapLayout.layout;
     return post;
