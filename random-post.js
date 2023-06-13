@@ -74,7 +74,9 @@ This is content of post ${current}
       filename: 'post-' + current + '.md'
     };
     post.tags = post.tags.concat(mapLayout.tags).filter((str) => typeof str === 'string' && str.trim().length > 0);
-    post.category = post.category.concat(mapLayout.category).filter((str) => str.trim().length > 0);
+    post.category = post.category
+      .concat(mapLayout.category)
+      .filter((str) => typeof str === 'string' && str.trim().length > 0);
     post.layout = mapLayout.layout;
     return post;
   });
