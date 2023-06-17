@@ -68,7 +68,7 @@ ignore:
   - "**/assemble-boilerplate-markdown/dest/**/*"
 skip_render:
   - "**/assemble-boilerplate-markdown/dest/**/*"
-theme: butterfly
+theme: claudia
 markdown:
   preset: default
   render:

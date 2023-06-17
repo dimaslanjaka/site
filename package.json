@@ -32,6 +32,8 @@
     "hexo-seo": "^1.2.3",
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "^1.2.3",
+    "hexo-theme-claudia": "*",
+    "hexo-theme-next": "*",
     "hexo-util": "^3.0.1",
     "markdown-it-table-of-contents": "^0.6.0",
     "material-components-web": "^14.0.0",

@@ -65,7 +65,8 @@ async function reloadHexoConfigYml(base = undefined, overriden = {}) {
 module.exports = reloadHexoConfigYml;
 
 if (require.main === module) {
-  reloadHexoConfigYml(__dirname, { theme: 'butterfly' });
+  // reloadHexoConfigYml(__dirname, { theme: 'butterfly' });
+  reloadHexoConfigYml(__dirname, { theme: 'claudia' });
 
   /*
   // source/assemble-boilerplate-markdown/src/content
