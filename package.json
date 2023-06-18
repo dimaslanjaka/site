@@ -32,6 +32,7 @@
     "hexo-seo": "^1.2.3",
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "^1.2.3",
+    "hexo-theme-butterfly": "*",
     "hexo-theme-claudia": "*",
     "hexo-theme-next": "*",
     "hexo-util": "^3.0.1",
