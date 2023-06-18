@@ -7,13 +7,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title><%- page.title %> - EJS</title>
   <!-- import Material Icons from Google Fonts -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:900i" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:900i" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" />
   <!-- Add favicons -->
-  <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.glitch.com/9c389208-b279-4e96-bcbc-e5f8712d8706%2Ffavicon-32x32.png?1553712190412">
-  <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.glitch.com/9c389208-b279-4e96-bcbc-e5f8712d8706%2Ffavicon-96x96.png?1553712190613">
-  <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.glitch.com/9c389208-b279-4e96-bcbc-e5f8712d8706%2Ffavicon-16x16.png?1553712190383">
+  <link rel="icon" type="image/png" sizes="32x32"
+    href="https://cdn.glitch.com/9c389208-b279-4e96-bcbc-e5f8712d8706%2Ffavicon-32x32.png?1553712190412" />
+  <link rel="icon" type="image/png" sizes="96x96"
+    href="https://cdn.glitch.com/9c389208-b279-4e96-bcbc-e5f8712d8706%2Ffavicon-96x96.png?1553712190613" />
+  <link rel="icon" type="image/png" sizes="16x16"
+    href="https://cdn.glitch.com/9c389208-b279-4e96-bcbc-e5f8712d8706%2Ffavicon-16x16.png?1553712190383" />
   <style>
     body.unresolved * {
       opacity: 0;
@@ -170,8 +173,7 @@
   </style>
   <mwc-top-app-bar-fixed id="header">
     <div slot="title">
-      <img src="<%- url_for('/assets/material-icon.svg') %>" />
-      <span>Material Web Components Playground</span>
+      <a href="<%- url_for('/') %>"><img src="<%- url_for('/assets/material-icon.svg') %>" /><span>Material Web Components Playground</span></a>
     </div>
     <hr class="material-divider" />
   </mwc-top-app-bar-fixed>
@@ -192,7 +194,8 @@
           <span class="mdc-list-item__ripple"></span>
 
           <span class="mdc-list-item__text">
-            <a class="mdc-list-item__primary-text" href="<%= url_for(related_post[i].path) %>"><%= related_post[i].title %></a>
+            <a class="mdc-list-item__primary-text"
+              href="<%= url_for(related_post[i].path) %>"><%= related_post[i].title %></a>
             <span class="mdc-list-item__secondary-text"><%= date_format(related_post[i].date, 'LLL') %></span>
           </span>
         </li>
