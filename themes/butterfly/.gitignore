@@ -1,8 +1,0 @@
-source/css/bootstrap*
-source/css/material*
-source/js/material*
-layout/layout-ejs.ejs
-layout/layout-njk.njk
-layout/layout-pug.pug
-layout/mixins/helloWorld.pug
-layout/mixins/index.pug
