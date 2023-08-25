@@ -65,7 +65,13 @@ async function reloadHexoConfigYml(base = undefined, overriden = {}) {
 module.exports = reloadHexoConfigYml;
 
 if (require.main === module) {
-  reloadHexoConfigYml(__dirname, { theme: 'butterfly' });
+  reloadHexoConfigYml(__dirname, {
+    theme: 'butterfly',
+    renderers: {
+      engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup'],
+      generator: ['related-posts', 'meta']
+    }
+  });
   // reloadHexoConfigYml(__dirname, { theme: 'claudia' });
 
   /*
