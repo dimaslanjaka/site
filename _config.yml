@@ -42,7 +42,7 @@ external_link:
     - webmanajemen.com
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -173,7 +173,7 @@ seo:
       enable: true
     sitelink:
       enable: true
-      searchUrl: https://www.webmanajemen.com/hexo-seo/search?q=
+      searchUrl: https://www.webmanajemen.com/hexo-seo/search?q={search_term_string}
   # this function still under development because JAVASCRIPT HEAP MEMORY and my device is 8GB RAM
   img:
     enable: true
