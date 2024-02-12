@@ -1,4 +1,5 @@
-const chalk = require("chalk");
+const ansiColors = require('ansi-colors');
+
 /**
  * Callback Post Imported XML
  * @param {string} content
@@ -6,10 +7,10 @@ const chalk = require("chalk");
  * @returns {string}
  */
 module.exports = function (content, headers) {
-  console.log("Process callback article", chalk.magenta(headers.title));
+  console.log('Process callback article', ansiColors.magenta(headers.title));
 
   //https://cdn.rawgit.com/dimaslanjaka/Web-Manajemen/master/Animasi/text-animasi.html
   //replace old cdn.rawgit.com to github page
-  content = content.replace(new RegExp("https://cdn.rawgit.com/dimaslanjaka", "m"), "http://dimaslanjaka.github.io/");
+  content = content.replace(new RegExp('https://cdn.rawgit.com/dimaslanjaka', 'm'), 'http://dimaslanjaka.github.io/');
   return content;
 };
