@@ -46,8 +46,8 @@
     "binary-collections": "^1.0.3",
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/bf2d8bb/release/cross-spawn.tgz",
-    "git-command-helper": "^1.2.5",
-    "hexo-post-parser": "^1.2.10",
+    "git-command-helper": "^2.0.2",
+    "hexo-post-parser": "^1.2.14",
     "hpagent": "^1.2.0",
     "js-yaml": "^4.1.0",
     "moment": "^2.29.4",
@@ -55,7 +55,7 @@
     "sbg-api": "*",
     "sbg-cli": "*",
     "sbg-server": "*",
-    "sbg-utility": "*",
+    "sbg-utility": "^1.1.6",
     "static-blog-generator": "*",
     "yaml": "^2.2.1"
   }
