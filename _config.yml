@@ -92,6 +92,7 @@ markdown:
     - markdown-it-footnote
     - markdown-it-ins
     - markdown-it-mark
+    - markdown-it-katex
     - name: markdown-it-emoji
       options:
         shortcuts:
