@@ -4,6 +4,7 @@ date: 2017-12-20 13:51:07
 tags:
   - typography
   - hexo
+  - post
 categories:
   - notes
 ---

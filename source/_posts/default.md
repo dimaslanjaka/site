@@ -1,3 +1,9 @@
+---
+title: markdown-it default
+tags: [post]
+---
+
+
 # h1 Heading em português
 ## h2 Heading :P
 ### h3 Heading

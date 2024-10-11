@@ -16,3 +16,5 @@ themes/hexo-theme-*
 .yarn/*.gz
 source/_posts/random
 source/page/random
+themes/*
+!themes/.gitignore

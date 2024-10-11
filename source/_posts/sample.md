@@ -1,6 +1,7 @@
 ---
 title: nunjucks in markdown
 date: 2023-10-04T09:26:26+07:00
+tags: [post]
 ---
 
 ## pretext
@@ -21,8 +22,8 @@ const var = `build-${{ hashFiles('package-lock.json') }}`
 
 ## meta info
 
-- published: {{ page.date }}
-- modified: {{ page.updated }}
+- published: {{ page.date | default("No date provided") }}
+- modified: {{ page.updated | default("No modification date") }}
 
 ## Curly bracket inside hyperlink
 
