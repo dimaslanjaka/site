@@ -55,7 +55,7 @@
     "sbg-api": "*",
     "sbg-cli": "*",
     "sbg-server": "*",
-    "sbg-utility": "^1.1.6",
+    "sbg-utility": "^2.0.0",
     "static-blog-generator": "*",
     "yaml": "^2.2.1"
   }
