@@ -47,7 +47,7 @@
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/bf2d8bb/release/cross-spawn.tgz",
     "git-command-helper": "^2.0.2",
-    "hexo-post-parser": "^2.0.2",
+    "hexo-post-parser": "^3.0.0",
     "hpagent": "^1.2.0",
     "js-yaml": "^4.1.0",
     "moment": "^2.30.1",
