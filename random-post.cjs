@@ -5,6 +5,7 @@ const { join } = require('path');
 const yaml = require('yaml');
 const moment = require('moment');
 const prompt = require('prompt');
+const fs = require('fs');
 
 const properties = [
   {
@@ -69,6 +70,8 @@ This is content of post ${current}
 
 ## placeholder image 640x480
 ![placeholder image ${current}](https://dummyimage.com/640x480/000/fff&text=Post+${current})
+
+${fs.readFileSync(join(__dirname, 'random-post-body.md'), 'utf-8')}
       `,
       filename: 'post-' + current + '.md'
     };
