@@ -1,4 +1,3 @@
-/* eslint-disable no-mixed-operators */
 'use strict';
 
 const { existsSync, mkdirSync, writeFileSync, rmSync } = require('fs');
