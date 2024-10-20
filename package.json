@@ -37,7 +37,7 @@
     "hexo-util": "^3.3.0",
     "markdown-it-table-of-contents": "*",
     "material-components-web": "^14.0.0",
-    "sbg-utility": "*",
+    "static-blog-generator": "*",
     "upath": "^2.0.1",
     "warehouse": "^5.0.1"
   },

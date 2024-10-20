@@ -14,7 +14,10 @@ themes/hexo-theme-*
 .yarn/cache
 .yarn/version*
 .yarn/*.gz
-source/_posts/random
-source/page/random
 themes/*
 !themes/.gitignore
+source/page/random
+
+source/_posts
+!source/_posts/*.md
+!source/_posts/yihui/**/*
