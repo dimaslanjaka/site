@@ -10,7 +10,7 @@
     "server": "hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
     "update:ncu": "npm-check-updates -u -x chalk",
-    "random-post": "node random-post.cjs"
+    "postinstall": "node random-post.cjs && node init-source-posts.cjs && node _config.loader.cjs"
   },
   "hexo": {
     "version": "7.3.0"

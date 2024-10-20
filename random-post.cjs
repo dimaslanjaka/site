@@ -4,36 +4,19 @@ const { existsSync, mkdirSync, writeFileSync, rmSync } = require('fs');
 const { join } = require('path');
 const yaml = require('yaml');
 const moment = require('moment');
-const prompt = require('prompt');
 const fs = require('fs');
 
-const properties = [
-  {
-    name: 'count',
-    validator: /^[0-9=]{1,5}$/,
-    warning: 'Only accept number'
-  }
-];
+let countArticle = 5000;
+if (!countArticle) countArticle = 2;
+console.log('creating', countArticle, 'posts');
+const posts = generate(countArticle);
+const sourcePostsDir = join(__dirname, 'source/_posts/random');
+create(posts, sourcePostsDir);
 
-prompt.start();
-
-prompt.get(properties, (err, result) => {
-  if (err) {
-    return onErr(err);
-  }
-
-  let countArticle = parseInt(result.count ? result.count : 10, 10) / 2;
-  if (!countArticle) countArticle = 2;
-  console.log('creating', countArticle, 'posts');
-  const posts = generate(countArticle);
-  const sourcePostsDir = join(__dirname, 'source/_posts/random');
-  create(posts, sourcePostsDir);
-
-  console.log('creating', countArticle, 'pages');
-  const pages = generate(countArticle);
-  const sourcePageDir = join(__dirname, 'source/page/random');
-  create(pages, sourcePageDir);
-});
+console.log('creating', countArticle, 'pages');
+const pages = generate(countArticle);
+const sourcePageDir = join(__dirname, 'source/page/random');
+create(pages, sourcePageDir);
 
 function generate(countArticle) {
   return Array.from(Array(countArticle).keys()).map((n) => {
@@ -98,11 +81,6 @@ function create(posts, sourceDir) {
     const build = `---\n${header}---\n${content}`;
     writeFileSync(filepath, build);
   });
-}
-
-function onErr(err) {
-  console.log(err);
-  return 1;
 }
 
 function randomDate(start, end) {
