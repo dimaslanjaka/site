@@ -7,21 +7,23 @@
     "build": "clear && hexo generate --debug",
     "clean": "hexo clean && rimraf source/_posts source/page/random && git restore source/_posts",
     "deploy": "hexo deploy",
-    "server": "clear && hexo server -p 4000",
+    "server": "clear && hexo server -p 4000 --debug",
     "serve-static": "php -S localhost:4000 -t public/",
     "update:ncu": "npm-check-updates -u -x chalk",
     "random-post": "node random-post.cjs",
     "postinstall": "node _config.loader.cjs",
-    "post:copy": "node init-source-posts.cjs && sbg post copy"
+    "post:copy": "node init-source-posts.cjs && npm run clean && sbg post copy"
   },
   "hexo": {
     "version": "7.3.0"
   },
+  "workspaces": [
+    "themes/*"
+  ],
   "engines": {
     "node": ">=8"
   },
   "dependencies": {
-    "bootstrap": "^5.3.3",
     "fs-extra": "^11.2.0",
     "hexo": "^7.3.0",
     "hexo-asset-link": "^2.2.3",
@@ -31,7 +33,7 @@
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-tag": "^2.0.0",
     "hexo-log": "^4.1.0",
-    "hexo-renderers": "*",
+    "hexo-renderer-nunjucks": "^2.0.0",
     "hexo-seo": "^1.4.3",
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "^1.2.3",
@@ -42,11 +44,11 @@
     "warehouse": "^5.0.1"
   },
   "devDependencies": {
-    "@types/bootstrap": "^5",
     "@types/fs-extra": "^11.0.4",
     "binary-collections": "^2.0.6",
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz",
+    "hexo-theme-flowbite": "*",
     "js-yaml": "^4.1.0",
     "moment": "^2.30.1",
     "prompt": "^1.3.0",

@@ -100,14 +100,18 @@ pagination_dir: page
 include:
 exclude:
   - "**/assemble-boilerplate-markdown/dest/**/*"
+  - "**/node_modules/**"
 ignore:
   - "**/assemble-boilerplate-markdown/dest/**/*"
+  - "**/node_modules/**"
 skip_render:
   - "**/assemble-boilerplate-markdown/dest/**/*"
+  - "**/node_modules/**"
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: hexo-theme-flowbite
 
 # https://github.com/hexojs/hexo-renderers
 renderers:

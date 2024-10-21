@@ -64,21 +64,17 @@ pagination_dir: page
 include: null
 exclude:
   - "**/assemble-boilerplate-markdown/dest/**/*"
+  - "**/node_modules/**"
 ignore:
   - "**/assemble-boilerplate-markdown/dest/**/*"
+  - "**/node_modules/**"
 skip_render:
   - "**/assemble-boilerplate-markdown/dest/**/*"
-theme: butterfly
+  - "**/node_modules/**"
+theme: hexo-theme-flowbite
 renderers:
   engines:
-    - ejs
-    - stylus
-    - nunjucks
-    - dartsass
-    - pug
-    - sass
     - markdown-it
-    - rollup
   generator:
     - related-posts
     - meta

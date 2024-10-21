@@ -66,9 +66,10 @@ module.exports = reloadHexoConfigYml;
 
 if (require.main === module) {
   reloadHexoConfigYml(__dirname, {
-    theme: 'butterfly',
+    theme: 'hexo-theme-flowbite',
     renderers: {
-      engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup'],
+      // engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup'],
+      engines: ['markdown-it'],
       generator: ['related-posts', 'meta']
     }
   });
