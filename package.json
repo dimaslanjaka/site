@@ -4,13 +4,15 @@
   "private": true,
   "scripts": {
     "start": "npm run server",
-    "build": "hexo generate",
-    "clean": "hexo clean",
+    "build": "clear && hexo generate --debug",
+    "clean": "hexo clean && rimraf source/_posts source/page/random && git restore source/_posts",
     "deploy": "hexo deploy",
-    "server": "hexo server -p 4000",
+    "server": "clear && hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
     "update:ncu": "npm-check-updates -u -x chalk",
-    "postinstall": "node random-post.cjs && node init-source-posts.cjs && node _config.loader.cjs"
+    "random-post": "node random-post.cjs",
+    "postinstall": "node _config.loader.cjs",
+    "post:copy": "node init-source-posts.cjs && sbg post copy"
   },
   "hexo": {
     "version": "7.3.0"
@@ -33,9 +35,7 @@
     "hexo-seo": "^1.4.3",
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "^1.2.3",
-    "hexo-theme-landscape": "*",
     "hexo-util": "^3.3.0",
-    "markdown-it-table-of-contents": "*",
     "material-components-web": "^14.0.0",
     "static-blog-generator": "*",
     "upath": "^2.0.1",
@@ -50,7 +50,8 @@
     "js-yaml": "^4.1.0",
     "moment": "^2.30.1",
     "prompt": "^1.3.0",
-    "yaml": "^2.5.1"
+    "rimraf": "^6.0.1",
+    "yaml": "^2.6.0"
   },
   "description": "page builder for `hexo-renderers`",
   "main": "random-post.js",

@@ -140,9 +140,9 @@ markdown:
         shortcuts:
           laughing: ':D'
     # installed plugins
-    - name: markdown-it-table-of-contents
-      options:
-        includeLevel: [1,2,3,4,5,6]
+    # - name: markdown-it-table-of-contents
+    #   options:
+    #     includeLevel: [1,2,3,4,5,6]
   anchors:
     # Minimum level for ID creation. (Ex. h2 to h6)
     level: 2
