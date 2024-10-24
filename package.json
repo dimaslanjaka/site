@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "start": "npm run server",
-    "build": "hexo generate",
-    "clean": "hexo clean",
+    "build": "clear && hexo generate",
+    "clean": "clear && hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server -p 4000",
+    "server": "clear && hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
     "install-git": "npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git && npm i git+https://github.com/dimaslanjaka/hexo-adsense.git",
     "update": "npx npm-check-updates -u"
