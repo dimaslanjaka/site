@@ -114,8 +114,9 @@ skip_render:
 theme: hexo-theme-flowbite
 
 # https://github.com/hexojs/hexo-renderers
-renderers:
-  html_tags: ['summary', 'details', 'detail']
+# renderers:
+#   engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup']
+#   html_tags: ['summary', 'details', 'detail']
 markdown:
   preset: 'default'
   render:

@@ -72,12 +72,6 @@ skip_render:
   - "**/assemble-boilerplate-markdown/dest/**/*"
   - "**/node_modules/**"
 theme: hexo-theme-flowbite
-renderers:
-  engines:
-    - markdown-it
-  generator:
-    - related-posts
-    - meta
 markdown:
   preset: default
   render:
@@ -164,3 +158,11 @@ seo:
       - webmanajemen.com
       - web-manajemen.blogspot.com
   sitemap: true
+renderers:
+  generator:
+    - related-posts
+    - meta
+  html_tags:
+    - summary
+    - details
+    - detail

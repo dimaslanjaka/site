@@ -69,8 +69,9 @@ if (require.main === module) {
     theme: 'hexo-theme-flowbite',
     renderers: {
       // engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup'],
-      engines: ['markdown-it'],
-      generator: ['related-posts', 'meta']
+      // engines: ['markdown-it'],
+      generator: ['related-posts', 'meta'],
+      html_tags: ['summary', 'details', 'detail']
     }
   });
   // reloadHexoConfigYml(__dirname, { theme: 'claudia' });

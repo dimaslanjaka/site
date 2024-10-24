@@ -1,12 +1,11 @@
 {
-  "name": "hexo-renderers-test",
+  "name": "hexo-renderers-site",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "npm run server",
     "build": "clear && hexo generate --debug",
-    "clean": "hexo clean && rimraf source/_posts source/page/random && git restore source/_posts",
-    "deploy": "hexo deploy",
+    "clean": "clear && hexo clean && rimraf source/_posts source/page/random && git restore source/_posts",
     "server": "clear && hexo server -p 4000 --debug",
     "serve-static": "php -S localhost:4000 -t public/",
     "update:ncu": "npm-check-updates -u -x chalk",
@@ -20,25 +19,20 @@
   "workspaces": [
     "themes/*"
   ],
-  "engines": {
-    "node": ">=8"
-  },
   "dependencies": {
     "fs-extra": "^11.2.0",
     "hexo": "^7.3.0",
     "hexo-asset-link": "^2.2.3",
-    "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-cli": "^4.3.2",
     "hexo-front-matter": "^4.2.1",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-tag": "^2.0.0",
     "hexo-log": "^4.1.0",
-    "hexo-renderer-nunjucks": "^2.0.0",
+    "hexo-renderers": "workspace:^",
     "hexo-seo": "^1.4.3",
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "^1.2.3",
     "hexo-util": "^3.3.0",
-    "material-components-web": "^14.0.0",
     "static-blog-generator": "*",
     "upath": "^2.0.1",
     "warehouse": "^5.0.1"
