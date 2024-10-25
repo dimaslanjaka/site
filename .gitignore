@@ -21,3 +21,5 @@ source/page/random
 source/_posts
 !source/_posts/*.md
 !source/_posts/yihui/**/*
+source/hexo-search.json
+_config.yml
