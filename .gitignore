@@ -14,3 +14,5 @@ packages/hexo-admin
 .yarn/*.gz
 source/hexo-blogger-xml.json
 source/hexo-seo-search.json
+source/rss.xml
+source/atom.xml

@@ -10,7 +10,9 @@
     "server": "clear && hexo server -p 4000",
     "serve-static": "php -S localhost:4000 -t public/",
     "install-git": "npm i git+https://github.com/dimaslanjaka/hexo-seo.git && npm i git+https://github.com/dimaslanjaka/hexo-blogger-xml.git && npm i git+https://github.com/dimaslanjaka/hexo-adsense.git",
-    "update": "npx npm-check-updates -u"
+    "update": "npx npm-check-updates -u",
+    "generate:search": "hexo seo-search",
+    "generate:feed": "hexo seo-feed"
   },
   "hexo": {
     "version": "7.3.0"
