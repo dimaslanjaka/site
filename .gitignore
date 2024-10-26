@@ -16,3 +16,5 @@ source/hexo-blogger-xml.json
 source/hexo-seo-search.json
 source/rss.xml
 source/atom.xml
+source/page/random
+source/_posts/random

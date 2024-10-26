@@ -1,6 +1,3 @@
-/* eslint-disable no-mixed-operators */
-/* eslint-disable node/no-extraneous-require */
-/* eslint-disable node/no-unpublished-require */
 'use strict';
 
 const { existsSync, mkdirSync, writeFileSync, rmSync } = require('fs');
@@ -39,7 +36,7 @@ prompt.get(properties, (err, result) => {
 });
 
 function generate(countArticle) {
-  return Array.from(Array(countArticle).keys()).map(n => {
+  return Array.from(Array(countArticle).keys()).map((n) => {
     // make random post latest to 2021-11-25
     // prevent indicator post overriden
     const created = randomDate(new Date(2012, 0, 1), moment('2021-11-25').toDate());
@@ -74,7 +71,7 @@ function generate(countArticle) {
 function create(posts, sourceDir) {
   if (existsSync(sourceDir)) rmSync(sourceDir, { recursive: true, force: true });
   if (!existsSync(sourceDir)) mkdirSync(sourceDir, { recursive: true });
-  posts.forEach(post => {
+  posts.forEach((post) => {
     post.date = moment(post.date).format('YYYY-MM-DDTHH:mm:ssZ');
     post.updated = moment(post.updated).format('YYYY-MM-DDTHH:mm:ssZ');
     const content = post.content;
