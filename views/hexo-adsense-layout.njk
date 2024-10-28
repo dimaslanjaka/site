@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ page.title }}</title>
+        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+              rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/flowbite@1.5.1/dist/flowbite.min.css"
+              rel="stylesheet">
+        <style>
+            /* Apply fixed positioning only on screens wider than 1024px (large and up) */
+            @media (min-width: 1024px) {
+                .fixed-left-aside {
+                    position: fixed;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    width: 15%;
+                }
+                .fixed-right-aside {
+                    position: fixed;
+                    top: 0;
+                    bottom: 0;
+                    right: 0;
+                    width: 15%;
+                }
+                .main-content {
+                    margin-left: 15%;
+                    margin-right: 15%;
+                }
+            }
+        </style>
+    </head>
+    <body class="bg-gray-100 flex flex-col lg:flex-row">
+        <!-- Left Aside -->
+        <aside class="fixed-left-aside bg-blue-600 text-white p-4 w-full lg:w-auto lg:block">
+            <h2 class="text-xl font-semibold">Left Sidebar</h2>
+            <!-- Large banner left -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-1048456668116270"
+                 data-ad-slot="7559231368"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </aside>
+        <!-- Main Content -->
+        <main class="main-content p-4 lg:w-2/3 w-full bg-white mx-auto">
+            <h1 class="text-3xl font-bold mb-4">Main Content Area</h1>
+            <p>This is where the main content goes. On mobile, this section will take up the full width of the screen.</p>
+            <ins class="adsbygoogle"
+                 style="display:block;
+                        text-align:center"
+                 data-ad-layout="in-article"
+                 data-ad-format="fluid"
+                 data-ad-client="ca-pub-1048456668116270"
+                 data-ad-slot="8640099506"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            {{ page.content }}
+        </main>
+        <!-- Right Aside -->
+        <aside class="fixed-right-aside bg-green-600 text-white p-4 w-full lg:w-auto lg:block">
+            <h2 class="text-xl font-semibold">Right Sidebar</h2>
+            <!-- Large banner right -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-1048456668116270"
+                 data-ad-slot="3815148236"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </aside>
+        <script src="https://cdn.jsdelivr.net/npm/flowbite@1.5.1/dist/flowbite.min.js"></script>
+    </body>
+</html>

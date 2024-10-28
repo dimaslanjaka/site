@@ -1,13 +1,17 @@
 ---
-title: Blockquote Shortcode
+title: Post with adsense
 tags:
   - blockquote
   - shortcode
 category:
   - hexo
+date: 2021-10-28T12:43:49+07:00
+updated: 2024-10-28T12:43:49+07:00
 ---
 
-# Blockquote shortcode hexo
+This post is no spesification, just normal post.
+
+## Blockquote shortcode hexo
 print blockquote with official hexo shortcode
 
 ## Using Shortcode

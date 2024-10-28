@@ -96,7 +96,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
-# https://github.com/hexojs/hexo-renderer-markdown-it
+# https://github.com/hexojs/hexo-renderers
+renderers:
+  engines: [ejs, nunjucks]
 markdown:
   preset: 'default'
   render:
@@ -119,11 +121,6 @@ markdown:
     permalinkSymbol: '¶'
     case: 0
     separator: '-'
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ""
 
 # https://github.com/hexojs/hexo-browsersync
 browsersync:
@@ -200,11 +197,9 @@ adsense:
   # enable(true) or disable(false)
   enable: true
   # ca-pub-xxxx
-  pub: ca-pub-1165447249910969
-  # in-article ads source
-  article_ads:
-    - "source/ads/in_article.html"
-    - "source/ads/in_article2.html"
+  pub: ca-pub-1048456668116270
+  # enable in-article
+  article_ads: true
   # ads field
   field: "site" # post=only post, site=all pages and posts
   # auto redirect to https
