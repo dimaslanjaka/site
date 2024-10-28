@@ -13,7 +13,8 @@
     right: -($sidebar-width)
     z-index: 103
     overflow-x: hidden
-    overflow-y: auto
+    overflow-y: scroll
+    padding-left: 5px
     width: $sidebar-width
     height: 100%
     background: var(--sidebar-bg)
@@ -23,61 +24,55 @@
       transform: translate3d(-100%, 0, 0)
 
     & > .avatar-img
-      margin: 1rem auto
+      margin: 20px auto
 
     .site-data
-      display: table
-      padding: 0 .5rem
-      width: 100%
-      table-layout: fixed
-
-      .data-item
-        display: table-cell
-
-        .data-item-link
-          & > a > div
-            @extend .limit-one-line
-
-          .length-num
-            color: var(--text-highlight-color)
-            font-size: 1.28em
-
-          .headline
-            color: var(--font-color)
+      padding: 0 10px
 
     hr
-      margin: 1rem auto
+      margin: 20px auto
 
     .menus_items
-      padding: 0 .5rem 2rem
+      margin: 20px
+      padding: 15px
+      background: var(--sidebar-menu-bg)
+      box-shadow: 0 0 1px 1px rgba(7, 17, 27, .05)
+      addBorderRadius(10)
 
       .site-page
         @extend .limit-one-line
         position: relative
         display: block
-        padding: .3rem 1.5rem .3rem 1.1rem
+        margin: 4px 0
+        padding: 2px 23px 2px 15px
         color: var(--font-color)
         font-size: 1.15em
+        cursor: pointer
+        addBorderRadius(6)
 
         &:hover
           background: var(--text-bg-hover)
+          color: var(--white)
 
         i:first-child
           width: 15%
           text-align: left
 
-      .expand
-        position: absolute
-        top: .78em
-        right: .9rem
-        transition: transform .3s
+        &.group
+          & > i:last-child
+            position: absolute
+            top: .6em
+            right: 10px
+            transition: transform .3s
 
-        &.hide
-          transform: rotate(90deg) !important
+          &.hide
+            & > i:last-child
+              transform: rotate(90deg)
+
+            & + .menus_item_child
+              display: none
 
       .menus_item_child
         margin: 0
+        padding-left: 25px
         list-style: none
-
-        if hexo-config('hide_sidebar_menu_child')
-          display: none

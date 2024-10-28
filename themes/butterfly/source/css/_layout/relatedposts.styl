@@ -1,5 +1,5 @@
 .relatedPosts
-  margin-top: 2rem
+  margin-top: 40px
 
   & > .headline
     margin-bottom: 5px
@@ -7,20 +7,11 @@
     font-size: 1.43em
 
   & > .relatedPosts-list
-    & > div
-      position: relative
-      display: inline-block
-      overflow: hidden
+    & > a
       margin: 3px
       width: calc(33.333% - 6px)
       height: 200px
-      background: $dark-black
-      vertical-align: bottom
-
-      &:hover
-        .cover
-          opacity: .8
-          transform: scale(1.1)
+      addBorderRadius()
 
       +maxWidth768()
         margin: 2px
@@ -30,25 +21,11 @@
       +maxWidth600()
         width: calc(100% - 4px)
 
-    .cover
-      width: 100%
-      height: 100%
-      opacity: .4
-      transition: all .6s
-      object-fit: cover
+    .info
+      .info-1
+        .info-item-2
+          -webkit-line-clamp: 2
 
-    .content
-      position: absolute
-      top: 50%
-      padding: 0 1rem
-      width: 100%
-      transform: translate(0, -50%)
-
-      .date
-        color: var(--light-grey)
-        font-size: 90%
-
-      .title
-        @extend .limit-more-line
-        color: var(--white)
-        -webkit-line-clamp: 2
+      .info-2
+        .info-item-1
+          -webkit-line-clamp: 3

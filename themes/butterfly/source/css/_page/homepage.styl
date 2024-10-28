@@ -1,47 +1,40 @@
+$indexLayout = hexo-config('index_layout') || 1
+$indexEnable = hexo-config('cover.index_enable')
+
 #recent-posts
-  & > .recent-post-item:not(:first-child)
-    margin-top: 1rem
+  .recent-post-item
+    @extend .cardHover
+    position: relative
+    overflow: hidden
+    margin-bottom: 20px
 
-  & > .recent-post-item
-    display: flex
-    flex-direction: row
-    align-items: center
-    height: 20em
-    border-radius: 12px 8px 8px 12px
-    background: var(--card-bg)
-    box-shadow: var(--card-box-shadow)
-    transition: all .3s
+    if $indexLayout == 6 || ($indexLayout == 7)
+      display: inline-block
+      width: calc(100% / 2 - 8px)
+      vertical-align: top
 
-    +maxWidth768()
-      border-radius: 12px 12px 8px 8px
+      +maxWidth768()
+        width: 100%
+
+      +minWidth2000()
+        width: calc(100% / 3 - 8px)
+
+    if $indexLayout == 1 || ($indexLayout == 2 || ($indexLayout == 3))
+      display: flex
+      flex-direction: row
+      align-items: center
+      height: 16.8em
+
+      +maxWidth768()
+        flex-direction: column
+        height: auto
+
+      +minWidth2000()
+        height: 18.8em
 
     &:hover
-      box-shadow: var(--card-hover-box-shadow)
-
-      img.post_bg
+      .post-bg
         transform: scale(1.1)
-
-    if hexo-config('cover.position') == 'both'
-      .left_radius
-        border-radius: 8px 0 0 8px
-
-      .right_radius
-        order: 2
-        border-radius: 0 8px 8px 0
-    else if hexo-config('cover.position') == 'left'
-      .left_radius
-        border-radius: 8px 0 0 8px
-
-      .right_radius
-        border-radius: 8px 0 0 8px
-    else if hexo-config('cover.position') == 'right'
-      .left_radius
-        order: 2
-        border-radius: 0 8px 8px 0
-
-      .right_radius
-        order: 2
-        border-radius: 0 8px 8px 0
 
     &.ads-wrap
       display: block !important
@@ -49,74 +42,128 @@
 
     .post_cover
       overflow: hidden
-      width: 45%
-      height: 100%
-      -webkit-mask-image: -webkit-radial-gradient(white, black)
 
-      img.post_bg
-        width: 100%
+      if ($indexLayout != 5 && ($indexLayout != 7))
+        +maxWidth768()
+          width: 100%
+          height: 230px
+
+      if $indexLayout == 1 || ($indexLayout == 2 || ($indexLayout == 3))
+        width: 42%
         height: 100%
-        transition: all .6s
-        object-fit: cover
 
-        &:hover
-          transform: scale(1.1)
+        &.right
+          order: 1
+
+          +maxWidth768()
+            order: 0
+
+      if $indexLayout == 4 || ($indexLayout == 5 || ($indexLayout == 6 || ($indexLayout == 7)))
+        width: 100%
+
+        if ($indexLayout == 5 || ($indexLayout == 7))
+          height: 17em
+        else
+          height: 230px
+
+      if ($indexLayout == 5 || ($indexLayout == 7)) && $indexEnable
+        &:before
+          position: absolute
+          z-index: 1
+          width: 100%
+          height: 100%
+          background-color: rgba(18, 18, 18, .4)
+          content: ''
+          backdrop-filter: blur(3px)
+
+      .post-bg
+        z-index: -4
+        @extend .imgHover
 
     & >.recent-post-info
-      display: inline-block
-      overflow: hidden
-      padding: 0 40px
-      width: 55%
+      +maxWidth768()
+        padding: 20px 20px 30px
+        width: 100%
+
+      if $indexLayout == 1 || ($indexLayout == 2 || ($indexLayout == 3))
+        padding: 0 40px
+        width: 58%
+
+      if $indexLayout == 4 || ($indexLayout == 5 || ($indexLayout == 6 || ($indexLayout == 7)))
+        padding: 30px 30px 25px
+
+      if ($indexLayout == 5 || ($indexLayout == 7)) && $indexEnable
+        &:not(.no-cover)
+          position: absolute
+          top: 50%
+          z-index: 2
+          width: 100%
+          color: var(--text-highlight-color)
+          transform: translateY(-50%)
+          --text-highlight-color: rgba(255, 255, 255, 1)
+          --card-meta: rgba(255, 255, 255, .7)
 
       &.no-cover
-        width: 100%
+        +maxWidth768()
+          padding: 30px 20px
+
+        if $indexLayout == 1 || ($indexLayout == 2 || ($indexLayout == 3))
+          width: 100%
+
+        if $indexLayout == 4 || ($indexLayout == 5 || ($indexLayout == 6 || ($indexLayout == 7)))
+          padding: 35px 30px
 
       & > .article-title
         @extend .limit-more-line
-        margin-bottom: .3rem
         color: var(--text-highlight-color)
-        font-size: 1.72em
+        font-size: 1.55em
         line-height: 1.4
         transition: all .2s ease-in-out
         -webkit-line-clamp: 2
+
+        .sticky
+          margin-right: 10px
+          color: $sticky-color
+          transform: rotate(45deg)
+
+        +maxWidth768()
+          font-size: 1.43em
 
         &:hover
           color: $text-hover
 
       & > .article-meta-wrap
-        color: $theme-meta-color
-        font-size: 90%
+        margin: 6px 0
+        color: var(--card-meta)
+        font-size: .9em
 
         & > .post-meta-date
           cursor: default
 
-        .sticky
-          color: $sticky-color
-
         i
-          margin: 0 .2rem 0 0
+          margin: 0 4px 0 0
+
+        .fa-spinner
+          margin: 0
 
         .article-meta-label
           if hexo-config('post_meta.page.label')
-            padding-right: .2rem
+            padding-right: 4px
           else
             display: none
 
-        .article-meta__separator
-          margin: 0 .3rem
+        .article-meta-separator
+          margin: 0 6px
 
-        .article-meta__link
-          margin: 0 .2rem
-
-        .fa-angle-right
-          margin: 0 .2rem
+        .article-meta-link
+          margin: 0 4px
 
         if hexo-config('post_meta.page.date_format') == 'relative'
           time
             display: none
 
         a
-          color: $theme-meta-color
+          color: var(--card-meta)
 
           &:hover
             color: $text-hover
@@ -124,31 +171,4 @@
 
       & > .content
         @extend .limit-more-line
-        margin-top: .3rem
-        -webkit-line-clamp: 3
-
-+maxWidth768()
-  #recent-posts
-    .recent-post-item
-      flex-direction: column
-      height: auto !important
-
-      .post_cover
-        order: 1 !important
-        width: 100%
-        height: 230px
-        border-radius: 8px 8px 0 0
-
-      .recent-post-info
-        order: 2 !important
-        padding: 1rem 1rem 1.5rem
-        width: 100%
-
-        &.no-cover
-          padding: 1.5rem 1rem
-
-        .article-title
-          font-size: 1.43em
-
-        .content
-          height: auto
+        -webkit-line-clamp: 2
