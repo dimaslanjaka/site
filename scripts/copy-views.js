@@ -5,7 +5,7 @@ const Hexo = require('hexo');
 const base_dir = path.join(__dirname, '..');
 
 // copy custom views to theme directory
-function main() {
+async function main() {
   const views = path.join(hexo.base_dir, 'views');
   if (fs.existsSync(views)) {
     const layouts = glob.globSync('**/*.njk', { cwd: views, absolute: true }).map((src) => {
@@ -36,5 +36,7 @@ if (typeof hexo !== 'undefined') {
   hexo
     .init()
     .then(() => hexo.load())
-    .then(main);
+    .then(() => main())
+    .then(() => hexo.exit())
+    .catch((e) => hexo.exit(e));
 }
