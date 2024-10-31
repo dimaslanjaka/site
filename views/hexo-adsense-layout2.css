@@ -24,3 +24,30 @@
     margin-left: 0;
   }
 }
+
+/* FIGURE HIGHTLIGHT */
+
+/* Main container styling */
+figure.highlight {
+  border: 1px solid #1971c9;
+  border-radius: 0.25rem;
+  padding: 0.75rem;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* Table structure */
+figure.highlight table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Gutter (line numbers) styling */
+figure .gutter {
+  color: #6c757d;
+  padding: 0 1rem; /* Add horizontal padding for spacing */
+  text-align: right;
+  vertical-align: top;
+  width: 2.5em; /* Set a fixed width to limit gutter size */
+  white-space: nowrap; /* Prevent line wrapping */
+}
