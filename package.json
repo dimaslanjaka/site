@@ -26,8 +26,7 @@
     "hexo-renderers": "^3.0.0",
     "hexo-seo": "*",
     "hexo-server": "^2.0.0",
-    "hexo-shortcodes": "^1.2.4",
-    "hexo-theme-butterfly": "*"
+    "hexo-shortcodes": "^1.2.4"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
