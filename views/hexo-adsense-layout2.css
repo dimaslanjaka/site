@@ -9,7 +9,7 @@
   overflow-y: auto;
 }
 /* Content area styling */
-#content {
+#post {
   margin-left: 350px;
   padding: 20px;
 }
@@ -20,7 +20,7 @@
     position: relative;
     height: auto;
   }
-  #content {
+  #post {
     margin-left: 0;
   }
 }
