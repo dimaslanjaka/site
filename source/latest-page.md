@@ -6,6 +6,8 @@ keywords:
   - latest
 tags:
   - latest page
+category:
+  - page
 ---
 
 Latest Page

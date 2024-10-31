@@ -4,7 +4,7 @@ tags:
   - blockquote
   - shortcode
 category:
-  - hexo
+  - post
 date: 2021-10-28T12:43:49+07:00
 updated: 2024-10-28T12:43:49+07:00
 ---

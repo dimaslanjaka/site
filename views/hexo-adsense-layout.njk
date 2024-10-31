@@ -8,33 +8,11 @@
               rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/flowbite@1.5.1/dist/flowbite.min.css"
               rel="stylesheet">
-        <style>
-            /* Apply fixed positioning only on screens wider than 1024px (large and up) */
-            @media (min-width: 1024px) {
-                .fixed-left-aside {
-                    position: fixed;
-                    top: 0;
-                    bottom: 0;
-                    left: 0;
-                    width: 15%;
-                }
-                .fixed-right-aside {
-                    position: fixed;
-                    top: 0;
-                    bottom: 0;
-                    right: 0;
-                    width: 15%;
-                }
-                .main-content {
-                    margin-left: 15%;
-                    margin-right: 15%;
-                }
-            }
-        </style>
+        <link rel="stylesheet" href="{{ url_for("/css/hexo-adsense-layout.css") }}" />
     </head>
     <body class="bg-gray-100 flex flex-col lg:flex-row">
         <!-- Left Aside -->
-        <aside class="fixed-left-aside bg-blue-600 text-white p-4 w-full lg:w-auto lg:block">
+        <aside class="fixed-left-aside bg-blue-600 text-white lg:block">
             <h2 class="text-xl font-semibold">Left Sidebar</h2>
             <!-- Large banner left -->
             <ins class="adsbygoogle"
@@ -46,7 +24,7 @@
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </aside>
         <!-- Main Content -->
-        <main class="main-content p-4 lg:w-2/3 w-full bg-white mx-auto">
+        <main id="post" class="main-content p-4 bg-white mx-auto">
             <h1 class="text-3xl font-bold mb-4">Main Content Area</h1>
             <p>This is where the main content goes. On mobile, this section will take up the full width of the screen.</p>
             <ins class="adsbygoogle"
@@ -57,10 +35,10 @@
                  data-ad-client="ca-pub-1048456668116270"
                  data-ad-slot="8640099506"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-            {{ page.content }}
+            <div class="content-wrapper prose lg:prose-lg max-w-full">{{ page.content }}</div>
         </main>
         <!-- Right Aside -->
-        <aside class="fixed-right-aside bg-green-600 text-white p-4 w-full lg:w-auto lg:block">
+        <aside class="fixed-right-aside bg-green-600 text-white lg:block">
             <h2 class="text-xl font-semibold">Right Sidebar</h2>
             <!-- Large banner right -->
             <ins class="adsbygoogle"
