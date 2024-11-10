@@ -59,6 +59,7 @@ async function reloadHexoConfigYml(base = undefined, overriden = {}) {
   layouts.forEach(({ src, dest }) => {
     fs.copySync(src, dest);
   });
+  await hexo.exit();
   return options;
 }
 
@@ -68,10 +69,12 @@ if (require.main === module) {
   reloadHexoConfigYml(__dirname, {
     theme: 'hexo-theme-flowbite',
     renderers: {
-      // engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup'],
-      // engines: ['markdown-it'],
+      engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup'],
       generator: ['related-posts', 'meta'],
-      html_tags: ['summary', 'details', 'detail']
+      html_tags: ['summary', 'details', 'detail'],
+      fix: {
+        html: true
+      }
     }
   });
   // reloadHexoConfigYml(__dirname, { theme: 'claudia' });

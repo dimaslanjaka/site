@@ -5,13 +5,15 @@
   "scripts": {
     "start": "npm run server",
     "build": "clear && hexo generate --debug",
-    "clean": "clear && hexo clean && rimraf source/_posts source/page/random && git restore source/_posts",
-    "server": "clear && hexo server -p 4000 --debug",
+    "clean": "clear && hexo clean",
+    "clean:post": "rimraf source/_posts source/page/random && git restore source/_posts",
+    "server": "clear && hexo server -p 4000 --debug --ssl",
     "serve-static": "php -S localhost:4000 -t public/",
-    "update:ncu": "npm-check-updates -u -x chalk",
+    "update:ncu": "npm-check-updates -u",
     "random-post": "node random-post.cjs",
-    "postinstall": "node _config.loader.cjs",
-    "post:copy": "node init-source-posts.cjs && npm run clean && sbg post copy"
+    "postinstall": "node _config.loader.cjs && hexo-theme-flowbite",
+    "post:copy": "node init-source-posts.cjs && npm run clean && sbg post copy",
+    "render-cache": "clear && hexo render-cache --debug"
   },
   "hexo": {
     "version": "7.3.0"
@@ -33,6 +35,7 @@
     "hexo-server": "^3.0.0",
     "hexo-shortcodes": "^1.2.3",
     "hexo-util": "^3.3.0",
+    "material-components-web": "^14.0.0",
     "static-blog-generator": "*",
     "upath": "^2.0.1",
     "warehouse": "^5.0.1"

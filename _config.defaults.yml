@@ -46,22 +46,21 @@ relative_link: false
 future: true
 
 ## Syntax Highlighter
+# https://github.com/hexojs/hexo-util
+# https://hexo.io/docs/syntax-highlight.html
+syntax_highlighter: highlight.js
 highlight:
   enable: true
+  line_number: false
   auto_detect: false
-  line_number: true
-  line_threshold: 0
-  tab_replace: '  '
-  exclude_languages:
-    - example
+  tab_replace: '  ' # replace tabs with 2 spaces
   wrap: false
-  hljs: false
+  hljs: true
 prismjs:
   enable: false
   preprocess: true
   line_number: true
-  line_threshold: 0
-  tab_replace: ''
+  tab_replace: '  ' # replace tabs with 2 spaces
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -118,17 +117,23 @@ theme: hexo-theme-flowbite
 #   engines: ['ejs', 'stylus', 'nunjucks', 'dartsass', 'pug', 'sass', 'markdown-it', 'rollup']
 #   html_tags: ['summary', 'details', 'detail']
 markdown:
-  preset: 'default'
+  preset: default
+  # Toggle render nunjucks in markdown
+  disableNunjucks: true
   render:
     html: true
     xhtmlOut: false
-    langPrefix: 'language-'
+    # prefix class of <pre><code class="language-">
+    langPrefix: language-
     breaks: true
-    linkify: true
+    # auto convert url plaintext into anchor
+    linkify: false
     typographer: true
-    quotes: '“”‘’'
-  enable_rules:
-  disable_rules:
+    quotes: “”‘’
+    # Toggle cache
+    cache: true
+  enable_rules: null
+  disable_rules: null
   plugins:
     - markdown-it-abbr
     - markdown-it-attrs
@@ -140,35 +145,37 @@ markdown:
     - markdown-it-footnote
     - markdown-it-ins
     - markdown-it-mark
-    - name: 'markdown-it-emoji'
+    - name: "@renbaoshuo/markdown-it-katex"
+      options:
+        skipDelimitersCheck: true
+    - name: markdown-it-emoji
       options:
         shortcuts:
-          laughing: ':D'
-    # installed plugins
+          laughing: :D
+          smile: [":)", ":-)"]
     # - name: markdown-it-table-of-contents
     #   options:
-    #     includeLevel: [1,2,3,4,5,6]
+    #     includeLevel:
+    #       - 1
+    #       - 2
+    #       - 3
+    #       - 4
+    #       - 5
+    #       - 6
   anchors:
-    # Minimum level for ID creation. (Ex. h2 to h6)
     level: 2
-    # A suffix that is prepended to the number given if the ID is repeated.
-    collisionSuffix: ''
-    # If `true`, creates an anchor tag with a permalink besides the heading.
+    collisionSuffix: ""
     permalink: false
-    # Class used for the permalink anchor tag.
     permalinkClass: header-anchor
-    # Set to 'right' to add permalink after heading
-    permalinkSide: 'left'
-    # The symbol used to make the permalink
+    permalinkSide: left
     permalinkSymbol: ¶
-    # Transform anchor to (1) lower case; (2) upper case
     case: 0
-    # Replace space with a character
-    separator: '-'
+    separator: "-"
   images:
     lazyload: false
     prepend_root: false
     post_asset: true
+  inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
