@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "7.0.0-rc1"
+    "version": "7.3.0"
   },
   "scripts": {
     "build": "hexo generate",
@@ -11,28 +11,28 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "hexo": "^7.0.0-rc1",
+    "cheerio": "^1.0.0",
+    "hexo": "^7.3.0",
     "hexo-clean-css": "^2.0.0",
     "hexo-filter-nofollow": "^2.0.2",
-    "hexo-fs": "^4.1.1",
+    "hexo-fs": "^5.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-sitemap": "^3.0.1",
-    "hexo-renderer-marked": "^6.0.0",
-    "hexo-renderers": "^1.0.7",
+    "hexo-renderer-marked": "^7.0.1",
+    "hexo-renderers": "^3.0.0",
     "hexo-server": "^3.0.0",
-    "hexo-tag-embed": "^1.0.0-rc.1",
+    "hexo-tag-embed": "^1.0.0",
     "hexo-uglify": "^2.0.0",
     "lunr": "2.3.9",
-    "sharp": "^0.32.0"
+    "sharp": "^0.34.1"
   },
   "devDependencies": {
-    "eslint": "^8.37.0",
-    "eslint-config-hexo": "^5.0.0",
-    "husky": "^8.0.3",
+    "eslint": "^9.25.1",
+    "eslint-config-hexo": "^6.0.0",
+    "husky": "^9.1.7",
     "imagemin-lint-staged": "^0.5.1",
-    "lint-staged": "^13.2.1",
+    "lint-staged": "^15.5.1",
     "npm-check-updates": "^18.0.1"
   },
   "lint-staged": {
