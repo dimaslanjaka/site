@@ -11,7 +11,7 @@
     "serve-static": "php -S localhost:4000 -t public/",
     "update:ncu": "npm-check-updates -u",
     "random-post": "node random-post.cjs",
-    "postinstall": "node _config.loader.cjs && hexo-theme-flowbite",
+    "postinstall": "node postinstall.cjs",
     "post:copy": "node init-source-posts.cjs && npm run clean && sbg post copy",
     "render-cache": "clear && hexo render-cache --debug"
   },
