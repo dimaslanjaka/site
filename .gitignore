@@ -13,3 +13,8 @@ data.WordPress.2022-06-09.xml
 **/tmp
 /themes/**/hexo-adsense*
 .env
+.yarn/caches/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
