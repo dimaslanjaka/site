@@ -29,6 +29,7 @@
     "hexo-shortcodes": "^1.2.4"
   },
   "devDependencies": {
+    "binary-collections": "^2.0.10",
     "cross-env": "^7.0.3",
     "moment": "^2.29.1",
     "prompt": "^1.2.0",
@@ -36,5 +37,35 @@
   },
   "workspaces": [
     "themes/*"
-  ]
+  ],
+  "resolutions": {
+    "@types/git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/678044cf286b2bd122e3ee937852a739e804e0a5/release/git-command-helper.tgz",
+    "@types/hexo": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo.tgz",
+    "binary-collections": "https://github.com/dimaslanjaka/bin/raw/9d2f7ebf4c37cf1d58487951c9e2ad3a20b917c1/releases/bin.tgz",
+    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/80999ac7a7031a81e11ddb5fab0f8ba433041c98/release/cross-spawn.tgz",
+    "git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/678044cf286b2bd122e3ee937852a739e804e0a5/release/git-command-helper.tgz",
+    "hexo": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo.tgz",
+    "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-asset-link.tgz",
+    "hexo-cli": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-cli.tgz",
+    "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-front-matter.tgz",
+    "hexo-generator-redirect": "https://github.com/dimaslanjaka/hexo-generator-redirect/raw/a2e390c496954e7883218b9b82a09972c7507c10/release/hexo-generator-redirect.tgz",
+    "hexo-is": "https://github.com/dimaslanjaka/hexo-is/raw/73abda938a5af922ead20d84ed39628d94bd6174/release/hexo-is.tgz",
+    "hexo-log": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-log.tgz",
+    "hexo-post-parser": "https://github.com/dimaslanjaka/hexo-post-parser/raw/f7b82f38fe28e4d42a504971eadd27e517e26f13/release/hexo-post-parser.tgz",
+    "hexo-renderers": "https://github.com/dimaslanjaka/hexo-renderers/raw/b1bcde457c2c60a73f567e00bbf5157b919cec45/release/hexo-renderers.tgz",
+    "hexo-seo": "https://github.com/dimaslanjaka/hexo-seo/raw/3120fe9f709f732b93cb835fe2da5a23be6b56e2/release/hexo-seo.tgz",
+    "hexo-server": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-server.tgz",
+    "hexo-shortcodes": "https://github.com/dimaslanjaka/hexo-shortcodes/raw/2ed1250d701369b8235a02b9af834bbfc62644a0/release/hexo-shortcodes.tgz",
+    "hexo-util": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-util.tgz",
+    "instant-indexing": "https://github.com/dimaslanjaka/static-blog-generator/raw/f221d11cdc32fa7dd001e5236f8c3f30387e62d2/packages/instant-indexing/release/instant-indexing.tgz",
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/7f4f9d5ec08ebcfde42affb517ea7c8e6a305534/release/markdown-it.tgz",
+    "nodejs-package-types": "https://github.com/dimaslanjaka/nodejs-package-types/raw/5f18f2e8c4d8230f71f3f327ac14756d7eeae9ce/release/nodejs-package-types.tgz",
+    "sbg-api": "https://github.com/dimaslanjaka/static-blog-generator/raw/95400dd87106542a640092fa2073ee7d5c9b83e6/packages/sbg-api/release/sbg-api.tgz",
+    "sbg-cli": "https://github.com/dimaslanjaka/static-blog-generator/raw/8c0f903cb1643add882c32d7a2180d2b99e1154f/packages/sbg-cli/release/sbg-cli.tgz",
+    "sbg-server": "https://github.com/dimaslanjaka/static-blog-generator/raw/8c0f903cb1643add882c32d7a2180d2b99e1154f/packages/sbg-server/release/sbg-server.tgz",
+    "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/3f36c7384fa414d0207460e00c0d7d362dba995f/packages/sbg-utility/release/sbg-utility.tgz",
+    "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/8c0f903cb1643add882c32d7a2180d2b99e1154f/packages/static-blog-generator/release/static-blog-generator.tgz",
+    "warehouse": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/warehouse.tgz"
+  },
+  "packageManager": "yarn@4.12.0"
 }
