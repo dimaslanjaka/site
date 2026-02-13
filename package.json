@@ -53,7 +53,7 @@
     "hexo-log": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-log.tgz",
     "hexo-post-parser": "https://github.com/dimaslanjaka/hexo-post-parser/raw/f7b82f38fe28e4d42a504971eadd27e517e26f13/release/hexo-post-parser.tgz",
     "hexo-renderers": "https://github.com/dimaslanjaka/hexo-renderers/raw/b1bcde457c2c60a73f567e00bbf5157b919cec45/release/hexo-renderers.tgz",
-    "hexo-seo": "https://github.com/dimaslanjaka/hexo-seo/raw/3120fe9f709f732b93cb835fe2da5a23be6b56e2/release/hexo-seo.tgz",
+    "hexo-seo": "https://github.com/dimaslanjaka/hexo-seo/raw/21e024b84538853c8b8521140530694d92d64b74/release/hexo-seo.tgz",
     "hexo-server": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-server.tgz",
     "hexo-shortcodes": "https://github.com/dimaslanjaka/hexo-shortcodes/raw/2ed1250d701369b8235a02b9af834bbfc62644a0/release/hexo-shortcodes.tgz",
     "hexo-util": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v8/releases/hexo-util.tgz",
