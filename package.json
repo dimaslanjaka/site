@@ -16,18 +16,15 @@
     "render-cache": "clear && hexo render-cache --debug"
   },
   "hexo": {
-    "version": "7.3.0"
+    "version": "8.1.2"
   },
-  "workspaces": [
-    "themes/*"
-  ],
   "dependencies": {
     "fs-extra": "^11.2.0",
-    "hexo": "^7.3.0",
+    "hexo": "*",
     "hexo-asset-link": "^2.2.3",
     "hexo-cli": "^4.3.2",
     "hexo-front-matter": "^4.2.1",
-    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-category": "*",
     "hexo-generator-tag": "^2.0.0",
     "hexo-log": "^4.1.0",
     "hexo-renderers": "workspace:^",
@@ -38,11 +35,11 @@
     "material-components-web": "^14.0.0",
     "static-blog-generator": "*",
     "upath": "^2.0.1",
-    "warehouse": "^5.0.1"
+    "warehouse": "*"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "binary-collections": "^2.0.6",
+    "binary-collections": "^2.0.10",
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz",
     "hexo-theme-flowbite": "*",
