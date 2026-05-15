@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "binary-collections": "^2.0.10",
+    "binary-collections": "^2.0.11",
     "cross-env": "^7.0.3",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz",
     "hexo-theme-flowbite": "*",
