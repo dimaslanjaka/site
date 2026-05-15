@@ -14,7 +14,7 @@ function run(command, args, opts = {}) {
 (async () => {
   const commands = [
     { cmd: 'node', args: [path.join(__dirname, '_config.loader.cjs')] },
-    { cmd: 'npx', args: ['-y', 'hexo-theme-flowbite@https://github.com/dimaslanjaka/hexo-themes/raw/refs/heads/master/releases/hexo-theme-flowbite.tgz'] }
+    { cmd: 'npx', args: ['-y', 'hexo-theme-flowbite@https://github.com/dimaslanjaka/hexo-themes/raw/f4a146f5654ddd47c7c8930e5d07763b14f6074e/releases/hexo-theme-flowbite.tgz'] }
   ];
 
   for (const c of commands) {
