@@ -1,6 +1,7 @@
 // postinstall.cjs
 // Run original postinstall commands in a cross-platform way and suppress non-zero exit.
 const { spawn } = require('child_process');
+const path = require('path');
 
 function run(command, args, opts = {}) {
   return new Promise((resolve) => {
@@ -12,8 +13,8 @@ function run(command, args, opts = {}) {
 
 (async () => {
   const commands = [
-    { cmd: 'node', args: ['_config.loader.cjs'] },
-    { cmd: 'npx', args: ['hexo-theme-flowbite'] }
+    { cmd: 'node', args: [path.join(__dirname, '_config.loader.cjs')] },
+    { cmd: 'npx', args: ['-y', 'hexo-theme-flowbite@https://github.com/dimaslanjaka/hexo-themes/raw/refs/heads/master/releases/hexo-theme-flowbite.tgz'] }
   ];
 
   for (const c of commands) {
