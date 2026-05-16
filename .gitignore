@@ -14,12 +14,22 @@ themes/hexo-theme-*
 .yarn/cache
 .yarn/version*
 .yarn/*.gz
+
+# Themes: Ignore all contents, but keep the .gitignore file
 themes/*
 !themes/.gitignore
-source/page/random
 
-source/_posts
+# Posts: Ignore all contents in the root of _posts
+source/_posts/*
+
+# Exception: Keep all Markdown files in the root of _posts
 !source/_posts/*.md
-!source/_posts/yihui/**/*
+
+# Exception: Keep the 'yihui' folder and everything inside it
+# (We must unignore the folder first so Git looks inside it)
+!source/_posts/yihui/
+
+# Specific ignores
+source/page/random
 source/hexo-search.json
 _config.yml
