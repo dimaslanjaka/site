@@ -15,3 +15,7 @@ updated: 2023-03-27T18:54:06+07:00
 - [markdown-it-bracketed-spans](/docs/hexo-renderers/markdown-it/bracketed-spans)
 - [emoji](./markdown-it/markdown-it-emoji)
 - [math](./markdown-it/math)
+
+## Random Posts
+- [Posts](./random-posts)
+- [Pages](./random-pages)

@@ -1,88 +1,154 @@
 'use strict';
 
-const { existsSync, mkdirSync, writeFileSync, rmSync } = require('fs');
-const { join } = require('path');
-const yaml = require('yaml');
-const moment = require('moment');
 const fs = require('fs');
+const path = require('path');
+const yaml = require('yaml');
+const hexoUtil = require('hexo-util');
+const Hexo = require('hexo');
 
-let countArticle = 5000;
-if (!countArticle) countArticle = 2;
-console.log('creating', countArticle, 'posts');
-const posts = generate(countArticle);
-const sourcePostsDir = join(__dirname, 'source/_posts/random');
-create(posts, sourcePostsDir);
+const hexo = new Hexo(__dirname, { silent: true });
 
-console.log('creating', countArticle, 'pages');
-const pages = generate(countArticle);
-const sourcePageDir = join(__dirname, 'source/page/random');
-create(pages, sourcePageDir);
+const TOTAL_POSTS = 100;
 
-function generate(countArticle) {
-  return Array.from(Array(countArticle).keys()).map((n) => {
-    // make post latest to 2021-11-25
-    // prevent indicator post overriden
-    const created = randomDate(new Date(2012, 0, 1), moment('2021-11-25').toDate());
-    // latest updated based on created date
-    const updated = randomDate(new Date(2012, 0, 1), created);
-    // custom layout and tag
-    const mapLayout = [
-      { layout: 'layout-njk', tags: ['nunjucks'], category: ['nunjucks'] },
-      { layout: 'layout-ejs', tags: ['ejs'], category: ['ejs'] },
-      { layout: 'layout-pug', tags: ['pug'], category: ['pug'] }
-    ].sort(function () {
-      return 0.5 - Math.random();
-    })[0];
-    // index count, dismiss 0/zero
-    const current = n + 1;
-    const post = {
-      title: 'Post ' + current,
-      date: created,
-      keywords: ['random', 'post', 'pages'],
+const RANDOM_BODY = fs.readFileSync(path.join(__dirname, 'random-post-body.md'), 'utf8');
+
+const LAYOUTS = [
+  { layout: 'layout-njk', tags: ['nunjucks'], category: ['nunjucks'] },
+  { layout: 'layout-ejs', tags: ['ejs'], category: ['ejs'] },
+  { layout: 'layout-pug', tags: ['pug'], category: ['pug'] }
+];
+
+const DATE_START = new Date('2012-01-01');
+const DATE_END = new Date('2021-11-25');
+
+hexo.init().then(() => {
+  console.log(`Creating ${TOTAL_POSTS} posts...`);
+  create(generate(TOTAL_POSTS), path.join(__dirname, 'source/_posts/random'));
+
+  console.log(`Creating ${TOTAL_POSTS} pages...`);
+  create(generate(TOTAL_POSTS), path.join(__dirname, 'source/page/random'));
+}).catch((err) => {
+  console.error('Error initializing Hexo:', err);
+});
+
+/**
+ * Generate post data
+ */
+function generate(count, type = 'post') {
+  return Array.from({ length: count }, (_, index) => {
+    const current = index + 1;
+
+    const created = randomDate(DATE_START, DATE_END);
+    const updated = randomDate(created, new Date());
+
+    const selectedLayout = LAYOUTS[Math.floor(Math.random() * LAYOUTS.length)];
+
+    return {
+      title: `${type === 'post' ? 'Post' : 'Page'} ${current}`,
+      date: formatDate(created),
+      updated: formatDate(updated),
       author: 'Dimas Lanjaka',
-      tags: [current.toString().includes('5') && 'post has 5'],
-      category: ['random', current.toString().includes('0') ? 'post has 0' : 'uncategorized'],
-      updated: updated,
-      content: `
+      layout: selectedLayout.layout,
+      keywords: ['random', `${type === 'post' ? 'post' : 'page'}`],
+      tags: [...(current.toString().includes('5') ? ['post has 5'] : []), ...selectedLayout.tags],
+      category: [
+        'random',
+        current.toString().includes('0') ? 'post has 0' : 'uncategorized',
+        ...selectedLayout.category
+      ],
+      filename: `post-${current}.md`,
+      permalink: `/random-post-${current}.html`,
+      content: buildContent(current)
+    };
+  });
+}
+
+/**
+ * Create markdown files
+ */
+function create(posts, outputDir) {
+  cleanDir(outputDir);
+
+  const filesCreated = [];
+  for (const post of posts) {
+    const { filename, content, ...frontmatter } = post;
+    const filePath = path.join(outputDir, filename);
+    const fileContent = ['---', yaml.stringify(frontmatter).trim(), '---', '', content.trim(), ''].join('\n');
+
+    fs.writeFileSync(filePath, fileContent);
+    filesCreated.push(filePath);
+  }
+
+  const indexPath = path.join(outputDir, 'index.md');
+  fs.writeFileSync(
+    indexPath,
+    `---
+title: Index ${outputDir.includes('page') ? 'Pages' : 'Posts'}
+description: This is the index page for ${outputDir.includes('page') ? 'pages' : 'posts'}.
+permalink: /random-${outputDir.includes('page') ? 'pages' : 'posts'}/
+---
+
+# Index Page
+
+This is the index page for ${outputDir.includes('page') ? 'pages' : 'posts'}.
+
+# List of ${outputDir.includes('page') ? 'pages' : 'posts'}
+
+${posts.map((post) => `- [${post.title}](${hexoUtil.url_for.bind(hexo)(post.permalink)})`).join('\n')}
+
+    `
+  );
+  filesCreated.push(indexPath);
+
+  return filesCreated;
+}
+
+/**
+ * Remove and recreate folder
+ */
+function cleanDir(dir) {
+  fs.rmSync(dir, {
+    recursive: true,
+    force: true
+  });
+
+  fs.mkdirSync(dir, {
+    recursive: true
+  });
+}
+
+/**
+ * Build markdown content
+ */
+function buildContent(current) {
+  return `
 # Post Content
+
 This is content of post ${current}
 
 ## random image 200x300
+
 ![random image ${current}](https://picsum.photos/200/300)
-![another random image ${current}](https://picsum.photos/200/300?random=1)
+![another random image ${current}](https://picsum.photos/200/300?random=${current})
 
 ## placeholder image 640x480
+
 ![placeholder image ${current}](https://dummyimage.com/640x480/000/fff&text=Post+${current})
 
-${fs.readFileSync(join(__dirname, 'random-post-body.md'), 'utf-8')}
-      `,
-      filename: 'post-' + current + '.md'
-    };
-    post.tags = post.tags.concat(mapLayout.tags).filter((str) => typeof str === 'string' && str.trim().length > 0);
-    post.category = post.category
-      .concat(mapLayout.category)
-      .filter((str) => typeof str === 'string' && str.trim().length > 0);
-    post.layout = mapLayout.layout;
-    return post;
-  });
+${RANDOM_BODY}
+`;
 }
 
-function create(posts, sourceDir) {
-  if (existsSync(sourceDir)) rmSync(sourceDir, { recursive: true, force: true });
-  if (!existsSync(sourceDir)) mkdirSync(sourceDir, { recursive: true });
-  posts.forEach((post) => {
-    post.date = moment(post.date).format('YYYY-MM-DDTHH:mm:ssZ');
-    post.updated = moment(post.updated).format('YYYY-MM-DDTHH:mm:ssZ');
-    const content = post.content;
-    const filepath = join(sourceDir, post.filename);
-    delete post.content;
-    delete post.filename;
-    const header = yaml.stringify(post);
-    const build = `---\n${header}---\n${content}`;
-    writeFileSync(filepath, build);
-  });
-}
-
+/**
+ * Generate random date between range
+ */
 function randomDate(start, end) {
   return new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()));
+}
+
+/**
+ * Format date as ISO string
+ */
+function formatDate(date) {
+  return date.toISOString();
 }
