@@ -5,7 +5,7 @@ const path = require('path');
 
 function run(command, args, opts = {}) {
   return new Promise((resolve) => {
-    const child = spawn(command, args, Object.assign({ stdio: 'inherit', shell: true }, opts));
+    const child = spawn(command, args, Object.assign({ stdio: 'inherit', shell: true, cwd: __dirname }, opts));
     child.on('close', (code) => resolve(code));
     child.on('error', () => resolve(1));
   });
@@ -14,7 +14,7 @@ function run(command, args, opts = {}) {
 (async () => {
   const commands = [
     { cmd: 'node', args: [path.join(__dirname, '_config.loader.cjs')] },
-    { cmd: 'npx', args: ['-y', 'hexo-theme-flowbite'] }
+    { cmd: 'npx', args: ['-y', 'hexo-theme-flowbite', '--debug'] }
   ];
 
   for (const c of commands) {
