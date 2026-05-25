@@ -3,12 +3,13 @@ set -u
 
 cwd="$(pwd)"
 max_jobs=4
-log_file="${cwd}/cleanup.log"
-fail_file="${cwd}/cleanup.failed.log"
 
-# reset logs
-: > "$log_file"
-: > "$fail_file"
+# colors
+GREEN='\033[0;32m'
+RED='\033[0;31m'
+GRAY='\033[0;90m'
+BLUE='\033[0;34m'
+NC='\033[0m'
 
 timestamp() {
   date "+%Y-%m-%d %H:%M:%S"
@@ -17,17 +18,27 @@ timestamp() {
 relative_path() {
   local path="$1"
 
-  # remove cwd prefix
   path="${path#"$cwd"/}"
 
-  # fallback for exact cwd match
   [[ "$path" == "$cwd" ]] && path="."
 
   echo "$path"
 }
 
 log() {
-  echo "[$(timestamp)] $*" | tee -a "$log_file"
+  local level="$1"
+  shift
+
+  local color="$NC"
+
+  case "$level" in
+    OK) color="$GREEN" ;;
+    FAIL) color="$RED" ;;
+    SKIP) color="$GRAY" ;;
+    INFO) color="$BLUE" ;;
+  esac
+
+  echo -e "${color}[$(timestamp)] [$level] $*${NC}"
 }
 
 cleanup_letter() {
@@ -48,16 +59,15 @@ cleanup_letter() {
     rel="$(relative_path "$path")"
 
     if rm -rf "$path"; then
-      log "[OK] Removed: $rel"
+      log OK "$rel"
       removed_any=1
     else
-      log "[ERROR] Failed to remove: $rel"
-      echo "$rel" >> "$fail_file"
+      log FAIL "$rel"
     fi
   done
 
   if (( removed_any == 0 )); then
-    log "[SKIP] No matching packages for '${letter}'"
+    log SKIP "'${letter}'"
   fi
 }
 
@@ -66,9 +76,10 @@ export -f log
 export -f timestamp
 export -f relative_path
 
-export cwd log_file fail_file
+export cwd
+export GREEN RED GRAY BLUE NC
 
-log "[START] Cleaning: $(relative_path "${cwd}/node_modules")"
+log INFO "Cleaning $(relative_path "${cwd}/node_modules")"
 
 running=0
 
@@ -85,34 +96,15 @@ done
 
 wait
 
-log "[PHASE] Letter cleanup completed"
-log "[PHASE] Removing remaining node_modules directory"
+log INFO "Removing remaining node_modules"
 
-# final cleanup
 final_target="${cwd}/node_modules"
 final_rel="$(relative_path "$final_target")"
 
 if rm -rf "$final_target"; then
-  log "[OK] Removed directory: $final_rel"
+  log OK "$final_rel"
 else
-  log "[ERROR] Failed to remove directory: $final_rel"
-  echo "$final_rel" >> "$fail_file"
+  log FAIL "$final_rel"
 fi
 
-log "[DONE] Cleanup finished"
-
-# summary report
-echo ""
-echo "================ CLEANUP SUMMARY ================"
-echo "Log file : $(relative_path "$log_file")"
-
-if [[ -s "$fail_file" ]]; then
-  echo ""
-  echo "Failed paths:"
-  cat "$fail_file"
-else
-  echo ""
-  echo "No failures detected."
-fi
-
-echo "================================================="
+log INFO "Done"
