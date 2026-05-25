@@ -38,6 +38,7 @@
     "warehouse": "*"
   },
   "devDependencies": {
+    "@dimaslanjaka/eslint-base-config": "^1.0.0",
     "@types/fs-extra": "^11.0.4",
     "binary-collections": "^2.0.11",
     "cross-env": "^7.0.3",
