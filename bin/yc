@@ -38,7 +38,7 @@ log() {
     INFO) color="$BLUE" ;;
   esac
 
-  echo -e "${color}[$(timestamp)] [$level] $*${NC}"
+  echo -e "[${GRAY}$(timestamp)${NC}] [${color}${level}${NC}] $*"
 }
 
 cleanup_letter() {
