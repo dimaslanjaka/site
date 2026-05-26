@@ -41,20 +41,61 @@ log() {
   echo -e "[${GRAY}$(timestamp)${NC}] [${color}${level}${NC}] $*"
 }
 
+# collect all node_modules targets
+declare -a NODE_MODULES_TARGETS
+
+# root node_modules
+NODE_MODULES_TARGETS+=("${cwd}/node_modules")
+
+# yarn workspaces node_modules
+if command -v yarn >/dev/null 2>&1 && command -v jq >/dev/null 2>&1; then
+  while IFS='|' read -r workspace_name workspace_location; do
+    workspace_path="${cwd}/${workspace_location}"
+    workspace_node_modules="${workspace_path}/node_modules"
+
+    [[ -d "$workspace_path" ]] || continue
+
+    NODE_MODULES_TARGETS+=("$workspace_node_modules")
+  done < <(
+    yarn workspaces list --json 2>/dev/null |
+    jq -r '"\(.name)|\(.location)"'
+  )
+else
+  log SKIP "yarn or jq not found"
+fi
+
+# remove duplicate paths
+declare -A seen_targets
+declare -a unique_targets
+
+for target in "${NODE_MODULES_TARGETS[@]}"; do
+  [[ -n "${seen_targets[$target]:-}" ]] && continue
+
+  seen_targets["$target"]=1
+  unique_targets+=("$target")
+done
+
+NODE_MODULES_TARGETS=("${unique_targets[@]}")
+
 cleanup_letter() {
-  local letter="$1"
+  local base="$1"
+  local letter="$2"
+
+  [[ -d "$base" ]] || return 0
 
   shopt -s nullglob
 
   local targets=(
-    "${cwd}/node_modules/${letter}"*
-    "${cwd}/node_modules/@types/${letter}"*
-    "${cwd}/node_modules/@${letter}"*
+    "${base}/${letter}"*
+    "${base}/@types/${letter}"*
+    "${base}/@${letter}"*
   )
 
   local removed_any=0
 
   for path in "${targets[@]}"; do
+    [[ -e "$path" ]] || continue
+
     local rel
     rel="$(relative_path "$path")"
 
@@ -67,7 +108,7 @@ cleanup_letter() {
   done
 
   if (( removed_any == 0 )); then
-    log SKIP "'${letter}'"
+    log SKIP "$(relative_path "$base") '${letter}'"
   fi
 }
 
@@ -79,32 +120,41 @@ export -f relative_path
 export cwd
 export GREEN RED GRAY BLUE NC
 
-log INFO "Cleaning $(relative_path "${cwd}/node_modules")"
+log INFO "Detected ${#NODE_MODULES_TARGETS[@]} node_modules directories"
+
+for target in "${NODE_MODULES_TARGETS[@]}"; do
+  log INFO "$(relative_path "$target")"
+done
 
 running=0
 
-for letter in $(printf "%s\n" {a..z} | shuf); do
-  cleanup_letter "$letter" &
+for base in "${NODE_MODULES_TARGETS[@]}"; do
+  for letter in $(printf "%s\n" {a..z} | shuf); do
+    cleanup_letter "$base" "$letter" &
 
-  ((running++))
+    ((running++))
 
-  if (( running >= max_jobs )); then
-    wait -n
-    ((running--))
-  fi
+    if (( running >= max_jobs )); then
+      wait -n
+      ((running--))
+    fi
+  done
 done
 
 wait
 
-log INFO "Removing remaining node_modules"
+log INFO "Removing remaining node_modules directories"
 
-final_target="${cwd}/node_modules"
-final_rel="$(relative_path "$final_target")"
+for target in "${NODE_MODULES_TARGETS[@]}"; do
+  [[ -e "$target" ]] || continue
 
-if rm -rf "$final_target"; then
-  log OK "$final_rel"
-else
-  log FAIL "$final_rel"
-fi
+  rel="$(relative_path "$target")"
+
+  if rm -rf "$target"; then
+    log OK "$rel"
+  else
+    log FAIL "$rel"
+  fi
+done
 
 log INFO "Done"
