@@ -105,5 +105,9 @@
     "svelte",
     "nunjucks"
   ],
-  "eslint.useFlatConfig": true
+  "eslint.useFlatConfig": true,
+  "eslint.run": "onSave",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
 }
