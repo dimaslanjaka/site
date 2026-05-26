@@ -1,7 +1,7 @@
 // Run original postinstall commands in a cross-platform way and suppress non-zero exit.
 const { spawn } = require('child_process');
-const path = require('path');
-
+const path = require('upath');
+const fs = require('fs-extra');
 const cwd = process.env.INIT_CWD || process.cwd();
 
 function run(command, args = [], opts = { stdio: 'inherit' }) {
@@ -82,11 +82,27 @@ async function buildWorkspace() {
   console.log(`hexo-theme-flowbite workspace ${flowbiteTheme ? 'found at ' + flowbiteTheme.location : 'not found'}`);
 
   if (flowbiteTheme?.location && hexoThemes?.location) {
-    const tarballPath = path.resolve(hexoThemes.location, 'releases/hexo-theme-flowbite.tgz');
+    const tarballPath = path.join(hexoThemes.location, 'releases/hexo-theme-flowbite.tgz');
     const relativePath = path.relative(cwd, tarballPath);
-    console.log(`Packing hexo-theme-flowbite to ${relativePath}...`);
-    await run('yarn', ['workspace', 'hexo-themes', 'run', 'build'], { stdio: 'inherit' });
-    await run('yarn', ['workspace', 'hexo-themes', 'run', 'pack'], { stdio: 'inherit' });
+    if (!process.env.SKIP_BUILD || !(await fs.pathExists(tarballPath))) {
+      console.log(`Packing hexo-theme-flowbite to ${relativePath}...`);
+      await run(
+        'run-c',
+        [
+          '--pattern',
+          'hexo-renderers/src/**/*',
+          '--pattern',
+          'yarn.lock',
+          '--exec',
+          'yarn workspace hexo-renderers run build'
+        ],
+        { stdio: 'inherit' }
+      );
+      if (!(await fs.pathExists(tarballPath))) {
+        console.error(`Tarball not found at ${tarballPath} after packing. Skipping local installation.`);
+        return;
+      }
+    }
     console.log(`Executing hexo-theme-flowbite from ${relativePath}...`);
     await run('npx', ['-y', 'hexo-theme-flowbite@' + tarballPath, '--debug'], { stdio: 'inherit' });
   } else {
