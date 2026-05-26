@@ -51,6 +51,15 @@ async function configLoader() {
   await run('node', [path.join(__dirname, '_config.loader.cjs')], { stdio: 'inherit' });
 }
 
+async function findExistingPath(candidates) {
+  for (const candidate of [...new Set(candidates)]) {
+    if (await fs.pathExists(candidate)) {
+      return candidate;
+    }
+  }
+  return null;
+}
+
 async function main() {
   try {
     await configLoader();
@@ -82,7 +91,17 @@ async function buildWorkspace() {
   console.log(`hexo-theme-flowbite workspace ${flowbiteTheme ? 'found at ' + flowbiteTheme.location : 'not found'}`);
 
   if (flowbiteTheme?.location && hexoThemes?.location) {
-    const tarballPath = path.join(hexoThemes.location, 'releases/hexo-theme-flowbite.tgz');
+    const tarballCandidates = [
+      path.resolve(hexoThemes.location, 'releases/hexo-theme-flowbite.tgz'),
+      path.resolve(cwd, hexoThemes.location, 'releases/hexo-theme-flowbite.tgz'),
+      path.resolve(__dirname, '..', '..', '..', hexoThemes.location, 'releases/hexo-theme-flowbite.tgz')
+    ];
+    const tarballPath = await findExistingPath(tarballCandidates);
+    if (!tarballPath) {
+      console.error('Tarball not found in any candidate location. Skipping local installation.');
+      console.error(tarballCandidates.map((candidate) => `- ${candidate}`).join('\n'));
+      return;
+    }
     const relativePath = path.relative(cwd, tarballPath);
     if (!process.env.SKIP_BUILD || !(await fs.pathExists(tarballPath))) {
       console.log(`Packing hexo-theme-flowbite to ${relativePath}...`);
