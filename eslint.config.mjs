@@ -6,10 +6,20 @@ export default [
   ...base,
   { ignores: ['node_modules/', 'dist/', 'public/', 'themes/navy/source/js/vendor/'] },
   {
-    files: ['**/*.cjs', '**/*.mjs'],
+    files: ['**/*.mjs'],
     languageOptions: {
       ecmaVersion: 'latest',
       sourceType: 'module',
+      globals: {
+        ...globals.node
+      }
+    }
+  },
+  {
+    files: ['**/*.cjs'],
+    languageOptions: {
+      ecmaVersion: 'latest',
+      sourceType: 'commonjs',
       globals: {
         ...globals.node
       }
