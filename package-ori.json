@@ -6,9 +6,9 @@
     "version": "7.3.0"
   },
   "scripts": {
-    "start": "clear && hexo server",
-    "build": "clear && hexo generate",
-    "clean": "clear && hexo clean && rimraf tmp",
+    "start": "hexo server",
+    "build": "hexo generate",
+    "clean": "hexo clean && rimraf tmp",
     "clean:post": "rimraf source/_posts source/page/random && git restore source/_posts",
     "random-post": "node random-post.cjs",
     "postinstall": "node _config.loader.cjs && npx hexo-theme-flowbite",

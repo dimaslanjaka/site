@@ -4,16 +4,16 @@
   "private": true,
   "scripts": {
     "start": "npm run server",
-    "build": "clear && hexo generate --debug",
-    "clean": "clear && hexo clean",
+    "build": "hexo generate --debug",
+    "clean": "hexo clean",
     "clean:post": "rimraf source/_posts source/page/random && git restore source/_posts",
-    "server": "clear && hexo server -p 4000 --debug --ssl",
+    "server": "hexo server -p 4000 --debug --ssl",
     "serve-static": "php -S localhost:4000 -t public/",
     "update:ncu": "npm-check-updates -u",
     "random-post": "node random-post.cjs",
     "resolve": "node postinstall.cjs",
     "post:copy": "node init-source-posts.cjs && npm run clean && sbg post copy",
-    "render-cache": "clear && hexo render-cache --debug"
+    "render-cache": "hexo render-cache --debug"
   },
   "hexo": {
     "version": "8.1.2"
@@ -57,7 +57,7 @@
   "license": "ISC",
   "resolutions": {
     "@types/git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/ed17f70eb7444d24bd8eb984a4afe9fd64652838/release/git-command-helper.tgz",
-    "binary-collections": "https://github.com/dimaslanjaka/bin/raw/129add847aeecf4901139ebe2dd71c650732d0e0/releases/bin.tgz",
+    "binary-collections": "https://github.com/dimaslanjaka/bin/raw/30a13ca208b481fc32f9ece7b6da64d0a12b875d/releases/bin.tgz",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/78b09a1f799430fb251c1b438ec56ce7957674f4/release/cross-spawn.tgz",
     "git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/ed17f70eb7444d24bd8eb984a4afe9fd64652838/release/git-command-helper.tgz",
     "hexo-adsense": "https://github.com/dimaslanjaka/hexo-adsense/raw/dc2adb281b66ce7efb8087cbb5235664e84344a1/release/hexo-adsense.tgz",
@@ -75,8 +75,8 @@
     "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/44e5c7b79b4e60f8c2d34857c27b8ce677d7493e/packages/sbg-utility/release/sbg-utility.tgz",
     "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/5a35b0a691f24095cb761878ce98f18a8b5b8566/packages/static-blog-generator/release/static-blog-generator.tgz",
     "warehouse": "https://github.com/dimaslanjaka/hexo/raw/65bbfe29d65b55320eb61bd263f16e1519c6c1b0/releases/warehouse.tgz",
-    "hexo-theme-flowbite": "https://github.com/dimaslanjaka/hexo-themes/raw/d533780e8488d09f37daf858bb6ab06e40060890/releases/hexo-theme-flowbite.tgz",
+    "hexo-theme-flowbite": "https://github.com/dimaslanjaka/hexo-themes/raw/fe630e2f0843c926998e38e0d9b0dff2a813e7b3/releases/hexo-theme-flowbite.tgz",
     "hexo-renderers": "https://github.com/dimaslanjaka/hexo-renderers/raw/87e0c2c3fbcd588fdcec75a59dbca31f9d913e4b/release/hexo-renderers.tgz",
-    "@dimaslanjaka/eslint-base-config": "https://github.com/dimaslanjaka/eslint-base-config/raw/0a7b60c561c05091b49b0701e7da2bc4f275b828/release/dimaslanjaka-eslint-base-config.tgz"
+    "@dimaslanjaka/eslint-base-config": "https://github.com/dimaslanjaka/eslint-base-config/raw/69ca996fdeaac42c93dd590124996eff58b5d6c2/release/dimaslanjaka-eslint-base-config.tgz"
   }
 }
